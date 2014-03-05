@@ -4,7 +4,7 @@ description: ""
 author: "Jonny Burch"
 
 url: "http://jonnyburch.github.io"
-baseurl: /
+baseurl: http://jonnyburch.github.io
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
