@@ -1,4 +1,9 @@
-jonnyburch.github.io
-====================
+# jonnyburch.com
 
-This is a test of GitHub pages, which I might use for my personal website.
+This is my new website...
+
+To run:
+
+`jekyll serve --watch --baseurl ''`
+
+Docs: https://github.com/m3xm/hikari-for-Jekyll
