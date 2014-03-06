@@ -41,7 +41,7 @@ small { font-size: 50%; }
 p, small, blockquote { -webkit-font-smoothing: antialiased; }
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
-a         { color: #39f; }
+a         { color: #222; }
 a:hover   { color: #444; }
 hr { 
   margin: 3em 0; 
@@ -299,16 +299,16 @@ footer small { text-transform: uppercase; }
 /*****************************************************************************/
 
 
-ul.posts { color: #236CC1; overflow: hidden; }
-ul.posts li { border-bottom: 1px solid #4492EC; }
+ul.posts { color: #ccc; overflow: hidden; }
+ul.posts li { border-bottom: 4px solid #fff; }
 ul.posts li:last-child { border-bottom: none; }
-ul.posts li .p-wrap { background: #589FF1; padding: 50px 40px; transition: all .15s ease-in; }
-ul.posts li .p-wrap:hover { background: #67AAF7; padding-left: 50px; }
-ul.posts li .p-wrap:active { background: #569BEA; }
+ul.posts li .p-wrap { background: #f1f1f1; padding: 70px 40px; transition: all .15s ease-in; }
+ul.posts li .p-wrap:hover { background: #ddd; padding-left: 50px; }
+ul.posts li .p-wrap:active { background: #ddd; }
 ul.posts li .p-wrap:hover::after { content:'\2192'; margin-left: 10px; }
 ul.posts li .p-wrap p { display: inline; margin-bottom: 0; }
-ul.posts li .date { color: #2671C8; padding-right: 20px; }
-ul.posts li a { color: #fff; text-decoration: none; }
+ul.posts li .date { color: #777; padding-right: 20px; }
+ul.posts li a { color: #f1f1f1; text-decoration: none; }
 
 
 /*****************************************************************************/

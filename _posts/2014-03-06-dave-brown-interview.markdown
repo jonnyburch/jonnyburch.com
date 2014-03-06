@@ -1,5 +1,6 @@
 ---
 layout: post-img
+menu_title: Interview with Dave Brown
 title:  "An interview with Dave Brown, AKA The Mighty Boosh's Ape 'Bollo'"
 date:   2011-06-05 12:01:00
 img_url: bollo.jpg

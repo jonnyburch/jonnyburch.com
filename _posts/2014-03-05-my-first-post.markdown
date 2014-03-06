@@ -1,7 +1,10 @@
 ---
 layout: post
+menu_title: I deleted my website
 title:  "I deleted my website... again!"
 date:   2014-03-05 02:58:00
+img_url: 222.gif
+
 ---
 
 It used to be full of design and wotnot. Some of the work was old and crappy. Some of it was just old. I didn’t feel like much of it represented me any more.
