@@ -43,6 +43,14 @@ ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
 a         { color: #39f; }
 a:hover   { color: #444; }
+hr { 
+  margin: 3em 0; 
+  background-color: #eee; 
+  color: #eee;
+  text-align: center; 
+  border: 0;
+  height: 1px;
+  }
 /*a:visited { color: #31f; }*/
 
 
@@ -70,6 +78,7 @@ header .h-wrap h1.title {
   padding: 0;
   font-size: 26px;
   font-weight: normal;
+  font-family: 'Lora', Georgia, serif;
 }
 
 header .h-wrap h1.title a {
@@ -182,7 +191,7 @@ header .h-wrap .close .lines::after {
   max-height: 0;
   overflow: hidden;
   padding: 0px 40px;
-  background: #fafafa;
+  background: #fff;
   border-bottom: 0px solid #f1f1f1;
   -webkit-transition: max-height .35s ease, 
                       padding-top .35s ease, 
@@ -309,10 +318,13 @@ ul.posts li a { color: #fff; text-decoration: none; }
 /*****************************************************************************/
 
 
+.header-image {width:100%; height: 500px; margin: 0 auto;}
+.header-image h1 {color: #fff; font-size: 780%; padding-top: 150px; text-align: center;}
+
 section#single-wrap {
   width: 100%;
   max-width: 780px;
-  margin: 20px auto;
+  margin: 0 auto;
   font-family: 'Lora', Georgia, serif;
   background: #fff;
   z-index: 1;
