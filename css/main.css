@@ -586,7 +586,7 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   ul.posts li .p-wrap { padding: 30px; }
   ul.posts li .p-wrap p { display: block; }
   ul.posts li .p-wrap:hover { padding-left: 40px; }
-  ul.posts li .p-wrap:hover::after { content: none; margin: 0; }
+  ul.posts li .p-wrap .p-linkholder:hover::after { content: none; margin: 0; }
   .highlight { margin: 30px 40px 40px; }
   .highlight code.html::before, 
   .highlight code.css::before,
