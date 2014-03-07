@@ -4,7 +4,7 @@ menu_title: I deleted my website
 title:  "I deleted my website... again!"
 categories: notes
 date:   2014-03-05 02:58:00
-img_url: 222.gif
+img_url: fff.gif
 
 ---
 
