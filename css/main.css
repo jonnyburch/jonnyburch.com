@@ -359,8 +359,8 @@ ul.posts li .interviews {}
 /*****************************************************************************/
 
 
-.header-image {width:100%; height: 500px; margin: 0 auto;}
-.header-image h1 {color: #fff; font-size: 780%; padding-top: 150px; text-align: center;}
+.header-image {width:100%; height: 500px; margin: 0 auto;background-size: auto 100%}
+.header-image h1 {color: #fff; font-size: 580%; padding-top: 120px; text-align: center;line-height: 1.1;margin: 0 100px;}
 
 section#single-wrap {
   width: 100%;
@@ -595,6 +595,9 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   }
   footer {text-align: center}
 
+  .header-image {height: 300px;}
+  .header-image h1 {font-size: 380%; padding-top: 60px;margin: 0 30px;}
+
 }
 
 /* Viewport width < 480px */
@@ -632,5 +635,8 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   section#single-wrap blockquote { padding: 0 20px; border-left: 4px solid #39f; }
 
   .highlight { padding: 10px 5px; margin: 30px 20px 40px; }
+
+  .header-image {height: 200px;}
+  .header-image h1 {font-size: 280%; padding-top: 40px;margin: 0 20px;}
 
 }
