@@ -4,15 +4,15 @@ menu_title: Vince Frost
 title:  "An interview with British ex-pat design legend Vince Frost"
 categories: interviews
 date:   2011-08-06 12:01:00
-img_url: vince.jpg
-shout: * Frost
+img_url: frost.jpg
+shout: Frost
 ---
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/). 
+_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
 
 _Check out Vince’s work at [frostdesign.com.au](http://www.frostdesign.com.au)._
 
-----
+---- 
 
 
 _In ShellsuitZombie’s first international Skype interview ever we managed to get hold of Vince Frost, acclaimed designer, ex pentagram associate, winner of countless awards and founder of Frost design, an Australian powerhouse of fantastic creative work. The time difference meant that Vince was eating breakfast and this reporter was in his pajamas (don’t ever say we aren’t professional) but despite that we managed to get through discussions on his work, advice for those starting out and his feelings on the royal family._

@@ -1,22 +1,12 @@
 ---
-layout: default
+layout: post
 title: Homepage
 ---
 
-<div id="home">
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li itemscope itemtype="http://schema.org/BlogPosting">
-        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-          <div class="p-wrap" style="background: URL('{{ site.baseurl }}/assets/img/{{ post.img_url }}') center center">
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="date"
-                itemprop="datePublished">
-              {{ post.date | date_to_string }}
-            </time>
-            <p itemprop="name headline">{{ post.menu_title }}</p>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+# Hello, I'm Jonny.
+
+I’m a designer from London. I work a lot on [Osper](http://osper.com), a little company with huge plans to change the face of finances for young people.
+
+I’m also co-founder of [this agency](http://zlbs.co), which grew out of the side of a [magazine for graduate designers](http://shellsuitzombie.co.uk) that I started nearly five years ago now. It’s been quite a journey.
+
+A while ago I also worked for some design agencies in London and Stockholm and even designed books for a bit. Which was nice.
