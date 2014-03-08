@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: I deleted my website
 title:  "I deleted my website... again!"
 categories: notes

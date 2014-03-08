@@ -100,9 +100,14 @@ header .h-wrap h1.title, header .h-wrap h1.menu {
 
 header .h-wrap h1.title {
   font-size: 14px;
-  color: #ff3366;
+  color: #ccc;
   font-weight: bold;
   clear:both;
+}
+
+header .h-wrap h1.title span {
+  margin-right: 1em;
+  font-weight:normal;
 }
 
 header .h-wrap h1.menu {
@@ -361,6 +366,8 @@ ul.posts li .interviews {}
 
 .header-image {width:100%; height: 500px; margin: 0 auto;background-size: auto 100%}
 .header-image h1 {color: #fff; font-size: 580%; padding-top: 120px; text-align: center;line-height: 1.1;margin: 0 100px;}
+
+.header-image-small {margin-top: 40px;}
 
 section#single-wrap {
   width: 100%;
