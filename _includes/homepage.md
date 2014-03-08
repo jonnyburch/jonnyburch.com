@@ -1,6 +1,4 @@
 ---
-layout: page
-title:  "I did a thingy"
 ---
 
 # Hello, I'm Jonny.
