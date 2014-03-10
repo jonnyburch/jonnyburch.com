@@ -25,7 +25,7 @@ __So who started its nice that?__
 
 WH: I started it as a response to a university brief. No grand plan, just trying to get a good degree really. It was a great way to remember peoples names and documenting the people who's work I was looking at anyway.
 
-__We were working on a project called 'If you could' at the time while at Brighton. We were having all these conversations with creatives that we liked the work of at time. But then we graduated and got proper jobs. It was the January after that, January 2009, that we say It's Nice That officially started.__
+We were working on a project called 'If you could' at the time while at Brighton. We were having all these conversations with creatives that we liked the work of at time. But then we graduated and got proper jobs. It was the January after that, January 2009, that we say It's Nice That officially started.
 
 AB: Yeah that's when I got properly involved.
 
