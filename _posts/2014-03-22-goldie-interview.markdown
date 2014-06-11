@@ -2,7 +2,7 @@
 layout: post
 menu_title: Goldie
 title:  "An interview with Drum n Bass legend Goldie"
-categories:
+categories: interviews
 date:   2014-03-22 12:01:00
 img_url: goldie.jpg
 shout: Goldie
