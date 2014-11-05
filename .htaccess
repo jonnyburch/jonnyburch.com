@@ -1,1 +1,3 @@
-redirect /~account/£.html https://www.osper.com/🎁/jonny
+RewriteEngine On
+        RewriteCond %{HTTP_HOST} !jonnyburch.com/£ [NC]
+        RewriteRule ^(.*)$ https://www.osper.com/🎁/jonny [L,R=301]
