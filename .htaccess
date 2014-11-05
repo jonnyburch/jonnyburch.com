@@ -1,3 +1,1 @@
-RewriteEngine On
-        RewriteCond %{HTTP_HOST} !jonnyburch.com/£ [NC]
-        RewriteRule ^(.*)$ https://www.osper.com/🎁/jonny [L,R=301]
+Redirect /£ https://osper.com/🎁/jonny
