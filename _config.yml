@@ -9,8 +9,11 @@ baseurl: http://jonnyburch.github.io
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
-pygments: true
+highlighter: pygments
 
 # Google Analytics
 ga_domain: 
 ga_tracking_id:
+
+gems:
+  - jekyll-redirect-from
