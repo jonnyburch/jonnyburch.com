@@ -107,27 +107,26 @@ header .h-wrap h1.title, header .h-wrap h1.menu {
 }
 
 header .h-wrap h1.title {
-  font-size: 14px;
+  font-size: 18px;
   color: #ccc;
   font-weight: bold;
   clear:both;
 }
 
 header .h-wrap h1.title span {
-  margin-right: 1em;
   font-weight:normal;
 }
 
 header .h-wrap h1.menu {
   margin-top: 6px;
-  font: 14px 'Open Sans', sans-serif;
+  font: 18px 'Open Sans', sans-serif;
 }
 
 header .h-wrap h1.title a {
   color: #333;
   text-decoration: none;
   border-bottom: none;
-  margin-right: 1em;
+  margin-right: 0.3em;
 }
 
 header .h-wrap h1.menu a {
