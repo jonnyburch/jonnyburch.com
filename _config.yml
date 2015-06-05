@@ -4,8 +4,8 @@ description: "Things I do when I'm doing things I'm not meant to be doing"
 
 author: "Jonny Burch"
 
-url: "http://jonnyburch.github.io"
-baseurl: http://jonnyburch.github.io
+url: "https://jonnyburch.github.io"
+baseurl: https://jonnyburch.github.io
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
