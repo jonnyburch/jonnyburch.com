@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-img
 menu_title: Goldie
 title:  "An interview with Drum n Bass legend Goldie"
 categories: interviews
