@@ -71,12 +71,20 @@ hr {
 /*a:visited { color: #31f; }*/
 
 
+
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
 
+/* basic list */
+
+ul.list-basic {padding: 20px 0 !important;}
+ul.list-basic li {list-style-type: none !important;padding-bottom: 10px;}
+ul.list-basic li p {margin: 0;}
+
+h1.small {font: 14px 'Open Sans', sans-serif !important; font-weight: bold !important;}
 
 /* Header */
 
