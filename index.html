@@ -2,24 +2,18 @@
 layout: page
 title: Homepage
 ---
+<br>
+<p>I’m Jonny. I head up design at <a href="https://osper.com" target="_blank">Osper</a>, where I'm helping to change the face of money management for young people.</p>
 
-<p>I’m Jonny. I head up design at <a href="https://osper.com" target="_blank">Osper</a>, a little company with huge plans to change the face of finances for young people.</p>
+<p>I also co-founded <a href="http://zlbs.co" target="_blank">this design agency</a>, which grew out of the side of a <a href="http://shellsuitzombie.co.uk" target="_blank">magazine for graduate designers</a> that I started years ago. A while ago I also worked for some design agencies in London and Stockholm and even designed books for a bit, which was nice.</p>
 
-<p>I’m also co-founder of <a href="http://zlbs.co" target="_blank">this agency</a>, which grew out of the side of a <a href="http://shellsuitzombie.co.uk" target="_blank">magazine for graduate designers</a> that I started years ago. A while ago I also worked for some design agencies in London and Stockholm and even designed books for a bit, which was nice.</p>
-
-<p>I'm in all <a href="https://instagram.com/jonnyburch/">the</a> <a href="https://twitter.com/jonnyburch">usual</a> <a href="https://uk.linkedin.com/in/jonnyburch">places</a>.</p>
+<p>I have, at various points, interviewed
+	{% for post in site.categories.interviews %}
+	  <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a>, 
+	{% endfor %}
+ and more I'm sure. For the rest of my waffle there's Medium (below).</p>
 
 <p><script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@jonnyburch">Jonny Burch</a></p>
 
-<h1 class="title small">Old interviews and writing</h1>
 
-<ul class="list-basic">
-	{% for post in site.posts %}
-	  <li>
-	    
-	      <p><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a></p>
-	    
-	  </li>
-	{% endfor %}
-</ul>
 
