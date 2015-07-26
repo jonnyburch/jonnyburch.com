@@ -42,9 +42,9 @@ p, small, blockquote { -webkit-font-smoothing: antialiased; }
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
 a         { 
-  color: #222; 
-  border-bottom: 1px solid #ff3366; 
-  padding-bottom: 1px;
+  color: #111; 
+  border-bottom: 1px solid #dddddd; 
+  padding-bottom: 0px;
   text-decoration:none;
   -webkit-transition: all 200ms;
   -moz-transition: all 200ms;
@@ -56,8 +56,7 @@ a.noborder {
 }
 
 a:hover   { 
-  color: #ff3366;
-  padding-bottom:3px; 
+  padding-bottom:2px; 
 }
 
 hr { 
@@ -573,6 +572,15 @@ section#single-wrap img {
   padding: 4px 10px; 
   border-radius: 3px 3px 0 0;
 }
+
+/* network-specific links */
+a.osper {border-bottom: 1px solid #ff8300; color: #ff8300;}
+a.ffh {border-bottom: 1px solid #ffb27d; color: #ffb27d;}
+a.twitter {border-bottom: 1px solid #4099ff; color: #4099ff;}
+a.linkedin {border-bottom: 1px solid #0077b5; color: #0077b5;}
+a.dribbble {border-bottom: 1px solid #ff3366; color: #ff3366;}
+a.insta {border-bottom: 1px solid #8c7c4a; color: #8c7c4a;}
+
 
 
 /*****************************************************************************/
