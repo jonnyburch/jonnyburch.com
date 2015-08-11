@@ -15,5 +15,4 @@ highlighter: pygments
 ga_domain: 
 ga_tracking_id:
 
-gems:
-  - jekyll-redirect-from
+gems: ['jekyll-less']
