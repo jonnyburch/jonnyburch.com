@@ -44,8 +44,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
+  font-weight: 700;
   color: #333;
+  font-family: 'Work Sans', sans-serif;
 }
 
 p { margin: 1em 0; }
@@ -476,9 +477,9 @@ section#single-wrap h6 {
 }
 
 section#single-wrap h1 { font-size: 150%; }
-section#single-wrap h2 { font-size: 140%; font-style: italic; }
-section#single-wrap h3 { font-size: 130%; font-weight: lighter; }
-section#single-wrap h4 { font-size: 120%; font-weight: lighter; text-decoration: underline; text-align: center; }
+section#single-wrap h2 { font-size: 140%;}
+section#single-wrap h3 { font-size: 130%;}
+section#single-wrap h4 { font-size: 120%; text-decoration: underline; text-align: center; }
 section#single-wrap h5 { font-size: 110%; }
 section#single-wrap h6 { font-size: 100%; }
 section#single-wrap p { line-height: 160%; }
