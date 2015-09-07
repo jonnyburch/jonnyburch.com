@@ -1,0 +1,111 @@
+---
+layout: post-img-small
+menu_title: Osper
+title:  Osper
+categories: work
+date:   2011-03-09 12:01:00
+img_small_url: work/osp-cardapp.jpg
+title: Osper – Building a Bank for Children
+byline: 
+---
+
+_Osper is the biggest and most involved project that I’ve ever been involved with. It’s been a hugely enriching experience to be able to design a product that I can honestly say is changing fundamental aspects of people’s lives. As such, this might be quite a long post._
+
+Skip to: 
+
+1. [Intro](#intro)
+2. [The Osper Mission](#mission)
+3. [The Osper Brand](#brand)
+
+<hr id="intro">
+<div>
+	<img src="{{ site.baseurl }}/assets/img/work/mumsnet.jpg">
+	<small>Workshops with young people (I'm behind the camera)</small>
+</div>
+
+#1. Intro
+
+Osper’s mission is a simple one – to create a generation of financially confident adults by starting them on that financial journey young and encouraging hands-on ‘learning by doing’.
+
+At its core Osper consists of a prepaid debit card issued to 8-18s and mobile banking apps for them to manage and understand their money. A seperate login for parents allows them to load money, lock cards and oversee their family’s spending.
+
+Designing a simple, safe and trustworthy service that young people want to use and parents can feel comfortable with is a big challenge, which started with the naming and design of a modern timeless brand in parallel with hiding huge amounts of complexity behind simple UIs in the launch version of the Osper App.
+
+To achieve this, in the last 3 years we’ve spent countless hours with hundreds of families, helping to inform a service which is now attracting tens of thousands of users both young and old(er), as well as designing the product from UX, UI and visual design to designing the cards and packaging, growth, marketing and brand peripherals and supporting the process of raising over $10m in seed and series A funding. It's been pretty hectic.
+
+Since launching in June 2014, Osper has seen 20%+ month on month growth with 30-40% coming from referrals, proving not only a that it fills a real need for families in the UK but that the simple design and positioning of the product is a real talking point for children and parents alike.
+
+<hr id="mission">
+<div>
+	<img src="{{ site.baseurl }}/assets/img/work/mission.jpg">
+	<small>Some slides from the internal Osper brand bible</small>
+</div>
+
+#2. The Osper Mission
+
+At the core of the Osper mission are the beliefs that:
+
+1. the best way to learn is by making mistakes
+2. the best time to make a mistake is before it costs you too dearly
+3. children are capable of amazing things 
+
+These heuristics guide how we talk about Osper _(trusting)_, how we talk to users _(‘we're your biggest fan’)_ and how we build features _(no parenting tools, just useful features to help children gain money confidence)_.
+
+We try to live our philosophy, so the internal culture at Osper is very important. Early on I developed three rules which I try to follow even when it's hard to do so in the face of other business needs.
+
+[THREE RULES]
+
+These rules even extends to our hiring policy – in fact one major thing Osper looks for in its Osperteers™ is belief in the mission (I write about it in [this blog post](https://medium.com/osper/people-that-care-82e7561e3607)).
+
+
+
+<hr id="brand">
+
+<div>
+	<img src="{{ site.baseurl }}/assets/img/work/logo.jpg">
+	<small>The Osper Logo</small>
+</div>
+
+###3. The Osper Brand
+
+From the mission comes the brand. As cheesy as it sounds, we wanted a mark that was simple enough to be timeless (and easily reproducible) but I also wanted to find some mission in it too. So the Osper logo is a simple infinite loop - representing not only the infinite potential of children but the feedback loop that we think is so important in learning experiences.
+
+<img src="{{ site.baseurl }}/assets/img/work/brand.jpg">
+<small>The Osper Brand fonts and colours</small>
+
+Alongside the brand mark, a clean, modern set of humanist sans-serif fonts continue the feeling of a new, forward-thinking brand. Museo Sans is used throughout our product, complementing the 'Brandon Text’ used in our logo and in more considered and briefer layouts.
+
+Orange was chosen for its positive, gender and association-agnostic feel. I also picked a set of bold secondary colours to compliment the orange (you can have too much of a good thing…)
+
+###Designing Plastic
+
+[gif of cards]
+
+I originally explored a variety of options when thinking about the Osper Card – from a range of illustrated cards to pantone-esque colour variations. But I always ended up at a simple white-on-orange design that would look equally good in a wallet or spotted from afar. It helped that pretty much anyone could draw an osprey card in 2 lines.
+
+What we discovered after launching was that people agreed. While we often hear that it would be ‘cool to be able to pick a photo to print on the card’, the joy on the face of a 10 year old at even having his own plastic means we don’t have to work hard to sell it. And definitely in this early stage, having the brand mark and colour front centre has been a valuable asset in organic acquisition.
+
+We’re now working on various ideas around the cards (the first being introducing contactless!) so the journey of what’s in an Osper user’s wallet is only just beginning.
+
+
+<!-- ###Mobile Only, iOS + Android
+
+###Learning about families
+
+###Launching and explaining Osper
+
+###KYC
+
+###Feature Testing
+
+###Gifting
+
+###Referrals
+
+###Savings 
+
+<div>
+	<img src="{{ site.baseurl }}/assets/img/work/savings.jpg">
+</div>
+<small>The first version of Osper savings for children</small> -->
+

@@ -54,6 +54,7 @@ small { font-size: 50%; }
 p, small, blockquote { -webkit-font-smoothing: antialiased; }
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
+
 a         { 
   color: #111; 
   border-bottom: 1px solid #dddddd; 
@@ -109,6 +110,7 @@ header .h-wrap {
   padding: 60px 40px 40px;
   background: #eee;
   margin: 0 auto;
+  text-align: center;
 }
 
 header .h-wrap h1.title, header .h-wrap h1.menu {
@@ -313,7 +315,7 @@ header .h-wrap .close .lines::after {
 
 /* Footer */
 
-footer { padding: 40px; text-align: left; }
+footer { padding: 40px; text-align: center; }
 footer small { text-transform: uppercase; color: #999;}
 footer a {border-bottom: none; color: #555;}
 
@@ -384,7 +386,7 @@ ul.posts li.work p.blurb {font-size: 30px; font-weight: 300; display: block}
 /*****************************************************************************/
 
 
-.header-image {width:100%; height: 500px; margin: 0 auto;background-size: auto 100%}
+.header-image {width:100%; height: 500px; margin: 0 auto;background-size: auto 100%;}
 .header-image h1 {color: #fff; font-size: 580%; padding-top: 120px; text-align: center;line-height: 1.1;margin: 0 100px;}
 
 .header-image-small {margin-top: 40px;}
@@ -399,14 +401,14 @@ section#single-wrap {
 }
 
 section#single-wrap .single-content {
-  padding: 0 40px;
+  padding: 0 0px;
   overflow: hidden;
 }
 
 section#single-wrap .feat {
   text-align: center;
-  border-bottom: 1px dotted #E0E1E6;
-  margin: 0 20px 50px;
+  /*border-bottom: 1px dotted #E0E1E6;*/
+  margin: 0 0 50px;
 }
 
 section#single-wrap .feat a {
@@ -502,8 +504,19 @@ section#single-wrap blockquote p {
 section#single-wrap img {
   width: 100%;
   height: 100%;
+  margin: 10px 0;
 }
 
+section#single-wrap img.left {
+  width: 48%;
+  height: 48%;
+  float:left;
+}
+section#single-wrap img.right {
+  width: 48%;
+  height: 48%;
+  float:right;
+}
 /* pagination */
 
 #prev,
@@ -615,7 +628,7 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
 @media only screen and (max-width : 919px) {
 
   body { font-size: 17px; }
-  header .h-wrap { padding: 60px 30px 40px; text-align: center;}
+  header .h-wrap { padding: 60px 30px 40px;}
   header .h-wrap .menu-icon { margin-top: 2px; }
   header .h-wrap .h-container {}
   #prev, #next { display: none; } 
@@ -629,7 +642,6 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   .highlight code.js::before {
     display: none; 
   }
-  footer {text-align: center}
 
   .header-image {height: 300px;}
   .header-image h1 {font-size: 380%; padding-top: 60px;margin: 0 30px;}
@@ -649,7 +661,7 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   #off-canvas #bio { width: 100%; }
   #off-canvas #avatar img { width: 120px; }
   section#single-wrap { margin: 0 auto; }
-  section#single-wrap .single-content { padding: 0 20px; }
+  section#single-wrap .single-content { padding: 0 0px; }
   section#single-wrap h1.page-title { padding: 0 20px; margin: 0 0 30px; }
   section#single-wrap p { padding: 0 20px; }
 
@@ -666,6 +678,12 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   section#single-wrap h6 { 
     padding: 0 20px; 
     margin-top: 30px;
+  }
+
+  section#single-wrap img.left, section#single-wrap img.right {
+    width:100%;
+    height:100%;
+    padding-bottom: 5px;
   }
 
   section#single-wrap blockquote { padding: 0 20px; border-left: 4px solid #39f; }
