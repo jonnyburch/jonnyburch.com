@@ -366,14 +366,18 @@ footer a {border-bottom: none; color: #555;}
 
 
 ul.posts { color: #ccc; overflow: hidden; }
-ul.posts li { border-bottom: 1px solid #eee; background-color: #eee;}
-ul.posts li .p-wrap { background: #f1f1f1; padding: 100px 40px; transition: all .15s ease-in; }
+ul.posts li { border-bottom: 1px solid #eee; background-color: #fff;}
+ul.posts li .p-wrap {text-align: center; background: #ffffff; padding: 60px 40px; transition: all .15s ease-in; }
+ul.posts li .large {padding: 100px 40px;}
 ul.posts li .p-wrap:hover { background: #ddd; opacity: 0.8}
 ul.posts li .p-wrap:active { background: #ddd; }
-ul.posts li .p-wrap .p-linkholder:hover::after {}
-ul.posts li .p-wrap p { display: inline; margin-bottom: 0; font-size: 60px; margin: 0.2em 0; font-weight: 700;}
-ul.posts li .date { color: #ccc; padding-right: 20px; font-size: 14px;}
-ul.posts li a { color: #fff; text-decoration: none; }
+ul.posts li .p-wrap .p-linkholder .image {background-size:cover; background-position: center; margin: 0 auto; height: 100px; width: 100px; border-radius: 100px; margin-bottom: 20px;}
+ul.posts li .p-wrap .p-linkholder .text {}
+ul.posts li .p-wrap p, ul.posts li .p-wrap p a { color: #fff; display: inline; margin-bottom: 0; font-size: 40px; margin: 0.2em 0; font-weight: 700;}
+ul.posts li .p-wrap p.name {color: #444; display: inline; margin-bottom: 0; font-size: 30px; margin: 0.2em 0;font-weight: 700;}
+ul.posts li .p-wrap p.blurb {color: #444; font-size: 20px !important; margin: 0.2em 0; font-weight: 100;}
+ul.posts li .date { color: #444; padding-right: 20px; font-size: 14px;}
+ul.posts li a {text-decoration: none; }
 
 // ul.posts li.work a {color: #222;}
 
@@ -660,6 +664,12 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   #off-canvas.toggled { padding: 20px; }
   #off-canvas #bio { width: 100%; }
   #off-canvas #avatar img { width: 120px; }
+
+  ul.posts li .p-wrap .p-linkholder .image {margin-bottom: 10px; height: 70px; width: 70px;}
+  ul.posts li .p-wrap p.name {font-size: 25px; margin: 0.2em 0;}
+  ul.posts li .p-wrap p.blurb {font-size: 15px !important;}
+  ul.posts li .large {padding: 60px 20px;}
+
   section#single-wrap { margin: 0 auto; }
   section#single-wrap .single-content { padding: 0 0px; }
   section#single-wrap h1.page-title { padding: 0 20px; margin: 0 0 30px; }

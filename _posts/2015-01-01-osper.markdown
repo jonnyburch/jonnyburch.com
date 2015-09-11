@@ -3,9 +3,10 @@ layout: post-img-small
 menu_title: Osper
 title:  Osper
 categories: work
-date:   2011-03-09 12:01:00
+date:   2015-03-09 12:01:00
+img_url: work/piggy1.jpg
 img_small_url: work/osp-cardapp.jpg
-title: Osper – Building a Bank for Children
+title: Building a Bank for Children
 byline: 
 ---
 
