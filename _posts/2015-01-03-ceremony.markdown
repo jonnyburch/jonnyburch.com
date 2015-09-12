@@ -7,6 +7,7 @@ date:   2015-03-09 12:01:00
 img_url: work/save-the-dates-top.png
 title: Wedding Stationery
 byline: 
+menu_bg: F9CECE
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit sunt consectetur voluptatibus eius delectus. Culpa consectetur totam sapiente, quidem, quibusdam quas laboriosam possimus quam, ratione hic sed reiciendis accusantium, facilis._

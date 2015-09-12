@@ -8,6 +8,7 @@ img_url: zl_bg.jpg
 img_small_url: work/zl_bg.jpg
 title: Starting a boutique design agency
 byline: 
+menu_bg: CCEDAA
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit sunt consectetur voluptatibus eius delectus. Culpa consectetur totam sapiente, quidem, quibusdam quas laboriosam possimus quam, ratione hic sed reiciendis accusantium, facilis._

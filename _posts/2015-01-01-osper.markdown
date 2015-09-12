@@ -1,15 +1,19 @@
 ---
-layout: post-img-small
+layout: post-img
 menu_title: Osper
 title:  Osper
 categories: work
 date:   2015-03-09 12:01:00
 img_url: work/piggy1.jpg
+menu_bg: FFE5C9
 img_small_url: work/osp-cardapp.jpg
 title: Building a Bank for Children
-byline: 
+byline: Osper
 ---
 
+<div>
+	<img src="{{ site.baseurl }}/assets/img/work/osp-cardapp.jpg">
+</div>
 _Osper is the biggest and most involved project that I’ve ever been involved with. It’s been a hugely enriching experience to be able to design a product that I can honestly say is changing fundamental aspects of people’s lives. As such, this might be quite a long post._
 
 Skip to: 
@@ -21,8 +25,9 @@ Skip to:
 <hr id="intro">
 <div>
 	<img src="{{ site.baseurl }}/assets/img/work/mumsnet.jpg">
-	<small>Workshops with young people (I'm behind the camera)</small>
 </div>
+<p class="caption">Workshops with young people (I'm behind the camera)</p>
+
 
 #1. Intro
 
@@ -39,8 +44,9 @@ Since launching in June 2014, Osper has seen 20%+ month on month growth with 30-
 <hr id="mission">
 <div>
 	<img src="{{ site.baseurl }}/assets/img/work/mission.jpg">
-	<small>Some slides from the internal Osper brand bible</small>
 </div>
+<p class="caption">Some slides from the internal Osper brand bible</p>
+
 
 #2. The Osper Mission
 
@@ -64,15 +70,16 @@ These rules even extends to our hiring policy – in fact one major thing Osper 
 
 <div>
 	<img src="{{ site.baseurl }}/assets/img/work/logo.jpg">
-	<small>The Osper Logo</small>
 </div>
+<p class="caption">The Osper Logo</p>
+
 
 ###3. The Osper Brand
 
 From the mission comes the brand. As cheesy as it sounds, we wanted a mark that was simple enough to be timeless (and easily reproducible) but I also wanted to find some mission in it too. So the Osper logo is a simple infinite loop - representing not only the infinite potential of children but the feedback loop that we think is so important in learning experiences.
 
-<img src="{{ site.baseurl }}/assets/img/work/brand.jpg">
-<small>The Osper Brand fonts and colours</small>
+<div><img src="{{ site.baseurl }}/assets/img/work/brand.jpg"></div>
+<p class="caption">The Osper Brand fonts and colours</p>
 
 Alongside the brand mark, a clean, modern set of humanist sans-serif fonts continue the feeling of a new, forward-thinking brand. Museo Sans is used throughout our product, complementing the 'Brandon Text’ used in our logo and in more considered and briefer layouts.
 

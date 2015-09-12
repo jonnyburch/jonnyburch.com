@@ -8,7 +8,7 @@ title: Work
     {% for post in site.categories.work %}
       <li itemscope class="work" itemtype="http://schema.org/BlogPosting">
         <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-          <div class="p-wrap">
+          <div class="p-wrap" style="background-color: #{{ post.menu_bg }} !important">
             <div class="p-linkholder">
               <div class="image" style="background-image: url('{{ site.baseurl }}/assets/img/{{ post.img_url }}')"></div>
               <p class="name" itemprop="name headline">{{ post.menu_title }}</p>

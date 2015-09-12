@@ -366,17 +366,17 @@ footer a {border-bottom: none; color: #555;}
 
 
 ul.posts { color: #ccc; overflow: hidden; }
-ul.posts li { border-bottom: 1px solid #eee; background-color: #fff;}
+ul.posts li {background-color: #fff;}
 ul.posts li .p-wrap {text-align: center; background: #ffffff; padding: 60px 40px; transition: all .15s ease-in; }
 ul.posts li .large {padding: 100px 40px;}
-ul.posts li .p-wrap:hover { background: #ddd; opacity: 0.8}
+ul.posts li .p-wrap:hover {opacity: 0.6}
 ul.posts li .p-wrap:active { background: #ddd; }
 ul.posts li .p-wrap .p-linkholder .image {background-size:cover; background-position: center; margin: 0 auto; height: 100px; width: 100px; border-radius: 100px; margin-bottom: 20px;}
 ul.posts li .p-wrap .p-linkholder .text {}
 ul.posts li .p-wrap p, ul.posts li .p-wrap p a { color: #fff; display: inline; margin-bottom: 0; font-size: 40px; margin: 0.2em 0; font-weight: 700;}
-ul.posts li .p-wrap p.name {color: #444; display: inline; margin-bottom: 0; font-size: 30px; margin: 0.2em 0;font-weight: 700;}
-ul.posts li .p-wrap p.blurb {color: #444; font-size: 20px !important; margin: 0.2em 0; font-weight: 100;}
-ul.posts li .date { color: #444; padding-right: 20px; font-size: 14px;}
+ul.posts li .p-wrap p.name {color: #444; display: inline; margin-bottom: 0; font-size: 18px; margin: 0.2em 0;font-weight: 700;}
+ul.posts li .p-wrap p.blurb {color: #444; font-size: 18px !important; margin: 0.2em 0; font-weight: 400 !important;}
+ul.posts li .date { color: #444; padding-right: 18px; font-size: 14px;}
 ul.posts li a {text-decoration: none; }
 
 // ul.posts li.work a {color: #222;}
@@ -462,6 +462,13 @@ section#single-wrap p {
   padding: 0 40px;
 }
 
+section#single-wrap p.caption {
+  font-family: 'Work Sans', sans-serif;
+  opacity: 0.7;
+  font-size: 14px;
+  margin: 5px 0 10px;
+}
+
 section#single-wrap ul,
 section#single-wrap ol {
   padding: 10px 80px;
@@ -508,7 +515,7 @@ section#single-wrap blockquote p {
 section#single-wrap img {
   width: 100%;
   height: 100%;
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 section#single-wrap img.left {
@@ -666,8 +673,8 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   #off-canvas #avatar img { width: 120px; }
 
   ul.posts li .p-wrap .p-linkholder .image {margin-bottom: 10px; height: 70px; width: 70px;}
-  ul.posts li .p-wrap p.name {font-size: 25px; margin: 0.2em 0;}
-  ul.posts li .p-wrap p.blurb {font-size: 15px !important;}
+  ul.posts li .p-wrap p.name {font-size: 20px; margin: 0.2em 0;}
+  ul.posts li .p-wrap p.blurb {font-size: 16px !important;}
   ul.posts li .large {padding: 60px 20px;}
 
   section#single-wrap { margin: 0 auto; }
@@ -693,7 +700,7 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   section#single-wrap img.left, section#single-wrap img.right {
     width:100%;
     height:100%;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
   }
 
   section#single-wrap blockquote { padding: 0 20px; border-left: 4px solid #39f; }
@@ -703,6 +710,5 @@ ul.posts li .p-wrap .p-linkholder {margin: 0 auto; max-width: 620px;}
   .header-image {height: 200px;}
   .header-image h1 {font-size: 280%; padding-top: 40px;margin: 0 20px;}
 
-  footer small {font-size: 12px}
-
+  small {font-size: 12px}
 }

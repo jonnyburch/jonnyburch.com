@@ -7,6 +7,7 @@ date:   2011-03-09 12:01:00
 img_url: work/ffh1.jpg
 title: A meetup
 byline: 
+menu_bg: FFE0CB
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit sunt consectetur voluptatibus eius delectus. Culpa consectetur totam sapiente, quidem, quibusdam quas laboriosam possimus quam, ratione hic sed reiciendis accusantium, facilis._
