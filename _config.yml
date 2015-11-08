@@ -8,8 +8,8 @@ description: "Product Designer"
 # Your name. Will show in your footer + sidebar
 author: "Jonny Burch"
 
-url: "https://jonnyburch.github.io"
-baseurl: "/jb-2"
+url: "https://jonnyburch.com"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Product Designer"
