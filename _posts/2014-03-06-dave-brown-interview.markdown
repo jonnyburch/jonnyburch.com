@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: Dave Brown
 title:  "An interview with Dave Brown, AKA The Mighty Boosh's Ape 'Bollo'"
 categories: interviews

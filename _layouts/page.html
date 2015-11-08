@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: default
+---
 
 <section id="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
@@ -7,23 +9,3 @@
     </div>
   </article>
 </section>
-
-<div id="home">
-  <ul class="posts">
-    {% for post in site.categories.work %}
-      <li itemscope class="work" itemtype="http://schema.org/BlogPosting">
-        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-          <div class="p-wrap" style="background-color: #{{ post.menu_bg }}">
-            <div class="p-linkholder">
-              <div class="image" style="background-image: url('{{ site.baseurl }}/assets/img/{{ post.img_url }}')"></div>
-              <p class="name" itemprop="name headline">{{ post.menu_title }}</p>
-              <p class="blurb">{{ post.title }}</p>               
-            </div>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-{% include footer.html %}

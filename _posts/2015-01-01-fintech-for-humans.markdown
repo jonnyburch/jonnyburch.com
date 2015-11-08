@@ -1,5 +1,5 @@
 ---
-layout: post-img-work
+layout: post
 menu_title: Fintech for Humans
 title:  Fintech for Humans
 categories: work

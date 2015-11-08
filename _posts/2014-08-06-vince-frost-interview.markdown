@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: Vince Frost
 title:  "An interview with British ex-pat design legend Vince Frost"
 categories: interviews

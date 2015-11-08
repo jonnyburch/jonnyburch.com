@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: Creative Review
 title:  "The team behind one of the most successful non-celebrity twitter accounts in the UK"
 categories: interviews

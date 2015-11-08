@@ -1,30 +1,50 @@
 ---
-layout: page
+layout: default
 title: Homepage
 ---
-<br>
-<h3>I’m Jonny.</h3>
 
-<p>I head up design at <a class="osper" href="https://osper.com" target="_blank">Osper</a>, where I'm helping to change the face of money management for young people, working across product, brand and marketing.</p>
+<section class="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    <h3>I’m Jonny.</h3>
 
-<p>I also co-founded <a href="http://zlbs.co" target="_blank">a design agency</a> which grew out of the side of <a href="http://shellsuitzombie.co.uk" target="_blank">an angry magazine for graduate creatives</a> that I started years ago. Before that I worked for some agencies in London and Stockholm and even designed fancy books for a bit, which was nice.</p>
+    <p>I'm a product designer at <a href="https://deliveroo.co.uk">Deliveroo</a> in sunny London.</p>
 
-<p>Over the years I have, at various points, been fortunate enough to interview people like 
-	{% for post in site.categories.interviews %}
-	  <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a>, 
-	{% endfor %} etc. 
-</p>
-<p>
-	I also occasionally write on <a href="https://medium.com/@jonnyburch" target="_blank">Medium</a> and talk at <a href="http://www.meetup.com/London-UX-Stories/" target="_blank">meetups</a>, <a href="http://www.pmn.co.uk/mex/speakers.shtml#burch" target="_blank">conferences</a> and <a href="http://www.meetup.com/FinTech-for-Humans/" class="ffh" target="_blank">wotnot</a>.
-</p>
+    <p>Previously I headed up design at <a class="osper" href="https://osper.com" target="_blank">Osper</a>, helping to change the face of money management for young people.</p>
 
-<h3>Let's talk!</h3>
-<p>
-	Find me in <a class="twitter" href="https://twitter.com/jonnyburch" target="_blank">all</a> <a class="linkedin" href="https://uk.linkedin.com/in/jonnyburch" target="_blank">the</a> <a class="dribbble" href="https://dribbble.com/jonnyburch" target="_blank">usual</a> <a class="insta" href="https://instagram.com/jonnyburch/" target="_blank">places</a>, or hit me up by email on <a href="mailto:jonny@jonnyburch.com">jonny@jonnyburch.com</a>. I love a cracking email to break up the spam, especially if it contains an invite for ☕ (or even 🍳)️.
-</p>
-<br>
-<h3>Some Projects</h3>
-<br>
+    <p>I also co-founded <a href="http://zlbs.co" target="_blank">a design agency</a> which grew out of the side of <a href="http://shellsuitzombie.co.uk" target="_blank">an angry magazine for graduate creatives</a> that I started years ago. Before that I worked for some agencies in London and Stockholm and even designed fancy books for a bit, which was nice.</p>
 
+    <p>Over the years I have, at various points, been fortunate enough to interview people like 
+      {% for post in site.categories.interviews %}
+        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a>, 
+      {% endfor %} etc. 
+    </p>
+    <p>
+      I also occasionally write on <a href="https://medium.com/@jonnyburch" target="_blank">Medium</a> and talk at <a href="http://www.meetup.com/London-UX-Stories/" target="_blank">meetups</a>, <a href="http://www.pmn.co.uk/mex/speakers.shtml#burch" target="_blank">conferences</a> and <a href="http://www.meetup.com/FinTech-for-Humans/" class="ffh" target="_blank">wotnot</a>.
+    </p>
 
+    <h3>Let's talk!</h3>
+    <p>
+      Find me in <a class="twitter" href="https://twitter.com/jonnyburch" target="_blank">all</a> <a class="linkedin" href="https://uk.linkedin.com/in/jonnyburch" target="_blank">the</a> <a class="dribbble" href="https://dribbble.com/jonnyburch" target="_blank">usual</a> <a class="insta" href="https://instagram.com/jonnyburch/" target="_blank">places</a>, or hit me up by email on <a href="mailto:jonny@jonnyburch.com">jonny@jonnyburch.com</a>. I love a cracking email to break up the spam, especially if it contains an invite for ☕ (or even 🍳)️.
+    </p>
+  </article>
+</section>
 
+<!-- <div id="home">
+  <ul class="posts">
+    {% for post in paginator.posts %}
+    <li itemscope itemtype="http://schema.org/BlogPosting">
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+        <div class="p-wrap">
+          <article class="inner">
+            <time datetime="{{ post.date | date_to_xmlschema }}"
+                itemprop="datePublished">
+              {{ post.date | date_to_string }}
+            </time>
+            <p itemprop="name headline">{{ post.title }}</p>
+          </article>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div> -->

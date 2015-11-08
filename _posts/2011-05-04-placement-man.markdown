@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: Placement Man
 title:  "Placement man - he does the placements so you don't have to"
 categories: notes

@@ -1,5 +1,5 @@
 ---
-layout: post-img-work
+layout: post
 menu_title: ZombieLabs
 title:  ZombieLabs
 categories: work

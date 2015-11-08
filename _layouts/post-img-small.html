@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: default
+---
 
 </div>
 <section id="single-wrap">
@@ -7,7 +9,7 @@
       <img class="header-image-small" src="{{ site.baseurl }}/assets/img/{{ page.img_small_url }}">
       <h5 class="page-date">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.byline }}
+          {{ page.date | date_to_long_string }}
         </time>
       </h5>
     </div>
@@ -17,5 +19,3 @@
     </div>
   </article>
 </section>
-
-{% include footer.html %}

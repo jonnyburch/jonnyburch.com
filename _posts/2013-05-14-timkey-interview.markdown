@@ -1,5 +1,5 @@
 ---
-layout: post-img-small
+layout: post
 menu_title: Tim Key
 title:  "Tim Key is weird. We went fake bowling."
 categories: interviews

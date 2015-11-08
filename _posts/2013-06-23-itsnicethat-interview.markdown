@@ -1,5 +1,5 @@
 ---
-layout: post-img
+layout: post
 menu_title: It's Nice That
 title:  "An interview with Will Hudson and Alex Bec of It’s Nice That"
 categories: interviews

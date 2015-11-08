@@ -1,9 +1,11 @@
-{% include header.html %}
+---
+layout: default
+---
 
 <div class="header-image" style="background: #222 URL('{{ site.baseurl }}/assets/img/{{ page.img_url }}') center center no-repeat">
   <h1>{{ page.shout }}</h1>
 </div>
-<section id="single-wrap" style="background-color: #{{ post.menu_bg }}">
+<section id="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="feat">
       <h5 class="page-date">
@@ -18,5 +20,3 @@
     </div>
   </article>
 </section>
-
-{% include footer.html %}
