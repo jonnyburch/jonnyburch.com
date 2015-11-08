@@ -11,16 +11,6 @@ author: "Jonny Burch"
 url: "https://jonnyburch.github.io"
 baseurl: "https://jonnyburch.github.io"
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Product Designer"
-
-# Social Accounts (mine, as placeholders)
-
-twitter: jonnyburch
-github: jonnyburch
-dribbble: jonnyburch
-instagram: jonnyburch
-
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 # ga_domain: m3xm.github.io
