@@ -1,23 +1,5 @@
 window.onload = function() {
 
-    var $menuIcon = document.getElementsByClassName('menu-icon')[0],
-        $offCanva = document.getElementsByClassName('off-canvas')[0];
-        $siteWrap = document.getElementsByClassName('site-wrapper')[0];
-
-    $menuIcon.addEventListener('click', function() {
-        toggleClass($menuIcon, 'close');
-        toggleClass($offCanva, 'toggled');
-        toggleClass($siteWrap, 'open');
-    }, false);
-
-    $menuIcon.addEventListener('mouseenter', function() {
-        addClass($menuIcon, 'hover');
-    });
-
-    $menuIcon.addEventListener('mouseleave', function() {
-        removeClass($menuIcon, 'hover');
-    });
-
     function addClass(element, className) {
         element.className += " " + className;
     }
