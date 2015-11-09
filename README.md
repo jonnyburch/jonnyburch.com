@@ -2,8 +2,12 @@
 
 Updated my website to latest versions of jekyll and Hikari.
 
-Run with:
+Run locally with:
 `bundle exec jekyll serve --watch`
+
+Spit out for upload with:
+`bundle exec jekyll serve --baseurl 'http://jonnyburch.com'`
+then upload contents of _site folder
 
 ---
 
