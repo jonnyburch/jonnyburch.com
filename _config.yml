@@ -9,7 +9,7 @@ description: "Product Designer"
 author: "Jonny Burch"
 
 url: "http://jonnyburch.com"
-baseurl: "http://jonnyburch.com"
+baseurl: ""
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
@@ -20,7 +20,7 @@ baseurl: "http://jonnyburch.com"
 
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 
 paginate: 10
 paginate_path: "/page/:num"
