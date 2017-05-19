@@ -55,9 +55,9 @@ h3 {
 }
 
 h4 { 
-  font-size: 120%; 
-  font-weight: bold;
-  margin: $spacing-l 0 $spacing-xs;
+  font-size: 110%; 
+  // font-weight: bold;
+  margin: $spacing-l 0 0;
   color: $header-color;
 }
 
@@ -73,12 +73,16 @@ h6 {
 }
 
 p { 
-  margin: 1.3em 0; 
+  margin: 1.2em 0; 
   line-height: 1.6;
 }
 
 small { 
   font-size: 60%; 
+}
+
+.large {
+  font-size: 140%;
 }
 
 ul li { list-style-type: circle; }
