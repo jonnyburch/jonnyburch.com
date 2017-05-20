@@ -1,11 +1,13 @@
 header {
   width: 100%;
-  background: white;
+  background: #eee;
 }
 
 .h-wrap {
   @extend %padding-large;
-  background: #eee;
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
 
   .h-container {
     // max-width: 780px;

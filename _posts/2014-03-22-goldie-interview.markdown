@@ -12,6 +12,9 @@ Goldie, aka Clifford Joseph Price, can safely list amongst his achievements: DJ,
 
 This natural ability led him in 2008 to a second place in 'Maestro', the BBC's orchestral conducting reality TV show behind The Great British Bake-off's Sue Perkins, by far his most successful foray into reality TV. Other outings on Celebrity Big Brother (2002), Celebrity Mastermind (2009), Strictly come Dancing (2010) and Come Dine With Me (2010) saw him faring less well. He's also appeared in several films including Guy Ritchies _Snatch_ and Bond meh-fest _The World is not enough_ as well as a two year stint in _Eastenders_.
 
+<img src="{{ site.baseurl }}/assets/img/goldie1.jpg">
+<small>Goldie in his paint room</small>
+
 However, most importantly Goldie is also a fine artist.
 
 I first met Goldie, bizarrely, because he wanted to buy a piece of tree off my dad. A storm had blown a large oak down in the churchyard of St Lawrence Church in Bovingdon, Goldie's home village, and as the parish vicar my dad was in charge of removing the wood. Goldie successfully negotiated a slice and I went round to see what he was going to do with it. It turned out that it involved chainsaws.
@@ -25,6 +28,9 @@ I turned up at Goldie's house with a camera and my laptop to see him bombing out
 Finally, photos over, I managed to get him sitting down for a chat about the youth of today, harnessing creativity and where he gets his drive.
 
 ---
+
+<img src="{{ site.baseurl }}/assets/img/goldie2.jpg">
+<small>Goldie's home art gallery</small>
 
 **I was 9 when Timeless came out and our readership were still swimming around in their dads balls.**
 
@@ -88,6 +94,9 @@ Yeah dyslexia. I've never been able to read well, I used to have to hold a ruler
 
 I think this may be a made up word but I use a Seancic method with music, pulling it vicariously through others. Like a seance, I work with engineers and puppeteer the music together.
 
+<img src="{{ site.baseurl }}/assets/img/goldie3.jpg">
+<small>Lots of cups of tea</small>
+
 **What inspires you?**
 
 Bikram yoga, carving wood, walking my dogs and going out and playing music. I'm going to Misk in Russia, I go and play for hours, I don't look at my watch, I play until they're done. And experiencing life.
@@ -107,4 +116,4 @@ _You can get info on everything Goldie online at www.goldie.co.uk. I strongly en
 
 ---
 
-<small style="line-height:1.2">1. A prediction by engineer and co-founder of Intel Gordon E Moore, who claimed that the number of transistors in electrical circuits (and therefore the power of technology) would double every two years. It has sp far more than come true.</small>
+<small style="line-height:1.2">1. A <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank">prediction</a> by engineer and co-founder of Intel Gordon E Moore, who claimed that the number of transistors in electrical circuits (and therefore the power of technology) would double every two years. It has so far more than come true.</small>
