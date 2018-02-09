@@ -1,28 +1,36 @@
 ---
 layout: default
+title: Homepage
 ---
 {% assign posts_count = paginator.posts | size %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <span class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </span>
-        </div>
-      {% endfor %}
-    </div>
+<section class="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
 
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
-  {% endif %}
-</div>
+    <img class="jonny-img" src="{{ site.baseurl }}/assets/img/jonny.png">
+
+    <p class="large"><span style="color: #509aff">I'm Jonny.</span> I'm a product designer, currently leading the consumer product design team at <a href="https://deliveroo.co.uk">Deliveroo</a> in sunny London. I enjoy the challenge of building <a href="http://startups.co.uk/deliveroo-uk-fastest-growing-tech-start-up-tech5-competition/" target="_blank">products (and teams) that scale</a> and searching for experiences that solve difficult problems.</p>
+
+    <h4>A bit more about me</h4>
+
+    <p>Before Deliveroo I was first employee and led design for over three years at a <a href="https://osper.com/" target="_blank">bank for children</a>. Previous to that I ran a design agency out of the <a href="http://shellsuitzombie.co.uk" target="_blank">angry magazine for graduate creatives</a> that I founded years before while working for design agencies in London and Stockholm. I even designed expensive books for a while.</p>
+
+    <p>I've organised <a href="https://vimeo.com/82980736" target="_blank">30 day festivals in shipping containers</a>, attempted to put out a live TV show in 4 hours and <a href="https://vimeo.com/109182031" target="_blank">filmed people throwing meat at each other in slow motion</a>. Confused yet?</p>
+
+    <h4>Writing, speaking, oh my!</h4>
+
+    <p>I like to talk, and meet people I admire. Check out my interviews with
+      {% for post in site.categories.interviews %}
+        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a>,
+      {% endfor %} about everything from yoga to poetry.
+    </p>
+    <p>
+      I also write on <a href="https://medium.com/@jonnyburch" target="_blank">Medium</a> and talk at <a href="http://www.meetup.com/London-UX-Stories/" target="_blank">meetups</a>, <a href="http://www.pmn.co.uk/mex/speakers.shtml#burch" target="_blank">conferences</a> and <a href="http://www.meetup.com/FinTech-for-Humans/" class="ffh" target="_blank">wotnot</a>.
+    </p>
+
+    <h4>Help me, help you</h4>
+
+    <p>I really believe in the power of a good mentor, and am always looking for people to learn from or help out. So don't be shy, hit me up <a href="mailto:jonny@jonnyburch.com">by email </a>and let's do ☕ (or even 🍳)️.
+    </p>
+  </article>
+</section>
