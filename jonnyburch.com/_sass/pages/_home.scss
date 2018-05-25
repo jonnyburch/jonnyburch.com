@@ -93,6 +93,10 @@
 // misc
 
 .jonny-img {
-  max-width: 200px;
+  max-width: 100px;
   margin-top: 40px;
+
+  @media (min-width: 48em) {
+    max-width: 200px;
+  }
 }
