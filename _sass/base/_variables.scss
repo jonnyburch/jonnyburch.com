@@ -1,22 +1,22 @@
 // Colors
 
-$main-color:        mediumslateblue;  // change this color for further customization 
+$main-color:        mediumslateblue;  // change this color for further customization
                                       // I like http://colours.neilorangepeel.com/! Making colors semantic too ;)
 
 $bg-color:          white; // background-color
 
-$text-color:        #555; 
+$text-color:        #555;
 $link-color:        #222;
-$header-color:		#222; 
+$header-color:		#222;
 $border-color:      #e0e1e6;
 $smoke-color:       #fafafa;
 $highlight-color:	#509aff;
 
 
-// Typography 
+// Typography
 
-$font-family:       'Work Sans', sans-serif;
-$variant-family:    'Lora', Georgia, serif;
+$font-family:       'basier_circleregular';
+$variant-family:    'salomeregular';
 $font-size-l:       1.25em; // font-size on desktop type screens
 $font-size-m:       $font-size-l * 0.9; // font-size under 942px wide screens
 $font-size-s:       $font-size-l * 0.7; // font-size under 642px wide screens

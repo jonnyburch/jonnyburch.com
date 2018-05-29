@@ -10,7 +10,6 @@
       <meta http-equiv="content-language" content="en-gb" />
       <meta name="description" content="{{ site.description }}">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Work+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
       <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico" type="image/x-icon" />
@@ -24,22 +23,14 @@
 
     <div class="site-wrapper">
 
-      <header>
-        <div class="h-wrap">
-              <div class="h-container">
-                <h3 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.author }}</a></h3><h3 class="menu"> – Design and 🍕</h3>
-                <!-- <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
-              </div>
-          </div>
-      </header>
+      {% include header.html %}
 
       <main>
         {{ content }}
       </main>
 
-      <footer>
-        <small>Find me on: <a href="https://medium.com/@jonnyburch" target="_blank">Medium</a> - <a href="https://uk.linkedin.com/in/jonnyburch" target="_blank">Linkedin</a> - <a href="https://twitter.com/jonnyburch" target="_blank">Twitter</a> - <a href="https://github.com/jonnyburch" target="_blank">Github</a> - 🍉</small>
-      </footer>
+      {% include mailing_list.html %}
+      {% include footer.html %}
 
     </div>
     {% comment %} site-wrapper {% endcomment %}
