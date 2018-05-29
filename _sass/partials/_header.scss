@@ -1,13 +1,18 @@
 header {
-  width: 100%;
-  background: #eee;
+  // width: 100%;
+  position: absolute;
 }
 
 .h-wrap {
-  @extend %padding-large;
+  position: fixed;
+  color: 'lightyellow';
+  margin: 0 auto;
+  transform: translateX(-50%) rotate(-90deg);
+  left: 20px;
+  top: 20px;
+  height: 50px;
   width: 100%;
   max-width: 780px;
-  margin: 0 auto;
 
   .h-container {
     // max-width: 780px;
@@ -19,6 +24,7 @@ header {
       margin: 0;
       padding: 0;
       a {
+        font-family: $variant-family;
         color: $header-color;
         text-decoration: none;
         &:hover {
@@ -123,6 +129,9 @@ header {
   top: 0;
   right: 0;
   width: 100%;
+  // flexbox stuff for more interesting layout
+  display: flex;
+
   &.open {
     .menu-icon {
       position: fixed;

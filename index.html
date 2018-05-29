@@ -3,9 +3,7 @@ layout: default
 title: Homepage
 ---
 
-<section class="single-wrap">
-  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
-
+<section class="container">
     <img class="jonny-img" src="{{ site.baseurl }}/assets/img/jonny.png">
 
     <p class="large">I'm Jonny. I'm a product designer, currently working on something new.</p>
@@ -35,5 +33,11 @@ title: Homepage
 
     <p>I really believe in the power of a good mentor, and am always looking for people to learn from or help out. So don't be shy, hit me up <a href="mailto:jonny@jonnyburch.com">by email </a>and let's do ☕ (or even 🍳)️.
     </p>
-  </article>
+</section>
+<section>
+  <ul class="posts">
+    {% for post in site.categories.interviews %}
+      <li class="list-reset post-list"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.menu_title }}</a></li>
+    {% endfor %}
+  </ul>
 </section>
