@@ -1,0 +1,57 @@
+.mailing-list {
+  max-width: 900px;
+  margin: 0 0 1rem;
+  p {
+    color: darkslategrey;
+    margin: 0 1rem 1rem 0;
+  }
+  .subscribe-form {
+    display: flex;
+    flex-direction: column;
+    padding-right: 1rem;
+    @media (min-width: 40rem) {
+      flex-direction: row;
+    }
+
+    input[type="email"] {
+      color: black;
+      font-size: 5vw;
+      background-color: white;
+      border: 2px solid darkslategrey;
+      border-radius: 6px 6px 0 0;
+      padding: 1rem;
+      @media (min-width: 40rem) {
+        width: 70%;
+        border-radius: 6px 0 0 6px;
+        font-size: $font-size-m;
+      }
+
+      &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+        color: burlywood;
+      }
+      &::-moz-placeholder { /* Firefox 19+ */
+        color: burlywood;
+      }
+      &:-ms-input-placeholder { /* IE 10+ */
+        color: burlywood;
+      }
+      &:-moz-placeholder { /* Firefox 18- */
+        color: burlywood;
+      }
+    }
+    input[type="submit"] {
+      font-size: 5vw;
+      background-color: darkslategrey;
+      color: white;
+      padding: 1rem;
+      border: none;
+      border-radius: 0 0 6px 6px;
+      @media (min-width: 40em) {
+        width: inherit;
+        margin-top: 0;
+        border-radius: 0 6px 6px 0;
+        font-size: $font-size-m;
+      }
+    }
+  }
+}

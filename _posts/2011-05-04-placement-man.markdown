@@ -1,17 +1,11 @@
 ---
 layout: post
 menu_title: Placement Man
-title:  "Placement man - he does the placements so you don't have to"
-categories: notes
+title:  "He does the placements so you don't have to"
+categories: Article
 date:   2011-08-06 12:01:00
 img_url: pmhead.jpg
 ---
-
-_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
-
-_Illustrations by one of my best mates [Bora Demirbilek](http://www.blogobora.com/)_
-
----- 
 
 
 **If you’re reading this in bed, tin of cold baked beans in hand and Come Dine With Me on the telly, probably recovering from a night out where your housemate puked in their own pants and you put it on Instagram with a tilt shift so it looked like the bits of carrot were made out of plasticine, the last thing on your mind is going to be getting out into the world of work before you absolutely have to.**
@@ -26,9 +20,9 @@ Placement Man, aka designer Jake Jennings, has so far successfully completed nin
 
 <img src="{{ site.baseurl }}/assets/img/pmstats1.jpg">
 
-Jake began networking before he left university, starting a Designers Society and holding events and lectures with speakers including Patrick Baglee (Navyblue) and Harry Pearce (Pentagram) for his contemporaries. However, it was a tour of 23 UK studios, portfolio in hand, that was to seal his first few placements, culminating in a month at Pentagram New York, after which he planned to settle down. 
+Jake began networking before he left university, starting a Designers Society and holding events and lectures with speakers including Patrick Baglee (Navyblue) and Harry Pearce (Pentagram) for his contemporaries. However, it was a tour of 23 UK studios, portfolio in hand, that was to seal his first few placements, culminating in a month at Pentagram New York, after which he planned to settle down.
 
-In the end, Jake explains, a combination of itchy feet and animalistic drive led him to carry on placement-hunting after returning from the US, something that he admits is often difficult to explain to people, the reasoning is that he still hasn’t worked out exactly what’s right for him. To be fair, it’s often hard to choose between a small or large agency, branding, packaging, print or digital without trying a couple out. Even hating an experience means you can cross one off the list. 
+In the end, Jake explains, a combination of itchy feet and animalistic drive led him to carry on placement-hunting after returning from the US, something that he admits is often difficult to explain to people, the reasoning is that he still hasn’t worked out exactly what’s right for him. To be fair, it’s often hard to choose between a small or large agency, branding, packaging, print or digital without trying a couple out. Even hating an experience means you can cross one off the list.
 
 It can also be daunting looking for placements, especially at the top agencies, but through Jake’s technique – a mixture of perseverance, charm and cojones – should see you through. (Though don’t carpet-bomb CVs – it’s easier to spot than you would think.) Jake says he has gained placements through email, face-to-face meetings and even Twitter, and would advise anyone else to do the same. Most importantly, he adds, don’t be disheartened if a company does not or cannot offer you a spot, just make sure you get their honest opinion on your work, even if it hurts. It will all help you to improve it for the future.
 
@@ -42,3 +36,10 @@ But I had to ask, why spend 18 months bed-hopping round some pretty ropey soundi
 
 <img src="{{ site.baseurl }}/assets/img/placementman2.jpg">
 
+
+_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+
+_Illustrations by one of my best mates [Bora Demirbilek](http://www.blogobora.com/)_
+
+
+---

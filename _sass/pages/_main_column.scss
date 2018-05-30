@@ -1,0 +1,16 @@
+main {
+  grid-column: 2;
+  grid-template-rows: 1fr auto;
+}
+
+.top {
+  grid-row: 1;
+  padding-left: 1rem;
+  padding-bottom: 4rem;
+}
+
+.bottom {
+  grid-row: 2;
+  background-color: white;
+  padding: 2rem 1rem;
+}

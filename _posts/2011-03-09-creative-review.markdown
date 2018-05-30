@@ -1,49 +1,45 @@
 ---
 layout: post
-menu_title: Creative Review
+menu_title: Pool with Creative Review
 title:  "The team behind one of the most successful non-celebrity twitter accounts in the UK"
-categories: interviews
+categories: Interview
 date:   2011-03-09 12:01:00
 img_url: crhead.jpg
 shout: One Hundred and Fourty
 ---
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/). Neither Mark nor Neil work at Creative Review any more, which is a pity._
+As a follow-up to last issue’s Pool-related D&AD interview, ShellsuitZombie decided to challenge another dynamic duo to a battle. This time it was to be the team behind @CreativeReview, the Twitter account belonging to the magazine of the same name which (at the time of writing) has not far off 400,000 followers, making it one of the biggest non-celebrity Twitter accounts in the UK. The authors, Mark Sinclair (Deputy Editor) and Neil Ayres (Digital Producer) or ‘Neil and Mark’ as their Twitter profile lovingly calls them, were about to flex their darts muscle in a battle to find one glorious victor. Or were they?
 
----- 
+No, because the dartboard was in use. So instead we just sat down and had a couple of pints and a chat about Twitter, writing for Creative Review, Carp and mistaken identity. I might make up some darts scores, but they will strictly be to ‘add spice’. The winner will also be made up. Sorry Mark, I’m sure you’re great at darts really.
 
-**As a follow-up to last issue’s Pool-related D&AD interview, ShellsuitZombie decided to challenge another dynamic duo to a battle. This time it was to be the team behind @CreativeReview, the Twitter account belonging to the magazine of the same name which (at the time of writing) has not far off 400,000 followers, making it one of the biggest non-celebrity Twitter accounts in the UK. The authors, Mark Sinclair (Deputy Editor) and Neil Ayres (Digital Producer) or ‘Neil and Mark’ as their Twitter profile lovingly calls them, were about to flex their darts muscle in a battle to find one glorious victor. Or were they?**
-
-_No, because the dartboard was in use. So instead we just sat down and had a couple of pints and a chat about Twitter, writing for Creative Review, Carp and mistaken identity. I might make up some darts scores, but they will strictly be to ‘add spice’. The winner will also be made up. Sorry Mark, I’m sure you’re great at darts really._
-
-_Mark steps up to the plate first, throwing a mediocre 31 points. Neil manages more, scoring an impressive 120 with his first three darts._
+Mark steps up to the plate first, throwing a mediocre 31 points. Neil manages more, scoring an impressive 120 with his first three darts.
 
 __Hi Neil – could you describe your role at CR?__
 
-Neil: Yeah it’s changed a bit since january. I’ve been working at creative review for 4 years, before which I was at Design Week. I came from a print production background but when the decision was made to launch the new website I started doing the online production for creative review. What followed was a youtube channel and then Twitter. 
+Neil: Yeah it’s changed a bit since january. I’ve been working at creative review for 4 years, before which I was at Design Week. I came from a print production background but when the decision was made to launch the new website I started doing the online production for creative review. What followed was a youtube channel and then Twitter.
 
 __Do creative Review as a whole embrace Twitter as a valuable part of the magazine?__
 
-N: They do now, but when I first mentioned it people didn’t really get what the purpose of it was. It was very much ‘if you need something to do, go for it’. It’s worked quite well, definitely leading up to the tweetup 
+N: They do now, but when I first mentioned it people didn’t really get what the purpose of it was. It was very much ‘if you need something to do, go for it’. It’s worked quite well, definitely leading up to the tweetup
 for example.
 
 __Did that lead up to extra followers?__
 
 N: No it’s been very steady growth really. On one site we were ranked 38th in London, just below Andy Murray and just above JLS.
 
-Mark: That’s where we see ourselves. (laughs). We have a similar number of followers to Wallpaper magazine, that’s quite a good comparison. Some celebrities are just on Twitter for an ego boost, they don’t really interact with their fans and that’s the antithesis of what we believe Twitter is about. 
+Mark: That’s where we see ourselves. (laughs). We have a similar number of followers to Wallpaper magazine, that’s quite a good comparison. Some celebrities are just on Twitter for an ego boost, they don’t really interact with their fans and that’s the antithesis of what we believe Twitter is about.
 
 __Twitter divides a lot of people, the ones that say they don’t get it are probably those who only ever followed celebrities and never got the conversational aspect of it.__
 
-N: Yeah I didn’t get it at first - I first noticed a famous psychologist had started a Twitter account just a few weeks after it launched and I looked at it and couldn’t make head nor tail of it. It was another 18 months before I got into it myself. Around when we started the CR account a couple of years after that was a tipping point for Twitter, when it really boomed. 
+N: Yeah I didn’t get it at first - I first noticed a famous psychologist had started a Twitter account just a few weeks after it launched and I looked at it and couldn’t make head nor tail of it. It was another 18 months before I got into it myself. Around when we started the CR account a couple of years after that was a tipping point for Twitter, when it really boomed.
 
 M: If you think about the things we’ve now done with Twitter it’s amazing that two years ago we had no idea what it really was capable of.
 
 __As a Twitter user I feel like even though Creative Review has over 390,000 followers now, if I say something to them they will get back to me. Though it’s a huge account it feels approachable.__
 
-M: Speaking to friends on friday night they were amazed by the amount of effort we’ve put into something they see as essentially a gossip tool, but doing Twitter effectively involves interacting and talking to as many people as we can. If you ask us a direct question we’ll 
-try our hardest to reply, and when others see us doing 
-it it becomes much more of a method for interaction 
+M: Speaking to friends on friday night they were amazed by the amount of effort we’ve put into something they see as essentially a gossip tool, but doing Twitter effectively involves interacting and talking to as many people as we can. If you ask us a direct question we’ll
+try our hardest to reply, and when others see us doing
+it it becomes much more of a method for interaction
 and feedback.
 
 N: A lot of people will only interact with creative review through our Twitter feed. We never mentioned that we were even a magazine on our Twitter description for ages, which has recently changed, but there are thousands of creative review readers that have never seen or heard of the print magazine.
@@ -56,7 +52,7 @@ __Yet people who subscribe to creative review have shelves of creative review. I
 
 M: Absolutely, it may be a cliche now but the tactile quality helps.
 
-N: Also though the breadth of work has also increased. I’m not a designer but i’m interested in illustration and comic books and the magazine now caters for a range 
+N: Also though the breadth of work has also increased. I’m not a designer but i’m interested in illustration and comic books and the magazine now caters for a range
 of tastes.
 
 M: That’s why the Twitter feed has worked so well too. We can now flag up all sorts of things, not just design and advertising.
@@ -78,7 +74,7 @@ __Do you look for that?__
 
 M: Yeah we like it when it’s a good debate. There’s a fine line between good debate and a slanging match and we’re very cautious now that we don’t let it get out of control. Usually what happens is that someone says a piece of work is rubbish, then someone else says ‘well your website is rubbish’ and then we have to remind people to not get personal.
 
-N: What’s funny though is that for the recent T-mobile royal wedding ad for example, the blog kicked off in a negative way and all the while everyone on Twitter was very positive. The level of anonymity on the blog 
+N: What’s funny though is that for the recent T-mobile royal wedding ad for example, the blog kicked off in a negative way and all the while everyone on Twitter was very positive. The level of anonymity on the blog
 changes opinion.
 
 M: We try to let as much through as possible, but people use the anonymity function to say some pretty nasty stuff and we have to watch that.
@@ -112,7 +108,7 @@ __Do you also look after the feed? How does one go about getting work into that?
 
 M: We look at the feed a few times a day, and by no means everything is approved, so it’s an achievement to be featured.
 
-N: Sometimes a piece from the feed will make it onto the blog too if it’s particularly interesting. 
+N: Sometimes a piece from the feed will make it onto the blog too if it’s particularly interesting.
 
 M: It’s great because everything has been written by the designer or creator and we don’t have to then go back onto their site to write a piece each time. We can just press approve, so it just has our editorial take on what’s interesting.
 
@@ -126,7 +122,7 @@ M: The simple act of ‘following’ someone is such a simple way to start a rel
 
 __I’ve noticed that Neil, you have an active personal Twitter account but when I type Mark Sinclair into Twitter I get ‘@TheDonutMan’. I assume this isn’t you?__
 
-M: Ha, no. I was preparing to a conference in Cape Town a couple of years ago and the press contact asked what I looked like so he could pick me up from the airport. He eventually emailed me a picture that he’d clearly found on Google of a well fed middle-aged looking corporate chap in a suit and asked ‘is this you?’ Seriously. 
+M: Ha, no. I was preparing to a conference in Cape Town a couple of years ago and the press contact asked what I looked like so he could pick me up from the airport. He eventually emailed me a picture that he’d clearly found on Google of a well fed middle-aged looking corporate chap in a suit and asked ‘is this you?’ Seriously.
 
 N: You’re completely offline Mark. But at least you managed to get your name on the CR profile. If someone then knew it was a magazine and went to the website they’d work it out.
 
@@ -166,8 +162,11 @@ M: There is going to be one on July 21 at Tate Britain, it’s a tie-in with the
 
 __That sounds exciting!__
 
-N: It’s going to be fun. Right, it’s time to get back 
+N: It’s going to be fun. Right, it’s time to get back
 to Twitter!
 
 _Neil then stylishly finishes Mark off with a double top, becoming the first winner of fake ShellsuitZombie darts ever. He would have looked proud and honoured (and probably made a winners speech) if I hadn’t made the darts bit up. There had now been a two and a half hour period of no tweets from Creative Review, people were starting to need their fix. It was time to go._
 
+_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/). Neither Mark nor Neil work at Creative Review any more, which is a pity._
+
+---

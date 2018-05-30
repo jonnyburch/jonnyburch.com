@@ -2,19 +2,10 @@
 layout: default
 ---
 
-<div class="header-image" style="background: #222 URL('{{ site.baseurl }}/assets/img/{{ page.img_url }}') center center no-repeat">
-  <h1>{{ page.shout }}</h1>
-</div>
-<section class="single-wrap">
-  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
-    <div class="feat">
-      <h5 class="page-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date_to_long_string }}
-        </time>
-      </h5>
-    </div>
-    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+<section class="single-post single-wrap">
+    <p class="date">{{ page.date | date_to_long_string }}</p>
+    <h1 class="page-title" itemprop="name headline">{{ page.menu_title }}</h1>
+    <h3 class="sub" itemprop="name headline">{{ page.title }}</h3>
     <div itemprop="articleBody">
       {{ content }}
     </div>

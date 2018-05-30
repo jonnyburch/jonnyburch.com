@@ -22,7 +22,9 @@
 // Partials
 @import 'partials/header';
 @import 'partials/footer';
+@import 'partials/mailing_list';
 
 // Pages
+@import 'pages/main_column';
 @import 'pages/home';
 @import 'pages/posts';

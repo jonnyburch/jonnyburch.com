@@ -19,11 +19,18 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   background-color: $bg-color;
-  @media (max-width: 942px) {
-    font-size: $font-size-m;
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  font-size: $font-size-m;
+  line-height: 1.6;
+  @media (min-width: 40rem) {
+    font-size: $font-size-l;
   }
-  @media (max-width: 642px) {
-    font-size: $font-size-s;
+  @media (min-width: 47rem) {
+    font-size: $font-size-xl;
   }
 }
 
@@ -32,31 +39,58 @@ h2,
 h3,
 h4,
 h5,
-h6 {}
+h6 {
+  font-family: $bold-family;
+  color: darkslategrey;
+  font-weight: normal;
+}
 
 h1 {
-  font-size: 250%;
+  font-size: 10vw;
   margin: $spacing-xs 0;
   color: $header-color;
+  @media (min-width: 40rem) {
+    font-size: 8vw;
+  }
+  @media (min-width: 47rem) {
+    font-size: 7vw;
+  }
 }
 
 h2 {
-  font-size: 180%;
+  font-size: 8vw;
   margin: $spacing-s 0 $spacing-xs;
   color: $header-color;
+  @media (min-width: 40rem) {
+    font-size: 6vw;
+  }
+  @media (min-width: 47rem) {
+    font-size: 5vw;
+  }
 }
 
 h3 {
-  font-size: 150%;
+  font-size: 6vw;
   margin: $spacing-sm 0 $spacing-xs;
   color: $header-color;
+  @media (min-width: 40rem) {
+    font-size: 4vw;
+  }
+  @media (min-width: 47rem) {
+    font-size: 3vw;
+  }
 }
 
 h4 {
-  font-size: 110%;
-  // font-weight: bold;
-  margin: $spacing-l 0 0;
+  font-size: 4vw;
+  margin: $spacing-sm 0 0;
   color: $header-color;
+  @media (min-width: 40rem) {
+    font-size: 3vw;
+  }
+  @media (min-width: 47rem) {
+    font-size: 3vw;
+  }
 }
 
 h5 {
@@ -70,37 +104,28 @@ h6 {
   text-align: right;
 }
 
-p {
-  margin: 1.2em 0;
-  line-height: 1.6;
-}
-
-small {
-  font-size: 60%;
-}
-
-.large {
-  font-size: 140%;
-}
-
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
 
 a {
   @extend %transition;
   color: $link-color;
-  text-decoration: none;
   padding-bottom:0;
 
   &:hover {
-    color: $highlight-color;
-    padding-bottom:2px;
+    background-color: burlywood;
   }
 }
 
 hr {
-  border-width: 1px;
-  color: #eee;
-  border-color: #eee;
+  height: 2px;
+  color: burlywood;
+  background: burlywood;
+  font-size: 0;
+  border: 0;
+}
 
+b, .bold, strong {
+  font-family: $bold-family;
+  font-weight: normal;
 }
