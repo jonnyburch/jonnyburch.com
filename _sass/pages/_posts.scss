@@ -1,11 +1,15 @@
 .single-wrap {
   width: 100%;
-  max-width: 900px;
+  max-width: 57rem;
   margin: 0 auto;
   margin-top: 1rem;
   padding: 0.5rem 1rem 0 0;
   @media (min-width: 40rem) {
     padding-top: 0;
+  }
+  @media (min-width: 64rem) {
+    padding-top: 0;
+    padding-right: 0;
   }
 
   p.date {
@@ -16,6 +20,9 @@
     @media (min-width: 40rem) {
       font-size: 4vw;
     }
+    @media (min-width: 64rem) {
+      font-size: 3rem;
+    }
   }
   h1.page-title {
     font-size: 10vw;
@@ -25,6 +32,9 @@
     margin: 0;
     @media (min-width: 40rem) {
       font-size: 6vw;
+    }
+    @media (min-width: 64rem) {
+      font-size: 4rem;
     }
   }
   h3.sub {

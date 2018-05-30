@@ -170,10 +170,10 @@ This isn’t just true of designers. To become influential and essential in your
 
 Good luck! It’s not easy, but the result will be a better product for everyone.
 
-*This article was adapted from my presentation on the Google stage at [Slush 2016](http://www.slush.org/) in Helsinki. Thanks to [Google Developers](undefined) for inviting me to that. The fingerprints belong to my wife [Karen](http://karenbrotherton.squarespace.com/) — I stole them off our 2015 Christmas cards...*
+*This article was adapted from my presentation on the Google stage at [Slush 2016](http://www.slush.org/) in Helsinki. Thanks to Google Developers for inviting me to that. That talk is [here](https://www.youtube.com/watch?v=eSdlxnGGpHg) if you want to look at the top of my head for half an hour._
 
-*Please hit ‘**Like**’ or **comment** if you have something to add, I’d love to learn more about this from others. I’m also on twitter [@jonnyburch](https://twitter.com/jonnyburch), if you have a strong need for more retweets of goat pics.*
+_It was then a Medium post, which is [here](https://medium.com/deliveroo-design/4-principles-for-shipping-good-design-when-everythings-on-fire-d04090e90710)_
 
-![](https://cdn-images-1.medium.com/max/4056/1*mmaVmeOIxjL90mQt5WyGWA.png)
+_The fingerprints belong to my wife [Karen](http://karenbrotherton.squarespace.com/) — I stole them off our 2015 Christmas cards...*
 
-### *Most importantly, the [Deliveroo Design Team](undefined) is hiring! Check us out at [www.deliveroo.design](http://www.deliveroo.design) and follow us on twitter at [*@deliveroodesign](http://twitter.com/deliveroodesign)
+----

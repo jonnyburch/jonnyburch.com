@@ -55,6 +55,9 @@ h1 {
   @media (min-width: 47rem) {
     font-size: 7vw;
   }
+  @media (min-width: 64rem) {
+    font-size: 4rem;
+  }
 }
 
 h2 {
@@ -64,8 +67,8 @@ h2 {
   @media (min-width: 40rem) {
     font-size: 6vw;
   }
-  @media (min-width: 47rem) {
-    font-size: 5vw;
+  @media (min-width: 64rem) {
+    font-size: 3.5rem;
   }
 }
 
@@ -79,6 +82,9 @@ h3 {
   @media (min-width: 47rem) {
     font-size: 3vw;
   }
+  @media (min-width: 64rem) {
+    font-size: 2.5rem;
+  }
 }
 
 h4 {
@@ -90,6 +96,9 @@ h4 {
   }
   @media (min-width: 47rem) {
     font-size: 3vw;
+  }
+  @media (min-width: 64rem) {
+    font-size: 1.8rem;
   }
 }
 

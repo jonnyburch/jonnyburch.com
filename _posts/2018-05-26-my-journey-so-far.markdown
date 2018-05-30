@@ -1,6 +1,6 @@
 ---
 layout: post
-menu_title: Building conviction– how one assumption changed my founder journey
+menu_title: Building conviction– how one false assumption changed my founder journey
 title: My first 100 days as a (kind of) startup founder
 categories: Article
 date:   2018-05-26 12:01:00
