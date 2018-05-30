@@ -2,6 +2,13 @@
   h1.headline {
     margin: 0.5rem 0 0;
     color: burlywood;
+    font-size: 10vw;
+    @media (min-width: 40rem) {
+      font-size: 7vw;
+    }
+    @media (min-width: 64rem) {
+      font-size: 6rem;
+    }
   }
   ul.posts {
     padding: 0 1rem 1rem 0;
@@ -13,8 +20,7 @@
       list-style-type: none;
       a {
         text-decoration: none;
-        display: flex;
-        flex-wrap:wrap;
+        display:contents;
 
         span.title {
           font-family: $bold-family;
@@ -25,21 +31,31 @@
           text-decoration: underline;
           word-break: break-word;
           @extend %transition;
-          @media (min-width: 40em) {
+          @media (min-width: 40rem) {
             font-size: 7vw;
+            margin-bottom: 0;
+          }
+          @media (min-width: 64rem) {
+            font-size: 6rem;
             margin-bottom: 0;
           }
         }
       }
-      span.date {
+      span.arrow, span.category, span.date {
         color: burlywood;
         font-size: 10vw;
         font-family: $bold-family;
         word-break: break-word;
-        @media (min-width: 40em) {
+        @media (min-width: 40rem) {
           font-size: 7vw;
-          margin-right:1rem;
         }
+        @media (min-width: 64rem) {
+          font-size: 6rem;
+          margin-bottom: 0;
+        }
+      }
+      @media (min-width: 40rem) {
+        span.date {margin-right:1rem;}
       }
       p {
         margin: 0;
