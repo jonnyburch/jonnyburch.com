@@ -51,15 +51,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: jonnyburch
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: jonnyburch
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: jonnyburch
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -130,3 +130,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+jekyll_compose:
+    auto_open: true
