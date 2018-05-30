@@ -10,7 +10,7 @@ title: Homepage
       {% for post in site.posts %}
         <li class="post-list">
           <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
-            <span class="title">{{ post.menu_title }}</span>
+            <span class="title">{{ post.title }}</span>
             <span class="arrow">⇠</span><span class="category">{{ post.categories }},</span><span class="date"> {{ post.date | date: '%Y' }}</span>
           </a>
         </li>

@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Observe Orient Decide Act (and repeat)
-title: How anyone can use an O.O.D.A. loop to get to answers quicker
+title: Observe Orient Decide Act (and repeat)
+description: How anyone can use an O.O.D.A. loop to get to answers quicker
 categories: Article
 date:   2015-01-03 12:01:00
 img_url: ooda.png

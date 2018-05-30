@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: 4 principles for shipping good design when everything’s on fire
-title: Or how to make friends and influence (product) people
+title: 4 principles for shipping good design when everything’s on fire
+description: Or how to make friends and influence (product) people
 categories: Article
 date:   2016-12-09 12:01:00
 ---

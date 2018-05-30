@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: ShellsuitZombie, this is the end. You’re all legends.
-title: A letter to everyone that ever helped with our little creative graduate magazine
+title: ShellsuitZombie, this is the end. You’re all legends.
+description: A letter to everyone that ever helped with our little creative graduate magazine
 categories: Article
 date:   2017-12-17 12:01:00
 ---

@@ -4,8 +4,8 @@ layout: default
 
 <section class="single-post single-wrap">
     <p class="date">{{ page.date | date_to_long_string }}</p>
-    <h1 class="page-title" itemprop="name headline">{{ page.menu_title }}</h1>
-    <h3 class="sub" itemprop="name headline">{{ page.title }}</h3>
+    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    <h3 class="sub" itemprop="name headline">{{ page.description }}</h3>
     <div itemprop="articleBody">
       {{ content }}
     </div>

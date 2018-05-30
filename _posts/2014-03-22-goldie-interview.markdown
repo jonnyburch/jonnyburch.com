@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Meeting Mr. Goldie
-title:  "An interview with Drum n Bass legend Goldie"
+title: Meeting Mr. Goldie
+description:  "An interview with Drum n Bass legend Goldie"
 categories: Interview
 date:   2014-03-22 12:01:00
 img_url: goldie.jpg

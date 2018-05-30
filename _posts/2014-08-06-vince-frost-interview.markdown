@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Skyping Vince Frost
-title:  "An interview with British ex-pat design legend Vince Frost"
+title: Skyping Vince Frost
+description:  "An interview with British ex-pat design legend Vince Frost"
 categories: Interview
 date:   2011-08-06 12:01:00
 img_url: frost.jpg

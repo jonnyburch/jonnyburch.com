@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: We know how Hangry you were last summer
-title: ...and we're working out how to feed you
+title: We know how Hangry you were last summer
+description: ...and we're working out how to feed you
 categories: Article
 date:   2016-08-23 12:01:00
 ---

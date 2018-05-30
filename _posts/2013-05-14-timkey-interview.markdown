@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Not bowling with Tim Key
-title:  "Tim Key is weird."
+title: Not bowling with Tim Key
+description:  "Tim Key is weird."
 categories: Interview
 date:   2013-05-14 12:01:00
 img_url: timkey_top.jpg

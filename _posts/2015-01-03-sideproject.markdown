@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Aspiring to design in a product team?
-title: Drop your one day side project and stick with something for a year.
+title: Aspiring to design in a product team?
+description: Drop your one day side project and stick with something for a year.
 categories: Article
 date:   2015-01-03 12:01:00
 img_url: ooda.png

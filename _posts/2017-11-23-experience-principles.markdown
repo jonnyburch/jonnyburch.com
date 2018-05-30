@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Go out and empathise!
-title: How we’re using Experience Principles to keep each other honest at Deliveroo.
+title: Go out and empathise!
+description: How we’re using Experience Principles to keep each other honest at Deliveroo.
 categories: Article
 date:   2017-11-23 12:01:00
 ---

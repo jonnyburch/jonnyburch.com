@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Pool with Creative Review
-title:  "The team behind one of the most successful non-celebrity twitter accounts in the UK"
+title: Pool with Creative Review
+description:  "The team behind one of the most successful non-celebrity twitter accounts in the UK"
 categories: Interview
 date:   2011-03-09 12:01:00
 img_url: crhead.jpg

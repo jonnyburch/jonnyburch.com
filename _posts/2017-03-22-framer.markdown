@@ -1,7 +1,7 @@
 ---
 layout: post
-menu_title: Deliveroo x Framer–One Month In
-title: An honest look at how our design team is incorporating Framer into our workflow.
+title: Deliveroo x Framer–One Month In
+description: An honest look at how our design team is incorporating Framer into our workflow.
 categories: Article
 date:   2017-03-22 12:01:00
 ---
