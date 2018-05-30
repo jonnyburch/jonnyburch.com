@@ -54,6 +54,6 @@ So I’m taking a step back from our company to re-evaluate. I’m going to be v
 
 _In the meantime I’m spending a bit of my week helping to build a design and product team at a fantastic startup, and am open to other *very* part time consulting. If that sounds like something for you, just get in touch._
 
-_Siadhal and Shahriar are cracking on, (I know, we still all sit together) and will undoubtedly crush it. Follow them ([Siadhal](https://twitter.com/smagos)) ([Shahriar](https://twitter.com/stajbakhsh)) on twitter for news.  
+_Siadhal and Shahriar are cracking on, (I know, we still all sit together) and will undoubtedly crush it. Follow them ([Siadhal](https://twitter.com/smagos)) ([Shahriar](https://twitter.com/stajbakhsh)) on twitter for news._
 
-_If you want regular updates on my progress, do sign up to my newsletter. I won't spam you.
+**If you want regular updates on my progress, do sign up to my newsletter. I won't spam you.**
