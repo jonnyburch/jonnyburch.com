@@ -35,12 +35,14 @@ _And we had a process._
 1. You’ll want to imagine where this will lead you and make sure that this is a problem you can fall in love with, and stay in love with, for a good period of time.
 
 Not all of these have to be a complete yes, but the last one really should be. If all else fails, it’s that that will keep you in the game. That’s why you chose this crazy, poorly paid, unpredictable life over a lovely pay check and a ping pong table. If you loved it, and tried it, you’ll have no regrets.
+
 <br>
+
 Now, I was given this advice by more than one *very* successful entrepreneur as we started.
 
 > ### **Make sure you’re in love with the problem.**
 
-I believed that that would be possible for me to fall in love through our discovery process.
+I believed that it would be possible for me to fall in love through our discovery process.
 
 But in a complete democracy with no ‘problem’ locked down before inception, it’s that last one that seemed to be getting us. While we were very much aligned about some aspects of what we want to achieve as a company, it turned out we had subtly different areas of interest. I just couldn’t fall in love with the same problem as everyone else.
 

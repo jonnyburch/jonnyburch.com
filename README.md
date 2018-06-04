@@ -7,3 +7,7 @@ Run
 Ship
 `bundle exec jekyll build`
 `surge _site/`
+
+Post
+https://github.com/jekyll/jekyll-compose
+`bundle exec jekyll post "My New Post"`
