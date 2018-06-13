@@ -16,7 +16,7 @@
     color: burlywood;
     font-size: 8vw;
     font-family: $bold-family;
-    margin: 0;
+    margin: 2rem 0 0;
     @media (min-width: 40rem) {
       font-size: 4vw;
     }
@@ -40,6 +40,14 @@
   h3.sub {
     margin: 1rem 0 2rem;
     opacity: 0.6;
+  }
+
+  .body {
+    margin-top: 2rem;
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: 2rem;
   }
 
   p, ul, ol {

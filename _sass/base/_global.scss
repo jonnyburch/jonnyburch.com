@@ -24,7 +24,7 @@ body {
   height: 100%;
 }
 
-p {
+p, li {
   font-size: $font-size-m;
   line-height: 1.6;
   @media (min-width: 40rem) {
@@ -89,7 +89,7 @@ h3 {
 }
 
 h4 {
-  font-size: 4vw;
+  font-size: $font-size-m;
   margin: $spacing-sm 0 0;
   color: $header-color;
   @media (min-width: 40rem) {
@@ -114,8 +114,8 @@ h6 {
   text-align: right;
 }
 
-ul li { list-style-type: circle; }
-ol li { list-style-type: decimal; }
+ul li { list-style-type: circle; margin-bottom: 1rem;}
+ol li { list-style-type: decimal; margin-bottom: 1rem;}
 
 a {
   @extend %transition;

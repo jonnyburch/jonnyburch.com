@@ -44,6 +44,7 @@
       span.arrow, span.category, span.date {
         color: burlywood;
         font-size: 10vw;
+        line-height: 1;
         font-family: $bold-family;
         word-break: break-word;
         @media (min-width: 40rem) {
