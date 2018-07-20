@@ -1,68 +1,70 @@
-.posts {
-  overflow: hidden;
-  li {
-    display: inline-block;
-    width: 100%;
-    border-bottom: 1px solid darken($main-color, 6%);
-
-    &:first-child {
-      border-top: 1px solid darken($main-color, 6%);
+.home {
+  h1.headline {
+    margin: 0.5rem 0 0;
+    color: burlywood;
+    font-size: 10vw;
+    @media (min-width: 40rem) {
+      font-size: 7vw;
     }
+    @media (min-width: 64rem) {
+      font-size: 6rem;
+    }
+  }
+  ul.posts {
+    padding: 0 1rem 1rem 0;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: baseline;
 
-    .p-wrap {
-      padding: $spacing-ml $spacing-m;
-      background: $main-color;
-      transition: all .15s ease-in;
-      &:active {
-        background: darken($main-color, 3%);
-      }
-      &:hover {
-        background: lighten($main-color, 3%);
-        .inner {
-          -webkit-transform: translateX($spacing-s);
-          -ms-transform: translateX($spacing-s);
-          transform: translateX($spacing-s);
-          &::after {
-            content:'\2192';
-            margin-left: $spacing-xs;
-            @media (max-width: 942px) {
-              content: none;
-              margin: 0;
-            }
+    li {
+      list-style-type: none;
+      a {
+        text-decoration: none;
+        display:contents;
+
+        span.title {
+          font-family: $bold-family;
+          font-size: 10vw;
+          margin: 0.4rem 0;
+          line-height: 1;
+          color: darkslategrey;
+          text-decoration: underline;
+          word-break: break-word;
+          @extend %transition;
+          @media (min-width: 40rem) {
+            font-size: 7vw;
+            margin-bottom: 0;
+          }
+          @media (min-width: 64rem) {
+            font-size: 6rem;
+            margin-bottom: 0;
           }
         }
       }
-      @media (max-width: 942px) {
-        padding: $spacing-m $spacing-m;
+      span.arrow, span.category, span.date {
+        color: burlywood;
+        font-size: 10vw;
+        line-height: 1;
+        font-family: $bold-family;
+        word-break: break-word;
+        @media (min-width: 40rem) {
+          font-size: 7vw;
+        }
+        @media (min-width: 64rem) {
+          font-size: 6rem;
+          margin-bottom: 0;
+        }
+      }
+      @media (min-width: 40rem) {
+        span.date {margin-right:1rem;}
       }
       p {
-        display: inline;
-        margin: $spacing-xs 0 0;
-      }
-      .inner {
-        transition: all .15s ease-in;
-      }
-    } // end .p-wrap
-
-    time {
-      color: darken($main-color, 20%);
-      display: inline-block;
-      padding-right: $spacing-s;
-      width: 155px;
-      @media (max-width: 942px) {
-        display: block;
-        width: auto;
+        margin: 0;
       }
     }
+  }
 
-    a {
-      color: white;
-      text-decoration: none;
-    }
-
-  } // end li
-} // end .posts
-
+}
 .pagination {
   overflow: hidden;
   margin-top: 40px;

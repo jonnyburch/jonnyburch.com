@@ -1,25 +1,17 @@
 ---
 layout: post
-menu_title: It's Nice That
-title:  "An interview with Will Hudson and Alex Bec of It’s Nice That"
-categories: interviews
+title: It's really Nice That
+description:  "An interview with Will Hudson and Alex Bec of It’s Nice That"
+categories: Interview
 date:   2013-05-14 12:01:00
 img_url: int.jpg
 ---
 
-_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+Every issue of ShellsuitZombie we interview a talented duo while playing a pub game. Having played darts, pool and, ahem, ten pin bowling, the logical next step was ping pong.
 
-_Visit It's Nice That online at [itsnicethat.com](http://www.itsnicethat.com)_
+Grasping our bats were Will and Alex from It’s Nice That. Two 2008 Brighton grads, this duo now run a media empire with 26 employees, a magazine, a monthly readership not far off half a million people worldwide and their own design agency INT works. Not bad eh. Arseholes.
 
----- 
-
-_Every issue of ShellsuitZombie we interview a talented duo while playing a pub game. Having played darts, pool and, ahem, ten pin bowling, the logical next step was ping pong._
-
-_The last interview was a cop-out. Ten pin bowling is NOT a pub game. Tim Key is but one man. It seemed we’d ruined everything. But do not fear brave readers, under new management the interviews are back on track with a classic boozy sport, table tennis or ‘wiff waff’._
-
-_Grasping our bats were Will and Alex from It’s Nice That. Two 2008 Brighton grads, this duo now run a media empire with 26 employees, a magazine, a monthly readership not far off half a million people worldwide and their own design agency INT works. Not bad eh. Arseholes._
-
-_So, with sweaty brows, tight grips and intense glares, the boys began their epic battle – Alex starting off the scoring with a slightly pathetic serve. No-one would realize until later just how important this match would be for everyone present._
+So, with sweaty brows, tight grips and intense glares, the boys began their epic battle – Alex starting off the scoring with a slightly pathetic serve. No-one would realize until later just how important this match would be for everyone present.
 
 __So who started its nice that?__
 
@@ -66,7 +58,7 @@ AB: We've occasionally come under fire for being vacuous eye candy but we've alw
 
 __Do you ever get frustrated that the It’s Nice That tone of voice doesn't let you spill rage on the internet when you've had a bad day?__
 
-WH: One thing I've realised quite recently is we got very lucky with the name. It's always put a positive attitude on anything. 
+WH: One thing I've realised quite recently is we got very lucky with the name. It's always put a positive attitude on anything.
 
 AB: We can still critique stuff in a positive manner but we're not there to put up bad work or blast people. We're not like that, I don't want to put shit stuff on the internet. The name has informed everything we put on there.
 
@@ -94,7 +86,7 @@ __Do you worry about putting something out that doesn't live up to the INT stand
 
 WH: I don't think there would be anything that's dramatically under. What's interesting about launching the magazine under a different name and the shop under a different name is that we can test it and make it it's own without changing the perception of INT. I still think that the biggest thing we will do will be bigger than It's Nice That. We publish to 400,000 people a month which is great but there's bigger audiences to be had.
 
-AB: The problem with Its Nice That is we will always be talking to a niche audience - if we can find something more universal and be nimble about trying new things then that would be great. 
+AB: The problem with Its Nice That is we will always be talking to a niche audience - if we can find something more universal and be nimble about trying new things then that would be great.
 
 WH: The magazine is a prime example - we stopped the magazine in its old form because we evaluated what we needed from it and thought there was a better way. We've always been able to decide what to start and stop and we will always remain independent.
 
@@ -129,3 +121,9 @@ WH: Mate, we could play this all day. I've got to go.
 __Thanks for everything guys!__
 
 INT: No worries, laterz.
+
+_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+
+_Visit It's Nice That online at [itsnicethat.com](http://www.itsnicethat.com)_
+
+---

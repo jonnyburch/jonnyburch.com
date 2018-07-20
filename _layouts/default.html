@@ -3,43 +3,23 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-  <head>
-      <title>{{ site.name }} - {{ site.description }}</title>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta http-equiv="content-language" content="en-gb" />
-      <meta name="description" content="{{ site.description }}">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Work+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
-      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
-      <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico" type="image/x-icon" />
-      <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicon.ico" type="image/x-icon" />
-  </head>
-
+  {% include head.html %}
   <body>
     <!--[if lt IE 7]>
         <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
 
+
     <div class="site-wrapper">
-
-      <header>
-        <div class="h-wrap">
-              <div class="h-container">
-                <h3 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.author }}</a></h3><h3 class="menu"> – Design and 🍕</h3>
-                <!-- <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
-              </div>
-          </div>
-      </header>
-
+      {% include header.html %}
       <main>
-        {{ content }}
+        <div class="top">
+          {{ content }}
+        </div>
+        <div class="bottom">
+          {% include footer.html %}
+        </div>
       </main>
-
-      <footer>
-        <small>Find me on: <a href="https://medium.com/@jonnyburch" target="_blank">Medium</a> - <a href="https://uk.linkedin.com/in/jonnyburch" target="_blank">Linkedin</a> - <a href="https://twitter.com/jonnyburch" target="_blank">Twitter</a> - <a href="https://github.com/jonnyburch" target="_blank">Github</a> - 🍉</small>
-      </footer>
 
     </div>
     {% comment %} site-wrapper {% endcomment %}

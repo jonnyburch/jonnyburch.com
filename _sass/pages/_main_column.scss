@@ -1,0 +1,19 @@
+main {
+  grid-column: 2;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-template-columns: 100%;
+}
+
+.top {
+  grid-row: 1;
+  padding-left: 1rem;
+  padding-bottom: 4rem;
+}
+
+.bottom {
+  grid-row: 2;
+  background-color: white;
+  padding: 2rem 1rem;
+}

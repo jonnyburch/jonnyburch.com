@@ -14,7 +14,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-120384650-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -51,15 +51,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: jonnyburch
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: jonnyburch
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: jonnyburch
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -118,7 +118,7 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:title/
 paginate:     4
 sass:
   style: compressed
@@ -130,3 +130,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+jekyll_compose:
+    auto_open: true

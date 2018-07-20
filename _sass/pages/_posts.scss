@@ -1,104 +1,79 @@
-.header-image {
-  width:100%; 
-  height: 500px; 
-  margin: 0 
-  auto;background-size: auto 100%;
-
-  h1 {
-    color: #fff; 
-    font-size: 580%; 
-    padding-top: 120px; 
-    text-align: center;
-    line-height: 1.1;
-    margin: 0 100px;
-  }
-}
-
 .single-wrap {
   width: 100%;
-  max-width: 780px;
-  margin: $spacing-s auto;
-  font-family: $variant-family;
-  z-index: 1;
-
-  .single-content {
-    padding: 0 $spacing-m;
-    @media (max-width: 642px) {
-      padding-bottom: $spacing-l;
-    }
+  max-width: 57rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem 0 0;
+  @media (min-width: 40rem) {
+    padding-top: 0;
+  }
+  @media (min-width: 64rem) {
+    padding-top: 0;
+    padding-right: 0;
   }
 
-  .feat {
-    text-align: center;
-    border-bottom: 1px dotted $border-color;
-    margin: 0 auto $spacing-l;
-    a.popup {
-      display: inline-block;
-      position: relative;
-      top: .7em;
-      background: #fff;
-      font-size: 130%;
-      text-align: center;
-      text-decoration: none;
-      padding: 0 $spacing-s;
-      transition: all .2s ease;
-      -webkit-transition: all .2s ease;
-      @media (max-width: 642px) {
-        font-size: 150%;
+  p.date {
+    color: burlywood;
+    font-size: 8vw;
+    font-family: $bold-family;
+    margin: 2rem 0 0;
+    @media (min-width: 40rem) {
+      font-size: 4vw;
+    }
+    @media (min-width: 64rem) {
+      font-size: 3rem;
+    }
+  }
+  h1.page-title {
+    font-size: 10vw;
+    line-height: 1;
+    font-family: $bold-family;
+    color: darkslategrey;
+    margin: 0;
+    @media (min-width: 40rem) {
+      font-size: 6vw;
+    }
+    @media (min-width: 64rem) {
+      font-size: 4rem;
+    }
+  }
+  h3.sub {
+    margin: 1rem 0 2rem;
+    opacity: 0.6;
+  }
+
+  .body {
+    margin-top: 2rem;
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: 2rem;
+  }
+
+  p, ul, ol {
+    margin: 1rem 0;
+    li {
+      margin-left: 1.5rem;
+      @media (min-width: 52rem) {
+        margin-left: 0;
       }
     }
   }
 
-  .page-date {
-    display: inline-block;
-    position: relative;
-    top: 1.1em;
-    background: $bg-color;
-    font-family: $variant-family;
-    font-size: 85%;
-    text-align: center;
-    font-weight: normal;
-    font-style: italic;
-    padding: 0 $spacing-s;
-    text-transform: none;
-    letter-spacing: 1px;
-  }
-
-  .share {
-    margin: $spacing-l auto;
-  }
-
-  h1.page-title {
-    font-size: 180%;
-    line-height: 135%;
-    font-family: $font-family;
-    text-align: center;
-    margin: 0 0 $spacing-m;
-  }
-
-  ul, 
-  ol {
-    margin: $spacing-m 0;
-    li {
-      margin-bottom: $spacing-xs;
-    }
-  }
-
   blockquote {
-    font-size: 150%;
-    font-family: $font-family;
-    font-weight: lighter;
-    color: lighten($text-color, 40%);
-    border-left: 4px solid $main-color;
-    padding-left: $spacing-s;
+    font-size: 7vw;
+    font-family: $bold-family;
+    color: darkslategrey;
+    border-left: 4px solid darkslategrey;
+    padding-left: 1rem;
     margin-top: $spacing-m;
     margin-bottom: $spacing-m;
-    margin-left: -$spacing-l;
+    margin-left: 0;
     margin-right: 0;
-    line-height: 165%;
+    line-height: 1.2;
 
-    @media (max-width: 942px) {
-      margin-left: 0;
+    @media (min-width: 40rem) {
+      font-size: 4vw;
     }
     p {
       padding-left: 0!important;
@@ -109,15 +84,7 @@
   img {
     width: 100%;
     height: 100%;
-  }
-
-  a {
-    border-bottom: 1px solid #ccc;
-
-    &:hover {
-      border-bottom: 1px solid $highlight-color;
-     
-    }
+    border-radius: 6px;
   }
 
 
@@ -142,21 +109,21 @@
   }
 }
 
-#prev { 
-  left: 40px; 
+#prev {
+  left: 40px;
   @media (max-width: 942px) {
-    float: left; 
+    float: left;
   }
 }
 
-#next { 
-  right: 40px; 
+#next {
+  right: 40px;
   @media (max-width: 942px) {
-    float: right; 
+    float: right;
   }
 }
 
-#prev:active, 
+#prev:active,
 #next:active {
   border-color: $main-color;
 }
@@ -164,7 +131,7 @@
 .nav-title {
   display: none;
   @media (max-width: 942px) {
-    display: inline; 
+    display: inline;
   }
 }
 

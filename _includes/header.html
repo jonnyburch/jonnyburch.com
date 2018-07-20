@@ -1,14 +1,8 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
+<header class="header">
+  <div class="h-wrap">
+      <div class="h-container">
+        <h3 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.author }}</a><a class="about-link" href="/about">About</a></h3>
+        <!-- <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
+      </div>
   </div>
 </header>

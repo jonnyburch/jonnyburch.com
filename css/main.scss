@@ -10,6 +10,7 @@
 
 // Base
 @import 'base/reset';
+@import 'base/fonts';
 @import 'base/variables';
 @import 'base/utilities';
 @import 'base/global';
@@ -21,7 +22,9 @@
 // Partials
 @import 'partials/header';
 @import 'partials/footer';
+@import 'partials/mailing_list';
 
 // Pages
+@import 'pages/main_column';
 @import 'pages/home';
 @import 'pages/posts';

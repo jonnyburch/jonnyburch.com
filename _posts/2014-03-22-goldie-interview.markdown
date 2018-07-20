@@ -1,8 +1,8 @@
 ---
 layout: post
-menu_title: Goldie
-title:  "An interview with Drum n Bass legend Goldie"
-categories: interviews
+title: Meeting Mr. Goldie
+description:  "An interview with Drum n Bass legend Goldie"
+categories: Interview
 date:   2014-03-22 12:01:00
 img_url: goldie.jpg
 shout: Goldie
@@ -27,8 +27,6 @@ I turned up at Goldie's house with a camera and my laptop to see him bombing out
 
 Finally, photos over, I managed to get him sitting down for a chat about the youth of today, harnessing creativity and where he gets his drive.
 
----
-
 <img src="{{ site.baseurl }}/assets/img/goldie2.jpg">
 <small>Goldie's home art gallery</small>
 
@@ -44,7 +42,7 @@ It's purely because a a generation very in touch, with social media and whatever
 
 That's what happens with technology. If you think you're insignificant you should try sleeping in a fucking tent with a fucking mosquito. We're at the end of Moore's Law(1) now and we need new ways to handle technology and apply it to society because it's getting out of control. Let's hit that send button BYE BYE BYE BYE BYE BYE do you know that Somerset's underwater?We have no reality because it's on a fucking laptop. It's been warped by technology and science while schools are way behind.
 
-When I was stealing paint at the humble age of 17, at least I had an appreciation for the amount of paint I had and what I'd gained for a period of 6 or 7 weeks, collating a quantity of pissy paint so I could do my next wall. No different than the schematics of making a record, waiting in line, cutting a dubplate, sticking a label on it, going to a club, queuing up to see Fabio or Grooverider, handing them the record, sitting on the dance floor waiting for it to get played. It didn't the first week, it might have done on the third week. 
+When I was stealing paint at the humble age of 17, at least I had an appreciation for the amount of paint I had and what I'd gained for a period of 6 or 7 weeks, collating a quantity of pissy paint so I could do my next wall. No different than the schematics of making a record, waiting in line, cutting a dubplate, sticking a label on it, going to a club, queuing up to see Fabio or Grooverider, handing them the record, sitting on the dance floor waiting for it to get played. It didn't the first week, it might have done on the third week.
 
 It's all fucking disposable now. We're in a world of technology, but what's tangible about it. Do you have a craft? If you close your laptop can you do anything?
 
@@ -63,8 +61,8 @@ It comes from abandonment issues and being misunderstood. Duh, I chose Drum and 
 **But you could have been a businessman or anything. Why that?**
 
 I could have been a good fucking crime guy. When I was a kid I did some really bad things. I knew I was troubled, I knew I had issues from a really early age.
- 
-Watch good film. Watch good documentary. Make stuff. Close your laptop for fucking one day of the fucking week. Get out more. Go and climb a fucking hill. Go and punish yourself in the gym. Go and run around the block until your heart wants to burst out your fucking chest. Paint until it makes no fucking sense whatsoever. Write words that fucking even Iggy and Bowie in the 60s would be proud of. Be experimental. The greatest thing comes from experimenting, being part of the fucking experiment. 
+
+Watch good film. Watch good documentary. Make stuff. Close your laptop for fucking one day of the fucking week. Get out more. Go and climb a fucking hill. Go and punish yourself in the gym. Go and run around the block until your heart wants to burst out your fucking chest. Paint until it makes no fucking sense whatsoever. Write words that fucking even Iggy and Bowie in the 60s would be proud of. Be experimental. The greatest thing comes from experimenting, being part of the fucking experiment.
 
 I'm not asking you to stick fucking knives in rabbits eyes. It's about saying hey man, we've got to pick up the mess. I play to these kids and I think 'hey you look sad'.
 
@@ -86,11 +84,11 @@ If a buddhist chants for 25 years or a priest goes into a church for 25 years, d
 
 **Have you ever found that theres been something you haven't been as good at as you've wanted to be? How do you deal with it?**
 
-Yeah, ironically I could never read music. But it made me want to make music even more. 
+Yeah, ironically I could never read music. But it made me want to make music even more.
 
 **Was there a moment of realisation?**
 
-Yeah dyslexia. I've never been able to read well, I used to have to hold a ruler firmly under the line I was reading just to do it. I'd read books and read the same paragraph over and over again. But I like that because it meant I had to do it differently. 
+Yeah dyslexia. I've never been able to read well, I used to have to hold a ruler firmly under the line I was reading just to do it. I'd read books and read the same paragraph over and over again. But I like that because it meant I had to do it differently.
 
 I think this may be a made up word but I use a Seancic method with music, pulling it vicariously through others. Like a seance, I work with engineers and puppeteer the music together.
 
@@ -107,13 +105,10 @@ Yeah, Timeless is being orchestrated! It's going to be for the Melt Festival at 
 
 **Cracking, Cheers Goldie.**
 
----
-
-And suddenly Goldie's off on his next adventure. Who knows what it will be.
+_And suddenly Goldie's off on his next adventure. Who knows what it will be._
 
 _You can get info on everything Goldie online at www.goldie.co.uk. I strongly encourage you to also listen to Timeless on Spotify or the internets somewhere, it's a journey._
 
+<small>1. A <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank">prediction</a> by engineer and co-founder of Intel Gordon E Moore, who claimed that the number of transistors in electrical circuits (and therefore the power of technology) would double every two years. It has so far more than come true.</small>
 
 ---
-
-<small style="line-height:1.2">1. A <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank">prediction</a> by engineer and co-founder of Intel Gordon E Moore, who claimed that the number of transistors in electrical circuits (and therefore the power of technology) would double every two years. It has so far more than come true.</small>

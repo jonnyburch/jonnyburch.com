@@ -1,26 +1,20 @@
 ---
 layout: post
-menu_title: Tim Key
-title:  "Tim Key is weird. We went fake bowling."
-categories: interviews
+title: Not bowling with Tim Key
+description:  "Tim Key is weird."
+categories: Interview
 date:   2013-05-14 12:01:00
 img_url: timkey_top.jpg
 img_small_url: timkey.jpg
 ---
 
-_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+As is the tradition at ShellsuitZombie magazine, we like to interview our stars while playing a minor sport. First it was pool, then darts. For this issue we invited multi-award winning comedian and poet Tim Key to join us in a round of ten pin bowling. Except, as is tradition, it’s all a lie. Well, unless he was emailing me from Hollywood Bowl in North Finchley. Which would be an extraordinary coincidence.
 
-_At the time (mid 2013) he was pretty famous but last week I saw him on ITV's Saturday Morning Kitchen, so worldwide superstardom is surely only a half step away._
+After much trash talk, Tim Key (35, Famous poet,comedian and star of Mid Morning Matters) and I finally agree to meet up at Hollywood bowl in North Finchley. By the time we are through the shoe swap Tim is already complaining about Hygeine standards and I’m starting to wonder whether this interview will be a shambles.
 
----- 
+Tim’s reputation as the supposed kingpin of the north London comedian’s bowling circuit obviously precedes him, as both the manager of Burger King and several of the slot machine regulars give him knowing nods. I suspect that Tim Key is about to wipe the floor with me. But I don’t care. I just want a chat.
 
-_As is the tradition at ShellsuitZombie magazine, we like to interview our stars while playing a minor sport. First it was pool, then darts. For this issue we invited multi-award winning comedian and poet Tim Key to join us in a round of ten pin bowling. Except, as is tradition, it’s all a lie. Well, unless he was emailing me from Hollywood Bowl in North Finchley. Which would be an extraordinary coincidence._
-
-_After much trash talk, Tim Key (35, Famous poet,comedian and star of Mid Morning Matters) and I finally agree to meet up at Hollywood bowl in North Finchley. By the time we are through the shoe swap Tim is already complaining about Hygeine standards and I’m starting to wonder whether this interview will be a shambles._
-
-_Tim’s reputation as the supposed kingpin of the north London comedian’s bowling circuit obviously precedes him, as both the manager of Burger King and several of the slot machine regulars give him knowing nods. I suspect that Tim Key is about to wipe the floor with me. But I don’t care. I just want a chat._
-
-_Having entered his name somewhat intimidatingly as just ‘KEY’, Tim strolls up to the lane and unzips his custom ball bag, revealing the orb within._
+Having entered his name somewhat intimidatingly as just ‘KEY’, Tim strolls up to the lane and unzips his custom ball bag, revealing the orb within.
 
 __Do you like ten pin bowling?__
 
@@ -93,3 +87,9 @@ __Fair enough. Thanks for all the words and the wonderful game Tim.__
 No worries. It broke up my morning nicely.
 
 _Tim zips up and polishes off his diet coke, seemingly satisfied with a job well done. You can visit his website at [www.timkey.co.uk](http://www.timkey.co.uk) or follow him on twitter at @timkeyperson._
+
+_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk)._
+
+_At the time (mid 2013) he was pretty famous but last week I saw him on ITV's Saturday Morning Kitchen, so worldwide superstardom is surely only a half step away._
+
+---
