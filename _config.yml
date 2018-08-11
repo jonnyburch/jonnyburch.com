@@ -119,11 +119,9 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /:title/
-paginate:     4
 sass:
   style: compressed
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:

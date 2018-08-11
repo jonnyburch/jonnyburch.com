@@ -5,7 +5,9 @@ layout: default
 <section class="single-post single-wrap">
   <p class="date">{{ page.date | date_to_long_string }}</p>
   <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+  {% if page.description %}
   <h3 class="sub" itemprop="name headline">{{ page.description }}</h3>
+  {% endif %}
   <div class="body" itemprop="articleBody">
     {{ content }}
   </div>
