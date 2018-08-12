@@ -4,9 +4,10 @@ title: Building conviction– how one false assumption changed my founder journe
 description: My first 100 days as a (kind of) startup founder
 categories: Article
 date:   2018-05-26 12:01:00
+img: /assets/img/journal/team.jpg
 ---
 
-![Siadhal, me and Shahriar working hard](https://cdn-images-1.medium.com/max/2400/1*6pcBoeKUw2LCjFnb6wNo8A.jpeg)*Siadhal, me and Shahriar working hard*
+![Siadhal, me and Shahriar working hard](/assets/img/journal/team.jpg)*Siadhal, me and Shahriar working hard*
 
 Back in February, I left my job as a design lead at [Deliveroo](https://deliveroo.co.uk/) to start something new. Two and a half years seeing the product explode in popularity and company grow about 700%, after another three and a half helping to build a [bank for children](https://osper.com/), had left me with ‘the bug’. It was time to build something again.
 
