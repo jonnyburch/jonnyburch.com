@@ -10,7 +10,7 @@ date:   2016-12-09 12:01:00
 
 **Are you having a hard time getting your designs built? **Does it feel like everything’s a priority? Are your product owners too obsessed with numbers, and don’t value the quality of the experience?
 
-At [Deliveroo](https://deliveroo.co.uk/) we’re incredibly lucky to have not only [a great design team](http://www.deliveroo.design/), but also a fantastic set of product people who value what we do. However that doesn’t mean shipping ‘good design’ is always easy.
+At [Deliveroo](https://deliveroo.co.uk/) we’re incredibly lucky to have not only [a great design team](https://www.deliveroo.design/), but also a fantastic set of product people who value what we do. However that doesn’t mean shipping ‘good design’ is always easy.
 
 Whether you’re in a big company or a small one, early stage or decades old, at some point you’re going to experience the frustration of feeling like you can’t ship good work.
 
@@ -170,10 +170,10 @@ This isn’t just true of designers. To become influential and essential in your
 
 Good luck! It’s not easy, but the result will be a better product for everyone.
 
-*This article was adapted from my presentation on the Google stage at [Slush 2016](http://www.slush.org/) in Helsinki. Thanks to Google Developers for inviting me to that. That talk is [here](https://www.youtube.com/watch?v=eSdlxnGGpHg) if you want to look at the top of my head for half an hour._
+*This article was adapted from my presentation on the Google stage at [Slush 2016](https://www.slush.org/) in Helsinki. Thanks to Google Developers for inviting me to that. That talk is [here](https://www.youtube.com/watch?v=eSdlxnGGpHg) if you want to look at the top of my head for half an hour._
 
 _It was then a Medium post, which is [here](https://medium.com/deliveroo-design/4-principles-for-shipping-good-design-when-everythings-on-fire-d04090e90710)_
 
-_The fingerprints belong to my wife [Karen](http://karenbrotherton.squarespace.com/) — I stole them off our 2015 Christmas cards...*
+_The fingerprints belong to my wife [Karen](https://karenbrotherton.squarespace.com/) — I stole them off our 2015 Christmas cards...*
 
 ----

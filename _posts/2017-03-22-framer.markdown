@@ -10,9 +10,9 @@ date:   2017-03-22 12:01:00
 
 ![Our design team about 6 months ago (we’ve since grown!), and [Saffad Khan](undefined) nailing some flows.](https://cdn-images-1.medium.com/max/11520/1*RR7AuKEioVvEWBfH_xl0JQ.jpeg)*Our design team about 6 months ago (we’ve since grown!), and [Saffad Khan](undefined) nailing some flows.*
 
-In the last four years, [Deliveroo](http://www.deliveroo.co.uk) has grown from its first delivery to a food delivery service spanning 12 countries, 130+ cities with 20,000+ restaurants and 30,000+ riders delivering restaurant quality food to a lot of hungry people every week.
+In the last four years, [Deliveroo](https://www.deliveroo.co.uk) has grown from its first delivery to a food delivery service spanning 12 countries, 130+ cities with 20,000+ restaurants and 30,000+ riders delivering restaurant quality food to a lot of hungry people every week.
 
-At [Deliveroo Design](http://www.deliveroo.design/) we’re constantly looking for ways to improve how we work. As the team and the surface area of our product has grown, our design team has had to grow too. We’re now nearly 20 people, including 5 user researchers. As we grow, we need to become more efficient and be able to deliver *better* experiences, not just more of them.
+At [Deliveroo Design](https://www.deliveroo.design/) we’re constantly looking for ways to improve how we work. As the team and the surface area of our product has grown, our design team has had to grow too. We’re now nearly 20 people, including 5 user researchers. As we grow, we need to become more efficient and be able to deliver *better* experiences, not just more of them.
 
 ![](https://cdn-images-1.medium.com/max/3200/0*RM9YVIYmbRTCmSVv.)
 
@@ -46,7 +46,7 @@ That’s how you move fast when you’re 30, 60, 90 designers and researchers. A
 
 We hope to have a meaty Framer-led project to show off very soon. Watch this space.
 
-*We’re hiring designers and Framer knowledge is a real bonus. So if you fancy working for one of the fastest growing companies in Europe, [get in touch](http://www.deliveroo.design) or find us at a Framer meetup in London soon!*
+*We’re hiring designers and Framer knowledge is a real bonus. So if you fancy working for one of the fastest growing companies in Europe, [get in touch](https://www.deliveroo.design) or find us at a Framer meetup in London soon!*
 
 *You can also follow the [Deliveroo Design Team](undefined) on Medium for more about how we work and what we’re up to.*
 

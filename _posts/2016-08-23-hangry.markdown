@@ -22,10 +22,10 @@ The **C.U.M.F.I.** aims to give us at Deliveroo insight into not only the kind o
 But first let’s go back to the root of the **C.U.M.F.I** — one of your average Management Consultants favourite tools. Myers Briggs, (or the MBTI personality test).
 
 ![Myers Briggs is much more interesting if you’re a wizard](https://cdn-images-1.medium.com/max/1200/1*p7V7-lJg574F9UoqW5ja3w.jpeg)
-_Myers Briggs is much more interesting if you’re a wizard | [credit](http://makani.deviantart.com/)_
+_Myers Briggs is much more interesting if you’re a wizard | [credit](https://makani.deviantart.com/)_
 
 
-Many of you, learned readers, will have used the Myers Briggs personality test to discover the four letters that define your very being. Are you Introverted? Are you Judging? Tough shit, whatever you thought you are, you aren’t because Myers Briggs gave you four different letters. It told me I was [Ron Weasley](http://sunnysweetpea.com/wp-content/uploads/2014/10/mbti-harry-potter-chart.jpg). Great.
+Many of you, learned readers, will have used the Myers Briggs personality test to discover the four letters that define your very being. Are you Introverted? Are you Judging? Tough shit, whatever you thought you are, you aren’t because Myers Briggs gave you four different letters. It told me I was [Ron Weasley](https://sunnysweetpea.com/wp-content/uploads/2014/10/mbti-harry-potter-chart.jpg). Great.
 
 This chart tells you what you are deep down, but I thought it might be interesting to create a similar chart but for food types. My magical tool would help you know, based on your social situation, your general propensity for grease and several other factors, what you should eat at that point in time. But first I had to define my axes.
 

@@ -8,7 +8,7 @@ date:   2017-11-23 12:01:00
 
 In the last three years, the Deliveroo Content, Research and Design team has grown from a single designer to a team of nearly thirty designers, researchers and content writers, with no signs of stopping any time soon. (*[We’re hiring](https://deliveroo.design/) by the way.*)
 
-This is great. It means we can support the product teams as they grow (over 250 people now work in our product and tech organisation), we have capacity and time to do better work, and we can also think about what processes, [rituals and artifacts](http://www.vantigeinc.com/blog/bid/267686/Artifacts-Legends-and-Rituals-Keys-to-your-Company-Culture) we need as we grow.
+This is great. It means we can support the product teams as they grow (over 250 people now work in our product and tech organisation), we have capacity and time to do better work, and we can also think about what processes, [rituals and artifacts](https://www.vantigeinc.com/blog/bid/267686/Artifacts-Legends-and-Rituals-Keys-to-your-Company-Culture) we need as we grow.
 
 We’ve grown fast, which means change in our team culture has happened fast too. We’re very proud of the (incredible) people in the team, but sometimes you need more than talent when there are so many moving parts and everyone is embedded in their own product team and project, with less time to all hang out.
 
@@ -53,7 +53,7 @@ Some were about being able to work more efficiently at scale, some were about en
 
 ![](https://cdn-images-1.medium.com/max/7016/1*BCZvjGVQGbnrXoZtzaDjxQ.jpeg)
 
-![Our principle posters, illustrated by [Sam Ailey](http://samailey.co.uk/)](https://cdn-images-1.medium.com/max/7016/1*xOr1ptGSncCm-2fdTwfpWg.jpeg)*Our principle posters, illustrated by [Sam Ailey](http://samailey.co.uk/)*
+![Our principle posters, illustrated by [Sam Ailey](https://samailey.co.uk/)](https://cdn-images-1.medium.com/max/7016/1*xOr1ptGSncCm-2fdTwfpWg.jpeg)*Our principle posters, illustrated by [Sam Ailey](https://samailey.co.uk/)*
 
 What was interesting was that what we ended up with, we were confident we were already doing in some capacity — but in articulating them we could double down on them. Still, some would ask — if they’re so obvious and everyone already agrees,* why have them at all?*
 

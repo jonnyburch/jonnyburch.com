@@ -122,8 +122,8 @@ __Thanks for everything guys!__
 
 INT: No worries, laterz.
 
-_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](https://shellsuitzombie.co.uk/magazine/)._
 
-_Visit It's Nice That online at [itsnicethat.com](http://www.itsnicethat.com)_
+_Visit It's Nice That online at [itsnicethat.com](https://www.itsnicethat.com)_
 
 ---

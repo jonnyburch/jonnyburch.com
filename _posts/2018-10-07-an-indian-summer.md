@@ -50,7 +50,7 @@ I've created and iterated on a workshop format that brings design teams closer t
 
 **4. I'm exploring partnering up with people**
 
-Solo is fun, but I'd love to find people to share this with. A month ago I met [Ben](http://www.thedesignteam.us/), and immediately realised that he'd been thinking about all the same stuff as me, but for three times as long. We've since hung out a lot and talked through the problem space, which has been a huge benefit to me. I'm excited to see what we can do together in the future.
+Solo is fun, but I'd love to find people to share this with. A month ago I met [Ben](https://www.thedesignteam.us/), and immediately realised that he'd been thinking about all the same stuff as me, but for three times as long. We've since hung out a lot and talked through the problem space, which has been a huge benefit to me. I'm excited to see what we can do together in the future.
 
 **5. I've started a podcast**
 

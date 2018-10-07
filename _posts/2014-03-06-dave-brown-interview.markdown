@@ -107,8 +107,8 @@ No worries, nice to meet you.
 
 _And with that, like an ape in the woods, he was gone._
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/). It's the first of a few interviews and articles from the last few years that will appear on this site._
+_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](https://shellsuitzombie.co.uk/magazine/). It's the first of a few interviews and articles from the last few years that will appear on this site._
 
-_Incidentally Dave's website, [Ape Inc.](http://www.apeinc.co.uk/home.php), is ace. Go do a looky._
+_Incidentally Dave's website, [Ape Inc.](https://www.apeinc.co.uk/home.php), is ace. Go do a looky._
 
 ---

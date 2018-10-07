@@ -86,9 +86,9 @@ __Fair enough. Thanks for all the words and the wonderful game Tim.__
 
 No worries. It broke up my morning nicely.
 
-_Tim zips up and polishes off his diet coke, seemingly satisfied with a job well done. You can visit his website at [www.timkey.co.uk](http://www.timkey.co.uk) or follow him on twitter at @timkeyperson._
+_Tim zips up and polishes off his diet coke, seemingly satisfied with a job well done. You can visit his website at [www.timkey.co.uk](https://www.timkey.co.uk) or follow him on twitter at @timkeyperson._
 
-_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](http://shellsuitzombie.co.uk)._
+_This article was originally posted in ShellsuitZombie magazine issue 4 in June 2013, which you can see [here](https://shellsuitzombie.co.uk)._
 
 _At the time (mid 2013) he was pretty famous but last week I saw him on ITV's Saturday Morning Kitchen, so worldwide superstardom is surely only a half step away._
 

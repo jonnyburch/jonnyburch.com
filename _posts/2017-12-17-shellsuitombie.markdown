@@ -6,7 +6,7 @@ categories: Article
 date:   2017-12-17 12:01:00
 ---
 
-After nine years and literally thousands of happy memories, we’ve decided to formally shut [ShellsuitZombie](http://shellsuitzombie.co.uk) down.
+After nine years and literally thousands of happy memories, we’ve decided to formally shut [ShellsuitZombie](https://shellsuitzombie.co.uk) down.
 
 ShellsuitZombie deservedly belongs to all of you, earned through early morning train journeys and evenings spent proof reading articles, through boozy pub sessions and Skype discussions. We’ve distributed tens of thousand of magazines that you’ve illustrated, designed and written for, we’ve run raucous events that you’ve organised, helped out at and cleaned up after, and we’ve published hundreds of online pieces which you’ve carved with your beautiful hands and minds.
 

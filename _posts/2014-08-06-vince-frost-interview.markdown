@@ -64,8 +64,8 @@ When I was starting up I was doing little magazine projects and when they gained
 
 He was out here, whatsisname. On the front cover of magazines and that. I’m glad he’s thinning as much as I am! You know what, my dad left for Canada in ‘66, he was really pissed off with the class system in the UK. It still feels like that a bit you know? I don’t like to be pigeonholed, humans are meant to be free, I don’t care what school someone went to. Australians have a very can-do attitude, that’s what I love about this country. It’s not held back by the old-school school tie feel, it feels like anything is possible, which is really exciting.
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+_This article was originally posted in ShellsuitZombie magazine issue 2 back in 2011, which you can see [here](https://shellsuitzombie.co.uk/magazine/)._
 
-_Check out Vince’s work at [frostdesign.com.au](http://www.frostdesign.com.au)._
+_Check out Vince’s work at [frostdesign.com.au](https://www.frostdesign.com.au)._
 
 ---

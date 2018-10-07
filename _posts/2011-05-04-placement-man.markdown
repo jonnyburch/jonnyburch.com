@@ -37,9 +37,9 @@ But I had to ask, why spend 18 months bed-hopping round some pretty ropey soundi
 <img src="{{ site.baseurl }}/assets/img/placementman2.jpg">
 
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/)._
+_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](https://shellsuitzombie.co.uk/magazine/)._
 
-_Illustrations by one of my best mates [Bora Demirbilek](http://www.blogobora.com/)_
+_Illustrations by one of my best mates [Bora Demirbilek](https://www.blogobora.com/)_
 
 
 ---

@@ -167,6 +167,6 @@ to Twitter!
 
 _Neil then stylishly finishes Mark off with a double top, becoming the first winner of fake ShellsuitZombie darts ever. He would have looked proud and honoured (and probably made a winners speech) if I hadn’t made the darts bit up. There had now been a two and a half hour period of no tweets from Creative Review, people were starting to need their fix. It was time to go._
 
-_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](http://shellsuitzombie.co.uk/magazine/). Neither Mark nor Neil work at Creative Review any more, which is a pity._
+_This article was originally posted in ShellsuitZombie magazine issue 2 in 2011, which you can see [here](https://shellsuitzombie.co.uk/magazine/). Neither Mark nor Neil work at Creative Review any more, which is a pity._
 
 ---

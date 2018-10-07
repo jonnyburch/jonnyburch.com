@@ -4,7 +4,7 @@ email:       jonny@jonnyburch.com
 author:      Jonny Burch
 description: "Jonny Burch"
 baseurl:     ""
-url:         "http://jonnyburch.com"
+url:         "https://jonnyburch.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md

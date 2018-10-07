@@ -32,7 +32,7 @@ The idea is that the faster your ‘O.O.D.A.’ loop is, the quicker you’ll ge
 
 **Observe:** Go to the people who you think might be interested in your idea and check to make sure. Think about how you want to frame your idea to get honest feedback — the last thing you want at this stage is a sycophant telling you the sun shines out of your idea’s arse, only to find out in 6 months that they hated it all along.
 
-**Orient:** This is a hard one, not just because you need to master an analytics tool of some sort but also know what it is you’re measuring. Measure the wrong thing and you can be left with some assumptions that are just plain wrong. (For example check out the dangers with [mixing up causation and correlation](http://www.latimes.com/business/hiltzik/la-fi-mh-see-correlation-is-not-causation-20140512-column.html)).
+**Orient:** This is a hard one, not just because you need to master an analytics tool of some sort but also know what it is you’re measuring. Measure the wrong thing and you can be left with some assumptions that are just plain wrong. (For example check out the dangers with [mixing up causation and correlation](https://www.latimes.com/business/hiltzik/la-fi-mh-see-correlation-is-not-causation-20140512-column.html)).
 If you don’t have any users, you’ll have to rely on qualitative tests (with individual users or friends) — just be aware that each only provides one data point so may not be statistically significant.
 
 **Decide:** Based on your learnings revisit your designs and make improvements. The best improvements are small ones that you can test individually — change everything and you won’t know which change was effective.
