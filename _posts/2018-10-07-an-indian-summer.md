@@ -1,13 +1,16 @@
 ---
 layout: post
-title: An Indian Summer
+title: 'Week 17: An Indian Summer'
+categories: Journal
 date: 2018-10-07 00:16 +0100
+img: /assets/img/journal/pizza.jpg
+description: It's been a wild couple of months. Still haven't launched.
 ---
 
 <br>
 <img src="/assets/img/journal/pizza.jpg">
 <br>
-<small>Reason are an amazing incubator</small>
+<small>Hanging out at [Reason](https://withreason.co.uk), my amazing incubator/pals</small>
 
 
 ### The skinny
