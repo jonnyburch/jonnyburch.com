@@ -52,7 +52,13 @@ I've created and iterated on a workshop format that brings design teams closer t
 
 Solo is fun, but I'd love to find people to share this with. A month ago I met [Ben](http://www.thedesignteam.us/), and immediately realised that he'd been thinking about all the same stuff as me, but for three times as long. We've since hung out a lot and talked through the problem space, which has been a huge benefit to me. I'm excited to see what we can do together in the future.
 
-**5. I've started a podcast**
+
+<br>
+<img src="/assets/img/journal/pod-andy-budd.png">
+<br>
+<small>Listen to the podcast [here](https://anchor.fm/progression-pod)</small>
+
+**5. I started a podcast**
 
 Speaking of partnering up, I got chatting to Austin from [AllxDesign](https://www.allxdesign.com/) and we realised we both wanted to mess about with podcasting. So in classic 'done is better than perfect' fashion, we decided to just record one.
 Sound quality wasn't amazing, but we enjoyed it, and I soon realised that I had a list as long as my arm of people I wanted to talk to. 
