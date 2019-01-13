@@ -5,13 +5,28 @@ title: Homepage
 
 <div class="home">
   <section>
-    <h1 class="headline">I'm writing:</h1>
+    <h3 class="headline">I'm working on:</h3>
+    <ul class="posts">
+      <li class="post">
+        <a href="http://progressionapp.com">
+          <div class="title">Progression</div>
+          <div class="meta">A product to help design teams to grow</div>
+        </a>
+      </li>
+      <li class="post">
+        <a href="http://makegrow.co">
+          <div class="title">Make and Grow</div>
+          <div class="meta">A business that I want to work for</div>
+        </a>
+      </li>
+    </ul>
+    <h3 class="headline">I'm writing:</h3>
     <ul class="posts">
       {% for post in site.posts %}
-        <li class="post-list">
+        <li class="post">
           <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
-            <span class="title">{{ post.title }}</span>
-            <span class="arrow">⇠</span><span class="category">{{ post.categories }},</span><span class="date"> {{ post.date | date: '%d %b %Y' }}</span>
+            <div class="title">{{ post.title }}</div>
+            <div class="meta">{{ post.categories }}, {{ post.date | date: '%d %b %Y' }}</div>
           </a>
         </li>
       {% endfor %}

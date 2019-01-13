@@ -9,7 +9,7 @@ footer {
   .links {
     margin-bottom: 2rem;
   }
-  p {color: darkslategrey}
+  p {color: $main-color}
   ul {
     display:flex;
     flex-wrap: wrap;
@@ -19,8 +19,8 @@ footer {
       margin-right: 1rem;
       a {
         @extend p;
-        color: darkslategrey;
-        font-family: $bold-family;
+        color: $main-color;
+        font-family: $font-family;
         line-height: 1.6;
       }
     }

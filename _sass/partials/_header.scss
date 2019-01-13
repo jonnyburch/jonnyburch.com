@@ -3,9 +3,10 @@
   display: grid;
   grid-template-columns: 40px 1fr;
   grid-template-rows: 1fr;
-  background-color: rgba(255,239,213, 0.6); // #FFF9F0
+  background-color: $site-bg-color; // #FFF9F0
   min-height: 100%;
-  @media (min-width: 40rem) {
+
+  @include sm {
     grid-template-columns: 50px 1fr;
   }
 }
@@ -14,7 +15,8 @@ header {
   grid-column: 1;
   width: 40px;
   background-color: white;
-  @media (min-width: 40rem) {
+
+  @include sm {
     width: 50px;
   }
 }
@@ -24,7 +26,8 @@ header {
   margin: 0 auto;
   left: 20px;
   top: 100px;
-  @media (min-width: 40rem) {
+
+  @include sm {
     left: 25px;
   }
 
@@ -32,27 +35,34 @@ header {
     // max-width: 780px;
     margin: 0 auto;
 
-    .title, .menu {
+    .title,
+    .menu {
       @extend h5;
       display: inline-block;
       margin: 0;
       padding: 0;
       transform: translateX(-50%) rotate(90deg);
-      color: darkslategrey;
+      color: $main-color;
+
       a {
-        color: darkslategrey;
+        color: $main-color;
         text-decoration: none;
+
         &:hover {
           color: black;
         }
+
         &.about-link {
+          @include text-gradient;
           margin-left: 1rem;
-          color: rgba(47,79,79, 0.3);
+          color: rgba(47, 79, 79, 0.3);
         }
       }
-    } // end h1.title
+    }
+
+    // end h1.title
     .menu {
-      font-weight: normal;
+      font-weight: $font-weight;
       margin-left: 5px;
     }
 
@@ -62,28 +72,34 @@ header {
 
         &::before,
         &::after {
-          top:0;
+          top: 0;
           width: 30px;
           -webkit-transition: transform .3s ease;
-          transition:         transform .3s ease;
+          transition: transform .3s ease;
         }
 
         &::before {
           -webkit-transform: rotate(45deg);
-          transform:         rotate(45deg);
+          transform: rotate(45deg);
           margin: 0;
         }
 
         &::after {
           -webkit-transform: rotate(-45deg);
-          transform:         rotate(-45deg);
+          transform: rotate(-45deg);
           margin: 0;
         }
 
-      } // end .lines
-    } // end .close
+      }
+
+      // end .lines
+    }
+
+    // end .close
   }
-} // end .h-wrap
+}
+
+// end .h-wrap
 
 .menu-icon {
   @extend %padding-large;
@@ -92,6 +108,7 @@ header {
   right: 0;
   cursor: pointer;
   z-index: 200;
+
   &:hover {
     opacity: 1;
   }
@@ -119,24 +136,35 @@ header {
       transition: all .3s ease;
     }
 
-    &::before { top: 8px; }
-    &::after { top: -8px; }
+    &::before {
+      top: 8px;
+    }
+
+    &::after {
+      top: -8px;
+    }
 
     &.toggled {
       background: transparent;
+
       &::before {
         -webkit-transform: translateX(-8px) rotate(45deg);
-        transform:         translateX(-8px) rotate(45deg);
+        transform: translateX(-8px) rotate(45deg);
       }
+
       &::after {
         top: 0;
         -webkit-transform: translateX(8px) rotate(-45deg);
-        transform:         translateX(8px) rotate(-45deg);
+        transform: translateX(8px) rotate(-45deg);
       }
     }
-  } // .lines
+  }
 
-} // end .menu-icon
+  // .lines
+
+}
+
+// end .menu-icon
 
 
 
@@ -144,13 +172,14 @@ header {
 
 .off-canvas {
   @extend %padding-large;
-  transition: transform .3s ease;;
+  transition: transform .3s ease;
+  ;
   position: fixed;
   top: 0;
   right: -25em;
   width: 25em;
   height: 100%;
-  background: $smoke-color;
+  background: $hint-color;
   z-index: 100;
   overflow: auto;
 
@@ -161,27 +190,32 @@ header {
 
   &.toggled {
     -webkit-transform: translateX(-25em);
-    transform:         translateX(-25em);
+    transform: translateX(-25em);
     border-left: 1px solid $border-color;
   }
 
   .avatar {
     display: block;
     margin-bottom: $spacing-s;
+
     img {
       width: 6em;
       height: 6em;
       border-radius: 50%;
     }
-  } // end .avatar
+  }
+
+  // end .avatar
 
 
   .bio {
     display: block;
+
     h1 {
       @extend h3;
       margin: 0;
     }
+
     p {
       font-size: 90%;
       color: lighten($text-color, 30%);
@@ -200,13 +234,17 @@ header {
       padding-bottom: $spacing-xs;
       border-bottom: 1px solid $border-color;
     }
+
     ul li {
       list-style-type: none;
       margin-bottom: $spacing-xs;
+
       a {
         text-decoration: none;
       }
     }
   }
 
-} // end .off-canvas
+}
+
+// end .off-canvas

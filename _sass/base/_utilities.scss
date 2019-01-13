@@ -1,3 +1,56 @@
+// Small devices
+@mixin xs {
+    @media (max-width: #{$screen-sm-min}) {
+        @content;
+    }
+}
+
+
+// Small devices
+@mixin sm {
+    @media (min-width: #{$screen-sm-min}) {
+        @content;
+    }
+}
+
+// Medium devices
+@mixin md {
+    @media (min-width: #{$screen-md-min}) {
+        @content;
+    }
+}
+
+// Large devices
+@mixin lg {
+    @media (min-width: #{$screen-lg-min}) {
+        @content;
+    }
+}
+
+// Extra large devices
+@mixin xl {
+    @media (min-width: #{$screen-xl-min}) {
+        @content;
+    }
+}
+
+// All print styles
+@mixin print {
+    @media print {
+        @page {
+            margin: 10px;
+            size: A4 landscape;
+        }
+
+        @content;
+    }
+}
+
+.print-break {
+    page-break-after: always;
+}
+
+
 %transition {
   transition: all .3s ease;
 }
@@ -8,4 +61,10 @@
 
 %padding-large {
   padding: $spacing-m;
+}
+
+@mixin text-gradient {
+  background: $bg-gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

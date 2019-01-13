@@ -2,14 +2,14 @@
   max-width: 900px;
   margin: 0 0 1rem;
   p {
-    color: darkslategrey;
+    color: $main-color;
     margin: 0 1rem 1rem 0;
   }
   .subscribe-form {
     display: flex;
     flex-direction: column;
     padding-right: 1rem;
-    @media (min-width: 40rem) {
+    @include sm {
       flex-direction: row;
     }
 
@@ -17,31 +17,31 @@
       color: black;
       font-size: 5vw;
       background-color: white;
-      border: 2px solid darkslategrey;
+      border: 2px solid $main-color;
       border-radius: 6px 6px 0 0;
       padding: 1rem;
-      @media (min-width: 40rem) {
+      @include sm {
         width: 70%;
         border-radius: 6px 0 0 6px;
         font-size: $font-size-m;
       }
 
       &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-        color: burlywood;
+        color: $hint-color;
       }
       &::-moz-placeholder { /* Firefox 19+ */
-        color: burlywood;
+        color: $hint-color;
       }
       &:-ms-input-placeholder { /* IE 10+ */
-        color: burlywood;
+        color: $hint-color;
       }
       &:-moz-placeholder { /* Firefox 18- */
-        color: burlywood;
+        color: $hint-color;
       }
     }
     input[type="submit"] {
       font-size: 5vw;
-      background-color: darkslategrey;
+      background-color: $main-color;
       color: white;
       padding: 1rem;
       border: none;
