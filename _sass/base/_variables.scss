@@ -1,16 +1,19 @@
 // Colors
 
 $main-color: #333; // change this color for further customization (darkslategrey)
-$site-bg-color: #fbfbfb; //rgba(255, 239, 213, 0.6) - original colour
-$hint-color: #ff3399;
+$site-bg-color: white; //rgba(255, 239, 213, 0.6) - original colour
+$hint-color: #56ab2f;
 $bg-color: white; // background-color
-$bg-gradient: linear-gradient(to right, #ff3399 0%, #330867 100%);
+
+$red-gradient: linear-gradient(to right, #74221d 0%, #fd746c 100%);
+$green-gradient: linear-gradient(to right, #56ab2f 0%, #a8e063 100%);
 
 $text-color: $main-color;
 $link-color: $main-color;
 $header-color: $main-color;
 $border-color: $main-color;
 $highlight-color: $hint-color;
+$bg-gradient: $green-gradient;
 
 // I like https://colours.neilorangepeel.com/! Making colors semantic too ;)
 

@@ -1,67 +1,115 @@
 .home {
-  .headline {
-    margin: 0.5rem 0 0;
-    color: $main-color;
+  padding: 2rem 1rem 2rem 0;
+  @include md {
   }
+  section {
+    padding: 2rem 0;
+    @include md {
+    }
+    &.container {
+      .title {
+        margin: 0.5rem 0 2rem;
+        color: $main-color;
+        @include text-gradient;
+      }
+      .home-image {
+        max-width: 160px;
+        margin-bottom: 2rem;
+        box-shadow: $deep-shadow;
+        border-radius: 500px;
+        img {
+          width: 100%;
+          display: block;
+        }
+      }
+      p {
+        margin: 1rem 0;
+        font-size: $font-size-l;
+      }
+      .services {
+        padding-left: 1.25rem;
+      }
+      li {
+        font-size: $font-size-l;
+        margin: 0.5rem 0;
+      }
+    }
+    .headline {
+      margin: 0.5rem 0 1rem;
+      color: $main-color;
+      font-size: $font-size-l;
+    }
+    .posts {
+      padding: 0 1rem 1rem 0;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      align-items: baseline;
 
-  .posts {
-    padding: 0 1rem 1rem 0;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: baseline;
+      .post {
+        list-style-type: none;
+        margin-bottom: 0.5rem;
 
-    .post {
-      list-style-type: none;
+        .home-link {
+          text-decoration: none;
+          display: block;
 
-      a {
-        text-decoration: none;
-        display: contents;
+          .title {
+            @include text-gradient;
+            font-family: $font-family;
+            font-weight: $font-weight-bold;
+            margin: 0.4rem 0 0;
+            line-height: 1.2;
+            word-break: break-word;
+            border-bottom: 2px solid #f2f2f2;
+            font-size: $font-size-l;
+            @extend %transition;
+            &::after {
+              content: '';
+              @include text-gradient;
+              height: 3px;
+            }
 
-        .title {
-          @include text-gradient;
-          font-family: $font-family;
-          font-weight: $font-weight-bold;
-          margin: 0.4rem 0;
-          line-height: 1;
-          text-decoration: underline;
-          word-break: break-word;
-          @extend %transition;
+            @include sm {
+              margin-bottom: 0;
+            }
+
+            @include lg {
+              margin-bottom: 0;
+            }
+          }
+          &:hover {
+            padding-left: 0.5rem;
+            background: white;
+          }
+        }
+
+        .meta {
+          color: $main-color;
+          line-height: 1.4;
+          font-size: $font-size-l;
 
           @include sm {
-            margin-bottom: 0;
           }
 
           @include lg {
             margin-bottom: 0;
           }
         }
-      }
-
-      .meta {
-        color: $main-color;
-        line-height: 1.4;
-        font-size: $font-size-m;
 
         @include sm {
+          span.date {
+            margin-right: 1rem;
+          }
         }
 
-        @include lg {
-          margin-bottom: 0;
+        p {
+          margin: 0;
         }
-      }
-
-      @include sm {
-        span.date {
-          margin-right: 1rem;
-        }
-      }
-
-      p {
-        margin: 0;
       }
     }
   }
+
 }
 
 .pagination {
