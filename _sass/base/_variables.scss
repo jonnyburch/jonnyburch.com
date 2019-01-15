@@ -39,6 +39,8 @@ $font-size-l: 1.125rem; // font-size on desktop type screens
 $font-size-m: $font-size-l * 0.9; // font-size under 942px wide screens
 $font-size-s: $font-size-l * 0.7; // font-size under 642px wide screens
 $font-size-xl: $font-size-l * 1.2; // font-size under 642px wide screens
+$font-size-xxl: $font-size-l * 1.5; // font-size under 642px wide screens
+$font-size-xxxl: $font-size-l * 1.9; // font-size under 642px wide screens
 $variant-family: 'salomeregular';
 
 
@@ -68,4 +70,5 @@ $screen-xl-min: 75rem; //1200px
 
 // misc
 
-$deep-shadow: 0 15px 30px 0 rgba(0,0,0,0.11), 0 5px 15px 0 rgba(0,0,0,0.08);
+$deep-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11),
+0 5px 15px 0 rgba(0, 0, 0, 0.08);
