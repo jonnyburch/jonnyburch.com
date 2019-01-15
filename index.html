@@ -3,45 +3,59 @@ layout: default
 title: Homepage
 ---
 
-<div class="home">
-  <section class="container">
-    <div class="home-image">
+<div class="page">
+  <section class="">
+    <div class="page-image">
       <img src="/assets/img/jonny.png" alt="">
     </div>
-    <h2 class="title">I help designers and makers to grow at work.</h2>
-    <p>With a background in traditional design practice and over a decade working in and leading cross-functional design and product teams, I'm now applying everything I know to building <a href="http://progressionapp.com">Progression</a>, a tool to help designers (and teams building the software that will power the world) to grow sustainably.</p>
-    <p><strong>I have very limited availability for consulting work, so if you think I can help with any of the following let me know.</strong></p>
+    <h2 class="title">I help design and product teams to <span>grow</span>.</h2>
+    <p>With a background in traditional design practice and over a decade working in and leading cross-functional
+      design and product teams, I'm now applying everything I know to building <a href="http://progressionapp.com">Progression</a>,
+      a tool to help designers (and teams building the software that will power the world) to grow sustainably.</p>
+  </section>
+  <section class="">
+    <p><strong>I have very limited availability for consulting work, so if you think I can help with any of the
+        following let me know.</strong></p>
     <ul class="services">
       <li>Hiring, retaining or growing your design team</li>
       <li>Instilling design methodologies or best practices in your organisation</li>
       <li>Helping to flesh out your product and design strategy</li>
     </ul>
-    <p>In the meantime, you can check out what I'm building or read more about my journey in the links below</p>
     <ul class="posts">
       <li class="post">
-        <a class="home-link" href="http://progressionapp.com">
+        <a class="page-link" href="/services">
+          <span class="title">Ways I can help →</span>
+        </a>
+      </li>
+    </ul>
+  </section>
+  <section class="">
+    <h3 class="headline">Check out what I'm building</h3>
+    <ul class="posts">
+      <li class="post">
+        <a class="page-link" href="http://progressionapp.com">
           <span class="title">Progression →</span>
           <div class="meta">A product to help design teams to grow</div>
         </a>
       </li>
       <li class="post">
-        <a class="home-link" href="http://makegrow.co">
+        <a class="page-link" href="http://makegrow.co">
           <span class="title">Make and Grow →</span>
           <div class="meta">Building a business that I want to work for</div>
         </a>
       </li>
     </ul>
   </section>
-  <section>
+  <section class="">
     <h3 class="headline">Writing, speaking etc.</h3>
     <ul class="posts">
       {% for post in site.posts %}
-        <li class="post">
-          <a class="home-link" href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
-            <span class="title">{{ post.title }} →</span>
-            <div class="meta">{{ post.categories }}, {{ post.date | date: '%d %b %Y' }}</div>
-          </a>
-        </li>
+      <li class="post">
+        <a class="page-link" href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
+          <span class="title">{{ post.title }} →</span>
+          <div class="meta">{{ post.categories }}, {{ post.date | date: '%d %b %Y' }}</div>
+        </a>
+      </li>
       {% endfor %}
     </ul>
   </section>

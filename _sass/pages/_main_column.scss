@@ -8,14 +8,18 @@ main {
 .top {
   grid-row: 1;
   padding-left: 1rem;
-  padding-bottom: 4rem;
-  // margin: 0 auto;
-  @include md {
-    padding: 0 2rem 4rem;
-  }
-  @include lg {
-    max-width: $screen-lg-min - 6rem;
-    padding-left: 3rem;
+
+  .container {
+    margin: 0 auto;
+
+    @include md {
+      padding: 0 2rem 4rem;
+      padding-bottom: 4rem;
+    }
+
+    @include lg {
+      width: $screen-lg-min - 6rem;
+    }
   }
 }
 
@@ -23,11 +27,20 @@ main {
   grid-row: 2;
   background-color: white;
   padding-left: 1rem;
-  padding-bottom: 4rem;
-  @include md {
-    padding: 0 2rem 4rem;
-  }
-  @include lg {
-    padding-left: 3rem;
+  display: flex;
+  border-top: 2px solid #f7f7f7;
+  width: 100%;
+
+  .container {
+    margin: 0 auto;
+
+    @include md {
+      padding: 0 2rem 4rem;
+      padding-bottom: 4rem;
+    }
+
+    @include lg {
+      width: $screen-lg-min - 6rem;
+    }
   }
 }

@@ -4,39 +4,47 @@
   margin: 0 auto;
   margin-top: 1rem;
   padding: 0.5rem 1rem 0 0;
+
   @include sm {
     padding-top: 0;
   }
+
   @include lg {
     padding-top: 0;
     padding-right: 0;
   }
 
-  p.date {
+  .date {
     @include text-gradient;
-    font-size: 8vw;
-    font-family: $font-family;
-    margin: 2rem 0 0;
+    font-size: 5vw;
+    margin: 0 0 1rem;
+
     @include sm {
-      font-size: 4vw;
+      margin: 2rem 0 1rem;
+      font-size: 3vw;
     }
+
     @include lg {
-      font-size: 3rem;
+      margin: 4rem 0 1rem;
+      font-size: 2rem;
     }
   }
-  h1.page-title {
+
+  .page-title {
     font-size: 10vw;
     line-height: 1;
-    font-family: $font-family;
     color: $main-color;
     margin: 0;
+
     @include sm {
       font-size: 6vw;
     }
+
     @include lg {
       font-size: 4rem;
     }
   }
+
   .sub {
     font-size: $font-size-xl;
     margin: 1rem 0 2rem;
@@ -47,16 +55,23 @@
     margin-top: 2rem;
   }
 
-  h1, h2, h3, h4 {
+  h1,
+  h2,
+  h3,
+  h4 {
     margin-top: 2rem;
   }
 
-  p, ul, ol {
+  p,
+  ul,
+  ol {
     margin: 1rem 0;
     font-size: $font-size-l;
+
     li {
       margin-left: 1.5rem;
       font-size: $font-size-l;
+
       @include lg {
         margin-left: 0;
       }
@@ -78,10 +93,12 @@
     @include sm {
       font-size: 4vw;
     }
+
     p {
-      padding-left: 0!important;
-      padding-right: 0!important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
     }
+
     &.twitter-tweet {
       max-width: 100%;
       display: inline-block;
@@ -96,6 +113,7 @@
       margin: 1rem 0;
       padding: 0.5rem 1.5rem 1.5rem;
       max-width: 468px;
+
       p {
         color: $main-color !important;
         font-size: $font-size-m;
@@ -103,6 +121,7 @@
         font-weight: normal;
         line-height: 20px;
       }
+
       a {
         color: $main-color !important;
         font-size: $font-size-m;
@@ -110,13 +129,17 @@
         font-weight: normal;
         text-decoration: underline;
         outline: 0 none;
-        &:hover, &:focus {
+
+        &:hover,
+        &:focus {
           text-decoration: underline;
         }
       }
 
     }
-  } // end blockquote
+  }
+
+  // end blockquote
 
   img {
     width: 100%;
@@ -130,7 +153,9 @@
 
 
 
-} // end #single-wrap
+}
+
+// end #single-wrap
 
 // Pagination
 
@@ -145,6 +170,7 @@
   border-radius: 100px;
   bottom: $spacing-m;
   color: #333;
+
   @media (max-width: 942px) {
     position: static;
     padding: .8em $spacing-s .7em;
@@ -153,6 +179,7 @@
 
 #prev {
   left: 40px;
+
   @media (max-width: 942px) {
     float: left;
   }
@@ -160,6 +187,7 @@
 
 #next {
   right: 40px;
+
   @media (max-width: 942px) {
     float: right;
   }
@@ -172,6 +200,7 @@
 
 .nav-title {
   display: none;
+
   @media (max-width: 942px) {
     display: inline;
   }
