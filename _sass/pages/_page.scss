@@ -80,11 +80,13 @@
 
       .post {
         list-style-type: none;
-        margin-bottom: 0.5rem;
 
         .page-link {
           text-decoration: none;
           display: block;
+          border-bottom: none;
+          padding: 1rem 1rem 1rem 0;
+          border-radius: $border-radius;
 
           .title {
             // @include text-gradient;
@@ -94,15 +96,9 @@
             margin: 0.4rem 0 0;
             line-height: 1.2;
             word-break: break-word;
-            border-bottom: 2px solid #f2f2f2;
+            border-bottom: 2px solid $hint-color;
             font-size: $font-size-l;
             @extend %transition;
-
-            &::after {
-              content: '';
-              @include text-gradient;
-              height: 3px;
-            }
 
             @include sm {
               margin-bottom: 0;
@@ -114,8 +110,9 @@
           }
 
           &:hover {
-            padding-left: 0.5rem;
+            padding-left: 1rem;
             background: white;
+            background-color: mix(white, $hint-color, 90%)
           }
         }
 
@@ -164,9 +161,9 @@
     }
 
     .pricing-sub {
-      @include text-gradient;
       opacity: 0.8;
       font-size: $font-size-m;
+      color: darken($hint-color, 20%);
       margin: 0 0 0.5rem;
     }
 

@@ -14,7 +14,7 @@
 header {
   grid-column: 1;
   width: 40px;
-  background-color: white;
+  background-color: mix(white, $hint-color, 70%);
 
   @include sm {
     width: 50px;
@@ -26,6 +26,7 @@ header {
   margin: 0 auto;
   left: 20px;
   top: 65px;
+  color: $hint-color;
 
   @include sm {
     left: 25px;
@@ -42,10 +43,10 @@ header {
       margin: 0;
       padding: 0;
       transform: translateX(-50%) rotate(90deg);
-      color: $main-color;
+      color: $hint-color;
 
       a {
-        color: $main-color;
+        color: $hint-color;
         text-decoration: none;
 
         &:hover {

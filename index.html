@@ -52,12 +52,9 @@ title: Homepage
       {% for post in site.posts %}
       <li class="post">
         <a class="page-link" href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
-          <div>
-            <span class="tag {{ post.categories }}">{{ post.categories }}</span>
-          </div>
           <span class="title">{{ post.title }} →</span>
           <div>{{ post.description }}</div>
-          <div class="date">{{ post.date | date: '%d %b %Y' }}</div>
+          <div class="date">{{ post.categories }} • {{ post.date | date: '%d %b %Y' }}</div>
         </a>
       </li>
       {% endfor %}

@@ -10,7 +10,7 @@ $red-gradient: linear-gradient(to right, #74221d 0%, #fd746c 100%);
 $green-gradient: linear-gradient(to right, #56ab2f 0%, #a8e063 100%);
 
 $bg-color: $site-bg-color; // background-color
-$hint-color: $color-green;
+$hint-color: $color-blue;
 $text-color: $main-color;
 $link-color: $main-color;
 $header-color: $main-color;
@@ -75,3 +75,5 @@ $screen-xl-min: 75rem; //1200px
 
 $deep-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11),
 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+
+$border-radius: 4px;

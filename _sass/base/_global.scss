@@ -143,9 +143,12 @@ a {
   @extend %transition;
   color: $link-color;
   padding-bottom: 0;
+  border-bottom: 2px solid $hint-color;
+  text-decoration: none;
 
   &:hover {
     background-color: $hint-color;
+    border-bottom: 2px solid darken($hint-color, 20%);
   }
 }
 
