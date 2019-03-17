@@ -19,7 +19,7 @@
       color: black;
       font-size: $font-size-m;
       background-color: white;
-      border: 2px solid $hint-color;
+      border: 2px solid $link-color;
       border-radius: 4px 4px 0 0;
       padding: 0.5rem;
       @include sm {
@@ -46,7 +46,7 @@
     }
     input[type="submit"] {
       font-size: $font-size-m;
-      background: $bg-gradient;
+      background: $link-color;
       font-weight: $font-weight-bold;
       color: white;
       padding: 0.5rem 0.7rem;
