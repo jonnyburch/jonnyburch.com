@@ -8,7 +8,7 @@ title: Homepage
     <div class="page-image">
       <img src="/assets/img/jonny.png" alt="">
     </div>
-    <h2 class="title">I help design and product teams to <span>grow</span>.</h2>
+    <h2 class="title">I help design and product teams to grow.</h2>
     <p>With a background in traditional design practice and over a decade working in and leading cross-functional
       design and product teams, I'm now applying everything I know to building <a href="http://progressionapp.com">Progression</a>,
       a tool to help designers (and teams building the software that will power the world) to grow sustainably.</p>
@@ -52,8 +52,12 @@ title: Homepage
       {% for post in site.posts %}
       <li class="post">
         <a class="page-link" href="{{ site.baseurl }}{{ post.url }}" itemprop="url" title="{{ post.date | date: '%d %b %Y' }}">
+          <div>
+            <span class="tag {{ post.categories }}">{{ post.categories }}</span>
+          </div>
           <span class="title">{{ post.title }} →</span>
-          <div class="meta">{{ post.categories }}, {{ post.date | date: '%d %b %Y' }}</div>
+          <div>{{ post.description }}</div>
+          <div class="date">{{ post.date | date: '%d %b %Y' }}</div>
         </a>
       </li>
       {% endfor %}
