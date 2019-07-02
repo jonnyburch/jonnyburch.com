@@ -18,7 +18,7 @@ description: It's taken a long time but is totally worth the wait
 
 I just spent a week in France, supposedly on holiday but actually fretting about what felt like a fundamental, existential decision between two irreversible paths. The sheer weight of the number of decisions to make across product, go-to-market, team and personal cash-flow had (and still has) me in a real mess.
 
-Honestly a lot of the 18 months since having a real job has been spent thinking _is it meant to be this fun?_.
+Honestly a lot of the 18 months since having a real job has been spent thinking _is it meant to be this fun?_
 
 But now with real customers paying real money, clear evidence that we're still pre 'product-market fit', a user experience which is nowhere near the quality I want and the ever-dwindling bank account, the pressure overwhelms me on the reg.
 
