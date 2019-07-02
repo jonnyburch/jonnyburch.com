@@ -139,6 +139,10 @@ ol li {
   margin-bottom: 1rem;
 }
 
+small  {
+  opacity: 0.7;
+}
+
 a {
   @extend %transition;
   color: $link-color;

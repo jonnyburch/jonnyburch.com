@@ -44,6 +44,13 @@ We decided to work together part-time for a couple of months, with a back-up con
 
 _(I've been asked by a few people to share some of those documents. Still on the to-do list, but I will do in time!)_
 
+<br>
+<img src="/assets/img/journal/jonny-neil.jpg">
+<small>Moments after making Neil a founder. If we're still smiling after a morning of contract wrangling, that's a very good sign.</small>
+<br>
+<br>
+
+
 #### Making it official
 
 In no time it was the end of March, our agreed 'shit or get off the pot' time. After we'd both had a few last minute due diligence chats with people we trusted (thanks go to [Mike](https://twitter.com/mhudack), [Alick](https://twitter.com/alickvarma) and many more) we took the plunge.
