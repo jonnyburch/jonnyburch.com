@@ -23,7 +23,7 @@ _Learning from my pilot product_
 
 I launched and sold progression pack (the v1 product I built on airtable and netlify) for a couple of months, and went on-site with two design teams in London to understand how they were using the tool. I learned a huge amount, some of which you can read about [here](https://medium.com/making-and-growing/progression-update-from-pilot-to-alpha-1726e818ca9e). The initial highs of sales definitely gave way to a deeper understanding of the complexity of the problem I'm trying to solve. In short, I realised that Progression Pack wasn't going to get me there.
 
-I also started the [Progression Podcast](http://makegrow.co/podcast) (now onto its 7th episode!) and learnt about sound quality!
+I also started the [Progression Podcast](https://progression.team/podcast) (now onto its 7th episode!) and learnt about sound quality!
 
 #### November-December 2018
 _A mini business-model pivot, and hunting for a co-founder_

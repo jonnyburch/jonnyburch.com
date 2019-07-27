@@ -65,7 +65,7 @@ But for now, it's not just me!
 
 <br>
 
-_You can follow Neil on twitter [here](https://twitter.com/ncameron) and I'll get him on [the podcast](https://makegrow.co/podcast) very soon too._
+_You can follow Neil on twitter [here](https://twitter.com/ncameron) and I'll get him on [the podcast](https://progression.team/podcast) very soon too._
 
 <br>
 <br>
