@@ -25,7 +25,7 @@ task :post, :title do |t, args|
   end
 
 # Uncomment the line below if you want the post to automatically open in your default text editor
-#  system ("#{ENV['EDITOR']} #{filename}")
+ system ("#{ENV['EDITOR']} #{filename}")
 end
 
 # usage: rake draft['my new draft']
@@ -46,6 +46,7 @@ task :draft, :title do |t, args|
     title: #{title}
     date: #{Time.new.strftime('%Y-%m-%d %H:%M')}
     categories:
+    description:
     ---
 
     EOS

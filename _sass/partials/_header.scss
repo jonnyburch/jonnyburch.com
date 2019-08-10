@@ -1,34 +1,33 @@
 .site-wrapper {
   @extend %transition;
-  display: grid;
-  grid-template-columns: 40px 1fr;
-  grid-template-rows: 1fr;
   background-color: $site-bg-color; // #FFF9F0
   min-height: 100%;
 
   @include sm {
+    display: grid;
+    grid-template-rows: 1fr;
     grid-template-columns: 50px 1fr;
   }
 }
 
 header {
-  grid-column: 1;
-  width: 40px;
   background-color: mix(white, $hint-color, 70%);
+  padding: 1rem;
 
   @include sm {
+    grid-column: 1;
     width: 50px;
   }
 }
 
 .h-wrap {
-  position: fixed;
-  margin: 0 auto;
-  left: 20px;
-  top: 65px;
-  color: $hint-color;
 
   @include sm {
+    position: fixed;
+    margin: 0 auto;
+    left: 20px;
+    top: 65px;
+    color: $hint-color;
     left: 25px;
   }
 
@@ -39,11 +38,16 @@ header {
     .title,
     .menu {
       @extend h5;
-      display: inline-block;
-      margin: 0;
-      padding: 0;
-      transform: translateX(-50%) rotate(90deg);
+      text-align: left;
+      margin-top: 0;
       color: $hint-color;
+      @include sm {
+        text-align: center;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        transform: translateX(-50%) rotate(90deg);
+      }
 
       a {
         color: $hint-color;

@@ -143,6 +143,14 @@ small  {
   opacity: 0.7;
 }
 
+img + em {
+  opacity: 0.8;
+  font-size: $font-size-s;
+  min-width: 100%;
+  float: left;
+  margin-bottom: 2rem;
+}
+
 a {
   @extend %transition;
   color: $link-color;
