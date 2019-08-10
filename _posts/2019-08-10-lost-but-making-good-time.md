@@ -3,7 +3,7 @@ layout: post
 title: 'Lost, but making good time'
 date: 2019-08-10 09:39 +0100
 categories: Journal
-img: /assets/img/journal/neil-chat.png
+img: /assets/img/journal/in-out/lost.jpg
 description: Switching to sales as a non sales-person
 ---
 
