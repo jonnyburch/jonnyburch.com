@@ -25,7 +25,7 @@ Clearly I need to make sure I'm taking writing seriously.
 
 #### A change of attitude to the art of writing
 
-I recently listened to [Jonathon Coleman's Intercom podcast episode](https://www.intercom.com/blog/podcasts/intercoms-jonathon-colman-on-why-content-designers-should-do-less/) and have – over the last few years – been lucky enough to have worked with fantastic professional writers. One of the more memorable moments in my career was watching [Sarah Richards at Break in Belfast 2014](http://breakconf.org/speakers.php), speaking about the role of content at GDS and what a big impact it's had on so many since.
+I recently listened to [Jonathon Colman's Intercom podcast episode](https://www.intercom.com/blog/podcasts/intercoms-jonathon-colman-on-why-content-designers-should-do-less/) and have – over the last few years – been lucky enough to have worked with fantastic professional writers. One of the more memorable moments in my career was watching [Sarah Richards at Break in Belfast 2014](http://breakconf.org/speakers.php), speaking about the role of content at GDS and what a big impact it's had on so many since.
 
 A founder I really admire, Hiten Shah, [recently tweeted about how important writing is](https://twitter.com/hnshah/status/1156064424018317312?s=20) to your career. Again, I read through that and nodded along, not joining the dots.
 
