@@ -86,6 +86,13 @@
     }
   }
 
+  ul,
+  ol {
+    @include md {
+      padding-left: 2rem;
+    }
+  }
+
   blockquote {
     font-size: 7vw;
     font-family: $font-family;

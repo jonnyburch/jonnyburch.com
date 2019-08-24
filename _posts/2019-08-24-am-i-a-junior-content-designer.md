@@ -9,9 +9,8 @@ description: On writing becoming my highest leverage skill
 
 When people ask me what I do and I don't feel like being sick in my mouth by saying I'm an entrepreneur, I say I'm a designer. But design is really a subset of what I do. While it's my 'first study' I find it hard to claim to currently _be_ a designer right now.
 
-So what am I? Looking through my to-do list, it sheds some light on the matter. It seems that I'm – mainly – a writer.
+So what am I? Looking through my to-do list, it sheds some light on the matter. It seems that I'm mainly a writer. In fact when I map all the things I've recently been or am currently writing, it can feel pretty overwhelming.
 
-When I map all the things I've recently been or am currently  writing, it can feel pretty overwhelming.
 - New skills for brand designers, engineers and product managers (luckily with lots of help from friends) as well as improving existing skills for Progression. This now represents my biggest ever body of writing at 20,000+ words 🤯
 - Two talks for upcoming conferences (one personal, one about career progression)
 - Personal blog posts to continue mapping my journey as a founder
@@ -21,6 +20,8 @@ When I map all the things I've recently been or am currently  writing, it can fe
 - Email journeys for new users, transactional emails, UI copy
 - Our sales deck over and over and over again
 - Endless emails as part of ongoing sales efforts. (The [hardest skill of all](https://www.jonnyburch.com/lost-but-making-good-time/))
+
+Clearly I need to make sure I'm taking writing seriously.
 
 #### A change of attitude to the art of writing
 
