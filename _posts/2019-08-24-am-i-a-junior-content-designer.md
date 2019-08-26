@@ -7,7 +7,7 @@ img: /assets/img/journal/content-designer/junior-content-designer.jpg
 description: On writing becoming my highest leverage skill
 ---
 
-When people ask me what I do and I don't feel like being sick in my mouth by saying I'm an entrepreneur, I say I'm a designer. But design is really a subset of what I do. While it's my 'first study' I find it hard to claim to currently _be_ a designer right now.
+When people ask me what I do I most often say I'm a designer. But nowadays 'design' is really a small subset of what I do. While it's my 'first study' I find it hard to claim to currently _be_ a designer right now. I like to think that lower-case d design (thinking through needs, problems, framing, valuing the experience) still plays a major part in what I do, but I rarely crack open design tools at the moment.
 
 So what am I? Looking through my to-do list, it sheds some light on the matter. It seems that I'm mainly a writer. In fact when I map all the things I've recently been or am currently writing, it can feel pretty overwhelming.
 
