@@ -7,7 +7,7 @@
     padding: 0 0 2rem 0;
 
     @include md {
-      padding: 0 0 4rem 0;
+      padding: 0 0 3rem 0;
     }
 
     .title {
@@ -83,6 +83,7 @@
 
       .post {
         list-style-type: none;
+        margin: 0;
 
         .page-link {
           text-decoration: none;
