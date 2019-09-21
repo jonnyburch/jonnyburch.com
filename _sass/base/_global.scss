@@ -101,20 +101,16 @@ h3 {
 }
 
 h4 {
-  font-size: $font-size-m;
+  font-size: $font-size-l;
   margin: $spacing-sm 0 0;
   color: $header-color;
 
   @include sm {
-    font-size: 3vw;
+    font-size: $font-size-l;
   }
 
   @include md {
-    font-size: 3vw;
-  }
-
-  @include lg {
-    font-size: 1.8rem;
+    font-size: $font-size-xl;
   }
 }
 
@@ -165,9 +161,10 @@ a {
 }
 
 hr {
+  margin: 2rem 0;
   height: 2px;
-  color: $hint-color;
-  background: $hint-color;
+  color: #f7f7f7;
+  background: #f7f7f7;
   font-size: 0;
   border: 0;
 }
