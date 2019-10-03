@@ -14,7 +14,8 @@ The first folks on this newsletter were close friends, family and allies, and I 
 If you reply, I'll reply. It gives me joy being able to have this conversation and learn openly.
 So if that sounds like a bit of you, do sign up to be a part of my journey and this conversation.
 <br><br>
-Check out [an example newsletter](https://us15.campaign-archive.com/?u=7cc3abda138b6a495ae2b2b2f&id=864f97d33a) or sign up just here:
+**Sign up just here:**
+
 {% include mailing_list.html %}
 _No spam, unsubscribe any time._
 <br><br><br><br><br><br><br><br>
