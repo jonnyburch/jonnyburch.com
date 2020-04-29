@@ -14,8 +14,6 @@ description: On the eve of a launch, a reflection
 <br>
 <br>
 
-_Dear diary, it's been a while. I feel like I always say that when I write in you._
-
 I can't sleep. It's 1:21am and I feel jittery with adrenaline. Had to get up and do something.
 
 Today I turned on our new marketing website for [progressionapp.com](https://progressionapp.com). It was the culmination of a couple of weeks of intense work which really signal the start of Progression's journey in the world. We've been hiding behind a waitlist for a long time. Too long really.
