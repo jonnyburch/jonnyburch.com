@@ -93,9 +93,9 @@ There are a few factors that went into my decision and subsequent path to self f
 ### Can I get to meaningful revenue without too much capital?
 
 <br>
-<img src="/assets/img/journal/bootstrapping/The-Deployment-Age.png">
+<img src="/assets/img/journal/bootstrapping/tech-curve.jpg">
 <br>
-<small>[Original graph from reactionwheel.net](http://reactionwheel.net/2015/10/the-deployment-age.html)</small>
+<small>The technology curve</small>
 <br>
 <br>
 
@@ -349,6 +349,13 @@ If we raised we'd have to tell a story of 'winning' the market. The level of gro
 
 ## Conclusion
 
+<br>
+<img src="/assets/img/journal/bootstrapping/the-tradeoff.jpg">
+<br>
+<small>The trade-off</small>
+<br>
+<br>
+
 When you choose to bootstrap, you're fundamentally trading off initial slow growth and financial pressure upfront vs fast growth and pressure (from investors, employees and the market) later on.
 
 To put another way, by raising money you're putting off the moment at which you have to be a real business. That means you can run unencumbered by personal runway, a need to immediately monetise your product.
@@ -385,14 +392,16 @@ Remember though that it's easier to raise later than move to a self-funded model
 
 ### Comparison table
 
+Warning, this is reductive, and not a checklist!
+
 |Go bootstrapped if... |Go raise money if... |
 |-|-|
-|You can get to first revenue within a few months|You need to spend longer proving out the technology|
-|All the technology you're using is buildable (by you or paid contractors)|Some or all of the technology is unknown or difficult to get right|
+|You can get to first revenue within a few months|You need to spend longer proving out the technology or other assumptions|
+|All the technology you're using is known and buildable (by you or others)|Some or all of the technology is unknown or difficult to get right|
 |Your product is valuable to an individual, using alone with no-one else in the system|Your product requires lots of users, suppliers or connections to succeed|
 |Your market can support multiple winners|Your market is 'winner takes all' with e.g. a strong network effect|
 |You have a captive audience through your personal network or brand|You don't know your first 100 customers, or how best to get to them|
-|You like the idea of work life balance and family/personal life comes first|You want to put everything into this.|
+|You like the idea of work life balance and family/personal life comes first|You want to put everything into this|
 |You have years to try and make this work|You want to get to success or failure within 18-24 months|
 |You have, or don't need, particular skills and contacts that will make your business a success|You need access and advice from others in order to succeed|
 |Your market is proven, with several players already|Your market is unproven or nascent|
