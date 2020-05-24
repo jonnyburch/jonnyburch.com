@@ -3,11 +3,23 @@ layout: default
 ---
 
 <section class="single-post single-wrap">
-  <h4 class="date">{{ page.date | date_to_long_string }}</h4>
+  <h4 class="date">
+    {% if page.lastupdated %}Posted: {% endif %}{{ page.date | date_to_long_string }}
+    {% if page.lastupdated %} <br /><span class="last-updated">Last updated: {{ page.lastupdated | date_to_long_string }}</span>{% endif %}
+  </h4>
   <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+  <p class="sub" itemprop="name headline">
   {% if page.description %}
-  <p class="sub" itemprop="name headline">{{ page.description }}</p>
+    {{ page.description }}
   {% endif %}
+  {% if page.readtime %}
+    <span title="Estimated read time">
+      {% assign words = content | number_of_words %}
+      ({% if words < 360 %}1 minute {% else %}{{ words | divided_by:280 }} minute {% endif %}
+       read)
+    </span>
+  {% endif %}
+  </p>
   <div class="body" itemprop="articleBody">
     {{ content }}
   </div>

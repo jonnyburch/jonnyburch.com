@@ -1,0 +1,12 @@
+.cutaway {
+  padding: 1rem;
+  background-color: mix(white, $hint-color, 70%);
+  color: mix(black, $hint-color, 30%);
+  border-radius: 4px;
+  p {
+    margin: 0 !important;
+  }
+  @include md {
+    padding: 2rem;
+  }
+}
