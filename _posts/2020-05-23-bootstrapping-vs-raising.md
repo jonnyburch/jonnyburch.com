@@ -38,10 +38,12 @@ readtime: true
 - [Conclusion](#conclusion)
   - [The two questions you shouldn't conflate](#the-two-questions-you-shouldnt-conflate)
   - [Don't be dogmatic](#dont-be-dogmatic)
-  - [This doesn't need to be a final decision](#this-doesnt-need-to-be-a-final-decision)
+  - [This doesn't need to be a final decision...](#this-doesnt-need-to-be-a-final-decision)
+  - [...and there's even a third option](#and-theres-even-a-third-option)
   - [Comparison table](#comparison-table)
 - [What next for us?](#what-next-for-us)
 - [Recommended reading](#recommended-reading)
+  - [Bootstrapping-specific](#bootstrapping-specific)
 
 
 
@@ -380,7 +382,7 @@ For some, that's just not enough. To change the world in some ways, you need to 
 
 Both have their place. That's why you need to pick what feels right to you. You'll be way worse at the alternative.
 
-### This doesn't need to be a final decision
+### This doesn't need to be a final decision...
 
 There's a wonderfully long list of bootstrapped companies [raising once, late on, at crazy valuations](https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/). If your company is healthy, with a clean cap table, investors will be interested.
 
@@ -390,9 +392,20 @@ Several companies have even [famously paid off their investors](https://wistia.c
 
 Remember though that it's easier to raise later than move to a self-funded model from a raise...
 
+### ...and there's even a third option
+
+One interesting model that has started to emerge for those who do want a capital injection but without getting on the fund raising treadmill is the 'bootstrapper' or 'indie' fund. Three prominent players in this space are:
+- [Earnest Capital](https://earnestcapital.com/)
+- [Indie VC](https://www.indie.vc/)
+- [Tinyseed](https://tinyseed.com/)
+
+They're all US based, selective and have differing terms and models but broadly the idea is that they operate on term sheets that support less risky, profitable and sustainable businesses by allowing the founders to pay them back – either by buying back their shares or not taking equity in the first place. Worth reading the fine print on each (especially if in the UK, where their terms won't play nice with SEIS/EIS).
+
+While this is still in a nascent stage it does do a nice job of giving founders a way of taking money to achieve escape velocity, while not tying them in to an exit event in the future.
+
 ### Comparison table
 
-Warning, this is reductive, and not a checklist!
+Warning, this is reductive, and not a check-list!
 
 |Go bootstrapped if... |Go raise money if... |
 |-|-|
@@ -403,6 +416,7 @@ Warning, this is reductive, and not a checklist!
 |You have a captive audience through your personal network or brand|You don't know your first 100 customers, or how best to get to them|
 |You like the idea of work life balance and family/personal life comes first|You want to put everything into this|
 |You have years to try and make this work|You want to get to success or failure within 18-24 months|
+|You definitely want to run your business forever|You definitely want to 'exit'|
 |You have, or don't need, particular skills and contacts that will make your business a success|You need access and advice from others in order to succeed|
 |Your market is proven, with several players already|Your market is unproven or nascent|
 
@@ -419,5 +433,21 @@ That remains a function of market size and our go-to-market strategy but also wh
 
 ## Recommended reading
 
-Bootstrapping
+The below is a vague list of lots of the reading I've found over the last couple of years. As I track these down (I've been bad at keeping lists) I'll add more.
+
+### Bootstrapping-specific
+
+Bootstrapping successfully
 - [Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business](https://thebootstrappedfounder.com/zero-to-sold/)
+
+Podcasts on bootstrapping
+- [Startups for the rest of us](https://www.startupsfortherestofus.com/)
+- [Out of Beta](https://outofbeta.fm/)
+- [Build your SaaS](https://saas.transistor.fm/)
+- [The Art of Product](https://artofproductpodcast.com/)
+
+Bootstrapper funds
+- [Earnest Capital](https://earnestcapital.com/)
+- [Indie VC](https://www.indie.vc/)
+- [Tinyseed](https://tinyseed.com/)
+
