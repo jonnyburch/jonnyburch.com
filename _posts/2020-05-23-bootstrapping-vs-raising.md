@@ -15,19 +15,25 @@ readtime: true
 
 ----
 **Table of Contents**
-- [Introduction](#introduction)
+- [1. Introduction](#1-introduction)
   - [An acknowledgement upfront](#an-acknowledgement-upfront)
   - [Other assumptions](#other-assumptions)
-- [So what are the big questions here?](#so-what-are-the-big-questions-here)
+- [2. What question are we answering?](#2-what-question-are-we-answering)
+  - [Definition of terms](#definition-of-terms)
+  - [This doesn't need to be a final decision...](#this-doesnt-need-to-be-a-final-decision)
+  - [...and there's even a third option](#and-theres-even-a-third-option)
+- [3. Questions for me, the entrepreneur](#3-questions-for-me-the-entrepreneur)
+  - [What am I optimising for?](#what-am-i-optimising-for)
+  - [Does it suit my own and my family's personal circumstances?](#does-it-suit-my-own-and-my-familys-personal-circumstances)
+  - [Am I going to need help and advice?](#am-i-going-to-need-help-and-advice)
+- [4. Questions for my business model](#4-questions-for-my-business-model)
   - [Can I get to meaningful revenue without too much capital?](#can-i-get-to-meaningful-revenue-without-too-much-capital)
   - [Can I get to meaningful revenue in a reasonable timeframe?](#can-i-get-to-meaningful-revenue-in-a-reasonable-timeframe)
   - [Does the business model require scale to succeed?](#does-the-business-model-require-scale-to-succeed)
   - [Does the market support multiple winners?](#does-the-market-support-multiple-winners)
   - [Do I have a captive audience, or do I need to buy one?](#do-i-have-a-captive-audience-or-do-i-need-to-buy-one)
-  - [Does it suit my current personal circumstances?](#does-it-suit-my-current-personal-circumstances)
-  - [Am I going to need help and advice?](#am-i-going-to-need-help-and-advice)
   - [Is it an existing or a new market?](#is-it-an-existing-or-a-new-market)
-- [My experience of bootstrapping](#my-experience-of-bootstrapping)
+- [5. My experience of bootstrapping](#5-my-experience-of-bootstrapping)
   - [Cashflow is stressful](#cashflow-is-stressful)
   - [But we're our own bosses](#but-were-our-own-bosses)
   - [Things move slowly (or not at all)](#things-move-slowly-or-not-at-all)
@@ -35,14 +41,12 @@ readtime: true
   - [We keep a steady pace](#we-keep-a-steady-pace)
   - [I'm having to be a jack of all trades](#im-having-to-be-a-jack-of-all-trades)
   - [Educating our market](#educating-our-market)
-- [Conclusion](#conclusion)
+- [6. Conclusion](#6-conclusion)
   - [The two questions you shouldn't conflate](#the-two-questions-you-shouldnt-conflate)
   - [Don't be dogmatic](#dont-be-dogmatic)
-  - [This doesn't need to be a final decision...](#this-doesnt-need-to-be-a-final-decision)
-  - [...and there's even a third option](#and-theres-even-a-third-option)
-  - [Comparison table](#comparison-table)
-- [What next for us?](#what-next-for-us)
-- [Recommended reading](#recommended-reading)
+- [7. Quick Comparison table](#7-quick-comparison-table)
+- [8. What next for us?](#8-what-next-for-us)
+- [9. Recommended reading](#9-recommended-reading)
   - [Bootstrapping-specific](#bootstrapping-specific)
 
 
@@ -50,7 +54,7 @@ readtime: true
 ----
 
 
-## Introduction
+## 1. Introduction
 
 A few people have asked me in the last couple of weeks about why I chose to self-fund Progression. As they will attest from my lack of response, It's really hard to answer that question simply.
 
@@ -86,11 +90,93 @@ So idea aside, for many this choice isn't a choice. I have supportive friends an
 - I'm based in London which, while not the bay area, has a very vibrant startup ecosystem. [YMMV](https://dictionary.cambridge.org/dictionary/english/ymmv).
 - All of this also assumes you have a good idea. A compelling problem to solve trumps all. If you can't succinctly describe your problem and customer, start there.
 - This is, obviously, one person's opinion. Please tell me yours! (Honestly.)
-- Not all investment is equal. For the sake of this, I'm assuming that this decision is fairly binary (if we raise once, we'd likely raise again and again until exit). That isn't actually a binary choice at all, which I'll cover at the end.
 
-## So what are the big questions here?
+## 2. What question are we answering?
 
-There are a few factors that went into my decision and subsequent path to self funding. Each is worth asking as a question upfront, as they're vital to not wasting a bunch of time going down an avenue that you could have avoided on day 1.
+To bootstrap or not to bootstrap.
+
+Well first of all, let's define some terms.
+
+### Definition of terms
+
+**Bootstrapping** is when an entrepreneur (me!) starts a business with no outside capital or investments. [definition on Investopedia](https://www.investopedia.com/terms/b/bootstrapping.asp)
+
+**Raising Money** is when an entrepreneur takes outside investment, That could be from Angels, VC, public markets (via an IPO), private equity or some other means. The most common methods for a software startup are through angels and VC funds, often in the form of 'funding rounds', where multiple investors gather together under a set of agreed terms and a company valuation and put money in in exchange for equity in the business. [What's the difference between a seed round and series A?](https://www.rocketspace.com/tech-startups/how-startup-funding-rounds-differ-seed-vs.-series-a)
+
+### This doesn't need to be a final decision...
+
+There's a wonderfully long list of bootstrapped companies [raising once, late on, at crazy valuations](https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/). If your company is healthy, with a clean cap table, investors will be interested.
+
+In fact one of the current darlings of Silicon Valley, [Notion](https://notion.so), famously had to remove their company address from their website because they were getting so many cold approaches from VCs despite not being actively raising. They're now a [unicorn](https://techcrunch.com/2020/04/01/notion-hits-2-billion-valuation-in-new-raise/).
+
+Several companies have even [famously paid off their investors](https://wistia.com/learn/culture/taking-on-debt-to-grow-our-own-way) and moved to a sustainable business model from a high-growth one.
+
+Remember though that it's easier to raise later than move to a self-funded model from a raise...
+
+### ...and there's even a third option
+
+One interesting model that has started to emerge for those who do want a capital injection but without getting on the fund raising treadmill is the 'bootstrapper' or 'indie' fund. Three prominent players in this space are:
+- [Earnest Capital](https://earnestcapital.com/)
+- [Indie VC](https://www.indie.vc/)
+- [Tinyseed](https://tinyseed.com/)
+
+They're all US based, selective and have differing terms and models but broadly the idea is that they operate on term sheets that support less risky, profitable and sustainable businesses by allowing the founders to pay them back – either by buying back their shares or not taking equity in the first place. Worth reading the fine print on each (especially if in the UK, where their terms won't play nice with SEIS/EIS).
+
+While this is still in a nascent stage it does do a nice job of giving founders a way of taking money to achieve escape velocity, while not tying them in to an exit event in the future.
+
+## 3. Questions for me, the entrepreneur
+
+There are a few personal factors that should go into any decision around whether to raise money or not. These are _more_ important than business-level factors as you can't really control them.
+
+### What am I optimising for?
+
+I'd go as far as to say that this is the most important of all, and is probably the reason you're reading this in the first place.
+
+Your business could go in two directions (assuming it goes to plan):
+1. You build something small and beautiful that doesn't give you fame and doesn't change the world, but leads to a great financial outcome for you personally and a small team. You run the business without the pressure of investors, boards and public markets for as long as you want to, bringing in a fantastic salary until the day you sell for a healthy sum.
+2. You build something that takes on a big market and wins. You work incredibly hard for 5-8 years, building a team of hundreds or thousands while sacrificing personal relationships and downtime, rub shoulders with your entrepreneurial heroes. You achieve the exit you dreamed of with a monster financial outcome that means you and your children will never want for anything ever again. Your speaker fees are very high.
+
+The likelihood of these two outcomes are both low, to be clear. Most businesses achieve neither. But the first is significantly more likely than the second. So the trade-off is: more sensible business, smaller team, less glory and less of a dent in the universe, or 'go big or go home'?
+
+Going big means a level of personal sacrifice (higher pressure), higher risk tolerance and also giving up a level of control in your own business — raise enough and your board will be able to vote you out.
+
+But the big names and the richest people in the world didn't let that scare them. They went for it, and won big.
+
+I've seen investor and 'raising the next round' pressure break people. But the alternative — I can tell you now — is far from stress free.
+
+**Some reading here:**
+- [insert links]
+
+### Does it suit my own and my family's personal circumstances?
+
+Can you actually support yourself for however many years it takes to get to a meaningful personal salary? If it takes 3 years, are you up for that? How about 4?
+
+Putting yourself and your loved ones through months and years of reduced income is a serious decision. It may not feel like it in month 1-6 while you still have cash reserves, but sooner or later you're going to be making material sacrifices.
+
+_An aside: you can definitely bootstrap alongside another income stream, but as I and many others have found, it's frustrating to have to do for any length of time, especially when you're pumped about your business. So assume you'll resent and want to quit any other job you have!_
+
+
+### Am I going to need help and advice?
+
+In short: have you done this before? Have you built products, or worked in teams building products? Do you have a reasonable understanding of how software works, how people market and sell?
+
+Alongside the money, the other thing you're 'buying' with your equity is the experience and black books of your investors. An investor that can win you your first 3 enterprise sales, or find you a key hire, or give you their deep experience of a business model, is arguably worth way more.
+
+I'm completely guilty of attempting to be a 'one man army', but other people who are incentivised to help you will give you massive shortcuts. That's why not all investors are equal. Pick and land the right investment and you'll be unstoppable.
+
+The flipside of this of course, is you have more people to answer to. The time overhead of raising then updating investors takes meaningful time away from the team (typically the CEO, i.e. me!)
+
+**Some reading here:**
+- [insert links]
+
+
+## 4. Questions for my business model
+
+OK, so you've decided that for you personally, bootstrapping might be an option. But is your business actually suited to being self funded?
+
+Being over-ambitious and getting stuck with no traction, or just picking a business model or sector that requires lots of capital to get to 'escape velocity' is something you really want to avoid. Planning and thinking through your business model upfront will help you to avoid this.
+
+The following questions are far from a complete list, and there will undoubtedly be exceptions to all. But as a start list of prompts for thought, it's worth thinking about each critically.
 
 ### Can I get to meaningful revenue without too much capital?
 
@@ -107,9 +193,9 @@ In short, I understood the space enough to know that the solution probably would
 
 I also knew that even though I wasn't a professional developer, I could build enough to validate my initial assumptions completely solo.
 
-_It's worth also saying: Since I started, the no-code movement has exploded. Even if I couldn't write a line of code, I'd still have been able to make progress. There's no excuse not to start building your app code-free right now with resources like [Makerpad](https://www.makerpad.co/), [Airtable](https://airtable.com/), [Webflow](https://webflow.com/) or [Bubble](https://bubble.io/) providing your infrastructure._
-
 Of course, you don't need to build it all yourself. But somehow, through either equity or cash, it needs to get built. So if you're non-technical and you can't make progress on your product solo, you'll either need to hire or pay consultants to do that for you or find a co-founder with that skillset.
+
+It's worth also saying: Since I started, the no-code movement has exploded. Even if I couldn't write a line of code, I'd still have been able to make progress. There's no excuse not to start building your app code-free right now with resources like [Makerpad](https://www.makerpad.co/), [Airtable](https://airtable.com/), [Webflow](https://webflow.com/) or [Bubble](https://bubble.io/) providing your infrastructure.
 
 If you can afford it and you're going the 'pay to get it built' route, a couple of tips:
 - I strongly recommend finding and paying a few independent experts (technical pals) to talk through your idea with you to get an understanding of complexity, before engaging engineers or third party dev shops. Going into a big buying decision without that understanding is asking to get ripped off.
@@ -197,37 +283,6 @@ If you're not raising money, start building that list now. Don't wait for a prod
 **Some reading here:**
 - [insert links]
 
-### Does it suit my current personal circumstances?
-
-This one is personal. In fact this is the situation that I've found myself in. I'd go as far as to say that this is the most important of all, and is probably the reason you're reading this in the first place.
-
-Your business could go in two directions (assuming it goes to plan):
-1. You build something small and beautiful that doesn't give you fame and doesn't change the world, but leads to a great financial outcome for you personally and a small team. You run the business without the pressure of investors, boards and public markets for as long as you want to, bringing in a fantastic salary until the day you sell for a healthy sum.
-2. You build something that takes on a big market and wins. You work incredibly hard for 5-8 years, building a team of hundreds or thousands, rub shoulders with your entrepreneurial heroes. You achieve the exit you dreamed of with a monster financial outcome that means you and your children will never want for anything ever again. Your speaker fees are very high.
-
-The likelihood of these two outcomes are both low, to be clear. Most businesses achieve neither. But the first is significantly more likely than the second. So the trade-off is: more sensible business, smaller team, less glory and less of a dent in the universe, or 'go big or go home'?
-
-Going big means a level of personal sacrifice (higher pressure), higher risk tolerance and also giving up a level of control in your own business — raise enough and your board will be able to vote you out.
-
-But the big names and the richest people in the world didn't let that scare them. They went for it, and won big.
-
-I've seen investor and 'raising the next round' pressure break people. But the alternative — I can tell you now — is far from stress free.
-
-**Some reading here:**
-- [insert links]
-
-### Am I going to need help and advice?
-
-In short: have you done this before? Have you built products, or worked in teams building products? Do you have a reasonable understanding of how software works, how people market and sell?
-
-Alongside the money, the other thing you're 'buying' with your equity is the experience and black books of your investors. An investor that can win you your first 3 enterprise sales, or find you a key hire, or give you their deep experience of a business model, is arguably worth way more.
-
-I'm completely guilty of attempting to be a 'one man army', but other people who are incentivised to help you will give you massive shortcuts. That's why not all investors are equal. Pick and land the right investment and you'll be unstoppable.
-
-The flipside of this of course, is you have more people to answer to. The time overhead of raising then updating investors takes meaningful time away from the team (typically the CEO, i.e. me!)
-
-**Some reading here:**
-- [insert links]
 
 ### Is it an existing or a new market?
 
@@ -243,7 +298,7 @@ More on our experience of this below.
 - [selling ice creams on a busy beach](https://justinjackson.ca/beach)
 - [You're not educating the market, you're delusional](https://medium.com/@thiagoko/youre-not-educating-the-market-you-re-just-delusional-35678da79607)
 
-## My experience of bootstrapping
+## 5. My experience of bootstrapping
 
 OK, now we have some basic answers, it's time to get going. This section covers some of the observations, frustrations and surprises I've experienced with bootstrapping [Progression](https://progressionapp.com).
 
@@ -349,7 +404,7 @@ We've recently become aware of some competitors joining the space. The bootstrap
 
 If we raised we'd have to tell a story of 'winning' the market. The level of growth we'd be going after would require a market maturing and us being the major player within it. Very doable and for us not frightening to say, but definitely a bigger challenge.
 
-## Conclusion
+## 6. Conclusion
 
 <br>
 <img src="/assets/img/journal/bootstrapping/the-tradeoff.jpg">
@@ -382,28 +437,8 @@ For some, that's just not enough. To change the world in some ways, you need to 
 
 Both have their place. That's why you need to pick what feels right to you. You'll be way worse at the alternative.
 
-### This doesn't need to be a final decision...
 
-There's a wonderfully long list of bootstrapped companies [raising once, late on, at crazy valuations](https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/). If your company is healthy, with a clean cap table, investors will be interested.
-
-In fact one of the current darlings of Silicon Valley, [Notion](https://notion.so), famously had to remove their company address from their website because they were getting so many cold approaches from VCs despite not being actively raising. They're now a [unicorn](https://techcrunch.com/2020/04/01/notion-hits-2-billion-valuation-in-new-raise/).
-
-Several companies have even [famously paid off their investors](https://wistia.com/learn/culture/taking-on-debt-to-grow-our-own-way) and moved to a sustainable business model from a high-growth one.
-
-Remember though that it's easier to raise later than move to a self-funded model from a raise...
-
-### ...and there's even a third option
-
-One interesting model that has started to emerge for those who do want a capital injection but without getting on the fund raising treadmill is the 'bootstrapper' or 'indie' fund. Three prominent players in this space are:
-- [Earnest Capital](https://earnestcapital.com/)
-- [Indie VC](https://www.indie.vc/)
-- [Tinyseed](https://tinyseed.com/)
-
-They're all US based, selective and have differing terms and models but broadly the idea is that they operate on term sheets that support less risky, profitable and sustainable businesses by allowing the founders to pay them back – either by buying back their shares or not taking equity in the first place. Worth reading the fine print on each (especially if in the UK, where their terms won't play nice with SEIS/EIS).
-
-While this is still in a nascent stage it does do a nice job of giving founders a way of taking money to achieve escape velocity, while not tying them in to an exit event in the future.
-
-### Comparison table
+## 7. Quick Comparison table
 
 Warning, this is reductive, and not a check-list!
 
@@ -421,7 +456,7 @@ Warning, this is reductive, and not a check-list!
 |Your market is proven, with several players already|Your market is unproven or nascent|
 
 
-## What next for us?
+## 8. What next for us?
 
 We're now at a stage where we're re-evaluating our strategy around fundraising. We don't have to raise — we're growing and profitable. But there's a big market here. The question is how big a dent we want to personally make in it.
 
@@ -431,7 +466,7 @@ The question that swirls in our minds is this one:
 
 That remains a function of market size and our go-to-market strategy but also what we personally are up for committing to. Both need to be aligned in order for us to pull the trigger on a funding round.
 
-## Recommended reading
+## 9. Recommended reading
 
 The below is a vague list of lots of the reading I've found over the last couple of years. As I track these down (I've been bad at keeping lists) I'll add more.
 
