@@ -19,9 +19,9 @@ readtime: true
   - [An acknowledgement upfront](#an-acknowledgement-upfront)
   - [Other assumptions](#other-assumptions)
 - [2. What question are we answering?](#2-what-question-are-we-answering)
-  - [Definition of terms](#definition-of-terms)
-  - [This doesn't need to be a final decision...](#this-doesnt-need-to-be-a-final-decision)
-  - [...and there's even a third option](#and-theres-even-a-third-option)
+    - [Definition of terms](#definition-of-terms)
+    - [This doesn't need to be a final decision...](#this-doesnt-need-to-be-a-final-decision)
+    - [...and there's even a third option](#and-theres-even-a-third-option)
 - [3. Questions for me, the entrepreneur](#3-questions-for-me-the-entrepreneur)
   - [What am I optimising for?](#what-am-i-optimising-for)
   - [Does it suit my own and my family's personal circumstances?](#does-it-suit-my-own-and-my-familys-personal-circumstances)
@@ -33,7 +33,8 @@ readtime: true
   - [Does the market support multiple winners?](#does-the-market-support-multiple-winners)
   - [Do I have a captive audience, or do I need to buy one?](#do-i-have-a-captive-audience-or-do-i-need-to-buy-one)
   - [Is it an existing or a new market?](#is-it-an-existing-or-a-new-market)
-- [5. My experience of bootstrapping](#5-my-experience-of-bootstrapping)
+- [5. Quick Comparison table](#5-quick-comparison-table)
+- [6. My experience of bootstrapping](#6-my-experience-of-bootstrapping)
   - [Cashflow is stressful](#cashflow-is-stressful)
   - [But we're our own bosses](#but-were-our-own-bosses)
   - [Things move slowly (or not at all)](#things-move-slowly-or-not-at-all)
@@ -44,7 +45,6 @@ readtime: true
 - [6. Conclusion](#6-conclusion)
   - [The two questions you shouldn't conflate](#the-two-questions-you-shouldnt-conflate)
   - [Don't be dogmatic](#dont-be-dogmatic)
-- [7. Quick Comparison table](#7-quick-comparison-table)
 - [8. What next for us?](#8-what-next-for-us)
 - [9. Recommended reading](#9-recommended-reading)
   - [Bootstrapping-specific](#bootstrapping-specific)
@@ -97,13 +97,15 @@ To bootstrap or not to bootstrap.
 
 Well first of all, let's define some terms.
 
-### Definition of terms
+#### Definition of terms
 
 **Bootstrapping** is when an entrepreneur (me!) starts a business with no outside capital or investments. [definition on Investopedia](https://www.investopedia.com/terms/b/bootstrapping.asp)
 
 **Raising Money** is when an entrepreneur takes outside investment, That could be from Angels, VC, public markets (via an IPO), private equity or some other means. The most common methods for a software startup are through angels and VC funds, often in the form of 'funding rounds', where multiple investors gather together under a set of agreed terms and a company valuation and put money in in exchange for equity in the business. [What's the difference between a seed round and series A?](https://www.rocketspace.com/tech-startups/how-startup-funding-rounds-differ-seed-vs.-series-a)
 
-### This doesn't need to be a final decision...
+
+
+#### This doesn't need to be a final decision...
 
 There's a wonderfully long list of bootstrapped companies [raising once, late on, at crazy valuations](https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/). If your company is healthy, with a clean cap table, investors will be interested.
 
@@ -113,7 +115,7 @@ Several companies have even [famously paid off their investors](https://wistia.c
 
 Remember though that it's easier to raise later than move to a self-funded model from a raise...
 
-### ...and there's even a third option
+#### ...and there's even a third option
 
 One interesting model that has started to emerge for those who do want a capital injection but without getting on the fund raising treadmill is the 'bootstrapper' or 'indie' fund. Three prominent players in this space are:
 - [Earnest Capital](https://earnestcapital.com/)
@@ -298,7 +300,24 @@ More on our experience of this below.
 - [selling ice creams on a busy beach](https://justinjackson.ca/beach)
 - [You're not educating the market, you're delusional](https://medium.com/@thiagoko/youre-not-educating-the-market-you-re-just-delusional-35678da79607)
 
-## 5. My experience of bootstrapping
+## 5. Quick Comparison table
+
+Warning, this is reductive, and not a check-list!
+
+|Go bootstrapped if... |Go raise money if... |
+|-|-|
+|You can get to first revenue within a few months|You need to spend longer proving out the technology or other assumptions|
+|All the technology you're using is known and buildable (by you or others)|Some or all of the technology is unknown or difficult to get right|
+|Your product is valuable to an individual, using alone with no-one else in the system|Your product requires lots of users, suppliers or connections to succeed|
+|Your market can support multiple winners|Your market is 'winner takes all' with e.g. a strong network effect|
+|You have a captive audience through your personal network or brand|You don't know your first 100 customers, or how best to get to them|
+|You like the idea of work life balance and family/personal life comes first|You want to put everything into this|
+|You have years to try and make this work|You want to get to success or failure within 18-24 months|
+|You definitely want to run your business forever|You definitely want to 'exit'|
+|You have, or don't need, particular skills and contacts that will make your business a success|You need access and advice from others in order to succeed|
+|Your market is proven, with several players already|Your market is unproven or nascent|
+
+## 6. My experience of bootstrapping
 
 OK, now we have some basic answers, it's time to get going. This section covers some of the observations, frustrations and surprises I've experienced with bootstrapping [Progression](https://progressionapp.com).
 
@@ -436,24 +455,6 @@ The fact is that most of the world's economy has been built on businesses that h
 For some, that's just not enough. To change the world in some ways, you need to take a big swing.
 
 Both have their place. That's why you need to pick what feels right to you. You'll be way worse at the alternative.
-
-
-## 7. Quick Comparison table
-
-Warning, this is reductive, and not a check-list!
-
-|Go bootstrapped if... |Go raise money if... |
-|-|-|
-|You can get to first revenue within a few months|You need to spend longer proving out the technology or other assumptions|
-|All the technology you're using is known and buildable (by you or others)|Some or all of the technology is unknown or difficult to get right|
-|Your product is valuable to an individual, using alone with no-one else in the system|Your product requires lots of users, suppliers or connections to succeed|
-|Your market can support multiple winners|Your market is 'winner takes all' with e.g. a strong network effect|
-|You have a captive audience through your personal network or brand|You don't know your first 100 customers, or how best to get to them|
-|You like the idea of work life balance and family/personal life comes first|You want to put everything into this|
-|You have years to try and make this work|You want to get to success or failure within 18-24 months|
-|You definitely want to run your business forever|You definitely want to 'exit'|
-|You have, or don't need, particular skills and contacts that will make your business a success|You need access and advice from others in order to succeed|
-|Your market is proven, with several players already|Your market is unproven or nascent|
 
 
 ## 8. What next for us?

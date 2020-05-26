@@ -60,6 +60,9 @@
   h3,
   h4 {
     margin-top: 2rem;
+    @include lg {
+      margin-top: 4rem;
+    }
   }
 
   p,
