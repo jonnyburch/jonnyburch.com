@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop qualifying your salary expectations
+title: Stop apologising for your salary expectations
 description: I know. It's really hard not to.
 date: 2020-11-26 16:42 +0000
 categories: Article
@@ -27,6 +27,8 @@ So given I have had to ask, and you have had to answer, I've been asking and you
 
 And you're consistently terrible at answering the question. As I always have been.
 
+----
+
 It starts ok, with a number usually and a bunch of umming and ahhing.
 
 But then you keep on talking. Mentioning your previous salary (I will never ask previous salary. I don't need to know. If someone asks you what your current/previous salary was, you don't need to tell them.) and how you could probably go a bit lower than that, but not much. How you understood we were a startup so could probably drop down a bit.
@@ -41,7 +43,7 @@ So what we're not doing is making this decision based on a few thousand pounds t
 
 It's the same reason we'll ask about your timelines to move and work from home expectations.
 
-We just want to know that we're in the same ballpark. We'll pay you what we believe you deserve, ideally beating whatever you said initially. If you got an offer, you're worth it.
+We just want to know that we're in the same ballpark. We'll pay you what you deserve, ideally beating whatever you said initially. If you got an offer, you're worth it.
 
 ----
 
