@@ -3,10 +3,8 @@
 Run
 `bundle install`
 `bundle exec jekyll serve`
+`bundle exec jekyll serve --watch --drafts` (shows draft posts too)
 
-Ship
-`bundle exec jekyll build`
-`surge _site/`
 
 Post
 https://github.com/jekyll/jekyll-compose

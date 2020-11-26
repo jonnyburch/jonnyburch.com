@@ -51,6 +51,13 @@
       }
     }
 
+    .subtitle {
+      font-size: $font-size-l;
+      @include md {
+        font-size: $font-size-xl;
+      }
+    }
+
     p {
       margin: 1rem 0;
       font-size: $font-size-m;
