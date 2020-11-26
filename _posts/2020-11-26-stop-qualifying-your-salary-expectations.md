@@ -4,7 +4,7 @@ title: Stop qualifying your salary expectations
 description: I know. It's really hard not to.
 date: 2020-11-26 16:42 +0000
 categories: Article
-img: /assets/img/journal/a-rare-outing.jpg
+img: /assets/img/journal/salary-expectations.jpg
 ---
 
 Dear candidate.
