@@ -131,10 +131,12 @@ exclude:
   - vendor
 
 jekyll_compose:
-    auto_open: true
-    post_default_front_matter:
+  auto_open: true
+  default_front_matter:
+    posts:
       layout:
       title:
+      description:
       date:
       categories:
-      description:
+      img:

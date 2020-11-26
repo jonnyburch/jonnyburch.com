@@ -67,6 +67,7 @@
   ol {
     margin: 1rem 0;
     font-size: $font-size-m;
+    max-width: 60ch;
 
     @include md {
       font-size: $font-size-l;
