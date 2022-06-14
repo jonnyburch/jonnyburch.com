@@ -5,6 +5,7 @@ footer {
   column-gap: 1rem;
   font-size: $font-size-m;
   width: 100%;
+  background-color: $bg-color;
 
   @include lg {
     max-width: $screen-lg-min - 6rem;

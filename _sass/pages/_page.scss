@@ -20,7 +20,7 @@
     }
 
     .section-title {
-      font-size: $font-size-xxl;
+      font-size: $font-size-xxxl;
 
       @include md {
         font-size: $font-size-xxxl;
@@ -28,12 +28,10 @@
     }
 
     .page-image {
-      max-width: 160px;
       margin-bottom: 2rem;
-      box-shadow: $deep-shadow;
-      border-radius: 500px;
-      overflow: hidden;
-
+      filter: url(#crazy);
+      display: flex;
+      flex-wrap: wrap;
 
       &.full-width {
         max-width: 100%;
@@ -41,13 +39,16 @@
 
         @include md {
           margin-bottom: 4rem;
-          max-width: 80%;
+          max-width: 50%;
         }
       }
 
       img {
-        width: 100%;
+        max-width: 25%;
         display: block;
+        @include md {
+          max-width: 160px;
+        }
       }
     }
 
@@ -78,7 +79,7 @@
     .headline {
       margin: 0.5rem 0 1rem;
       color: $main-color;
-      font-size: $font-size-xxl;
+      font-size: $font-size-xxxl;
     }
 
     .posts {
@@ -97,7 +98,6 @@
           display: block;
           border-bottom: none;
           padding: 1rem 1rem 1rem 0;
-          border-radius: $border-radius;
 
           .title {
             // @include text-gradient;
@@ -107,8 +107,8 @@
             margin: 0.4rem 0 0;
             line-height: 1.2;
             word-break: break-word;
-            border-bottom: 2px solid $hint-color;
-            font-size: $font-size-l;
+            border-bottom: 2px solid $text-color;
+            font-size: $font-size-xxl;
             @extend %transition;
 
             @include sm {

@@ -28,6 +28,7 @@ body {
 p,
 li {
   font-size: $font-size-m;
+  filter: url(#wonky);
   line-height: 1.6;
 
   @include sm {
@@ -48,6 +49,7 @@ h6 {
   font-family: $font-family;
   color: $main-color;
   font-weight: $font-weight-bold;
+  filter: url(#xerox);
 }
 
 h1 {
@@ -64,7 +66,7 @@ h1 {
   }
 
   @include lg {
-    font-size: 4rem;
+    font-size: 5rem;
   }
 }
 
@@ -78,7 +80,7 @@ h2 {
   }
 
   @include lg {
-    font-size: 3.5rem;
+    font-size: 4rem;
   }
 }
 
@@ -96,7 +98,7 @@ h3 {
   }
 
   @include lg {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 }
 
@@ -151,12 +153,12 @@ a {
   @extend %transition;
   color: $link-color;
   padding-bottom: 0;
-  border-bottom: 2px solid $hint-color;
+  border-bottom: 2px solid $link-color;
   text-decoration: none;
 
   &:hover {
-    background-color: $hint-color;
-    border-bottom: 2px solid darken($hint-color, 20%);
+    background-color: lighten($link-color, 30%);
+    border-bottom: 2px solid darken($link-color, 20%);
   }
 }
 

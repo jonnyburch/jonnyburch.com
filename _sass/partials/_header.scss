@@ -11,7 +11,6 @@
 }
 
 header {
-  background-color: mix(white, $hint-color, 70%);
   padding: 1rem;
 
   @include sm {
@@ -27,7 +26,7 @@ header {
     margin: 0 auto;
     left: 20px;
     top: 65px;
-    color: $hint-color;
+    color: $text-color;
     left: 25px;
   }
 
@@ -50,7 +49,7 @@ header {
       }
 
       a {
-        color: $hint-color;
+        color: $text-color;
         text-decoration: none;
 
         &:hover {
