@@ -304,5 +304,8 @@ DEPENDENCIES
   jekyll-redirect-from
   webrick (~> 1.8)
 
+RUBY VERSION
+   ruby 3.2.3p157
+
 BUNDLED WITH
    2.5.6
