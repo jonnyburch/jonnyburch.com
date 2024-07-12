@@ -55,6 +55,7 @@ h6 {
 h1 {
   font-size: 9vw;
   margin: $spacing-xs 0;
+  line-height: 1;
   color: $header-color;
 
   @include sm {
