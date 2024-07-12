@@ -1,4 +1,4 @@
-ruby 'RUBY_VERSION'
+ruby '3.2.3'
 source 'https://rubygems.org'
 
 # A simple Ruby Gem to bootstrap dependencies for setting up and
