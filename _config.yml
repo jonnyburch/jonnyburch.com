@@ -2,13 +2,10 @@
 title:       jonnyburch.com
 email:       jonny@jonnyburch.com
 author:      Jonny Burch
-description: "Jonny Burch"
+description: "Designer, product wonk, founder and reader of internets"
 baseurl:     ""
 url:         "https://jonnyburch.com"
 date_format: "%b %-d, %Y"
-header_pages:
- - about.md
- - contact.html
 
 # Google services
 google_verification:
