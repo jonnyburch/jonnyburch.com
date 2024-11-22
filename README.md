@@ -3,7 +3,8 @@
 Run
 `bundle install`
 `bundle exec jekyll serve`
-`bundle exec jekyll serve --watch --drafts` (shows draft posts too)
+`bundle exec jekyll serve --watch --drafts` 
+(shows draft posts too)
 
 
 Post

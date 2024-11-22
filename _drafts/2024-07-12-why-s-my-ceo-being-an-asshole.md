@@ -4,11 +4,25 @@ title: Why's my CEO being an asshole?
 date: 2024-07-11 01:06 +0100
 categories: Article
 img:
-description: It's complicated
+description: They're probably staring into the abyss
 ---
 Over the last decade I've been fortunate enough to be employee number 1 at a startup that went on to a level of scale as well as being CEO of a startup that has fundraised, hired and gone through the painful birthing phase.
 
-As I've gone along, my understanding of the founding journey and the mindset of a founder has evolved.
+As I've gone along, my understanding of the founding journey and the mindset of a founder has evolved. But I do know that being in an early stage company being managed by the CEO, whether as a co-founder or an early employee, can be an incredibly challenging job.
+
+So this article attempts to find some calming words for anyone in that situation, while also exploring the founder psychology that creates such chaos.
+
+#### What might being an early employee feel like?
+
+Symptoms may include things like:
+- You attempting to mind read the 'right answer' for fear of everything changing last minute
+- Double standards of you having to justify every decision you make, while they can seemingly change their mind on a whim
+- Lack of communication around decision-making, ghosting catch-ups, being distracted answering emails while on a call with you
+- Poorly structured feedback on work you've done
+- 'The Most Important Thing' being completely unimportant next week
+- A complete lack of understanding or care for how long things take to do well. Frustration that something hasn't happened within hours, or minutes
+
+The following doesn't try to excuse any of this behaviour. But it does try to explain it, somewhat?
 
 #### Founding a startup is an extreme sport.
 
@@ -22,7 +36,7 @@ However much we focus on the billionaire founders, for most founders it's not ab
 
 Unfortunately the screw loose that does create most founders is 'something to prove'.
 
-Whatever the outcome they dream of, whether it's riches, conference keynotes, launching an investing career, or plain old 'changing the world', I'm almost certain that for most there's a person or a formative experience that they can focus on to dig deeper and prove wrong.
+Whatever the outcome they dream of, whether it's 'fuck you' money, conference keynotes, launching an investing career, or plain old 'changing the world', I'm almost certain that for most there's a person or a formative experience that's forcing them to dig deeper and run at walls (or [eat glass and stare into the abyss](https://www.youtube.com/watch?v=wVmGSMWkS9c)).
 
 That makes good pioneer founders, even on day one before they hired you or brought you on as a co-founder, irrational beasts.
 
